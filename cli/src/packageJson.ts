@@ -1,0 +1,102 @@
+import type { File, ResolvedData } from './types.js'
+import { kebabCase } from '@pengzhanbo/utils'
+import { execaCommand } from 'execa'
+import { Mode } from './constants.js'
+import { getDependenciesVersion, readJsonFile, resolve } from './utils/index.js'
+
+export async function createPackageJson(
+  mode: Mode,
+  pkg: Record<string, any>,
+  {
+    packageManager,
+    docsDir,
+    siteName,
+    siteDescription,
+    bundler,
+    injectNpmScripts,
+  }: ResolvedData,
+): Promise<File> {
+  if (mode === Mode.create) {
+    pkg.name = kebabCase(siteName)
+    pkg.type = 'module'
+    pkg.version = '1.0.0'
+    pkg.description = siteDescription
+
+    if (packageManager !== 'npm') {
+      const version = await getPackageManagerVersion(packageManager)
+      if (version) {
+        pkg.packageManager = `${packageManager}@${version}`
+      }
+    }
+
+    const userInfo = await getUserInfo()
+    if (userInfo) {
+      pkg.author = userInfo.username + (userInfo.email ? ` <${userInfo.email}>` : '')
+    }
+    pkg.license = 'MIT'
+    pkg.engines = { node: '^18.20.0 || >=20.0.0' }
+  }
+
+  if (injectNpmScripts) {
+    pkg.scripts ??= {}
+    pkg.scripts = {
+      ...pkg.scripts,
+      'docs:dev': `vuepress dev ${docsDir}`,
+      'docs:dev-clean': `vuepress dev ${docsDir} --clean-cache --clean-temp`,
+      'docs:build': `vuepress build ${docsDir} --clean-cache --clean-temp`,
+      'docs:preview': `http-server ${docsDir}/.vuepress/dist`,
+    }
+    if (mode === Mode.create) {
+      pkg.scripts['vp-update'] = `${packageManager === 'npm' ? 'npx' : `${packageManager} dlx`} vp-update`
+    }
+  }
+
+  pkg.devDependencies ??= {}
+
+  const context = (await readJsonFile(resolve('package.json')))!
+  const meta = context['theme-plume']
+  pkg.devDependencies.vuepress = `${meta.vuepress}`
+  pkg.devDependencies['vuepress-theme-plume'] = `${context.version}`
+  pkg.devDependencies[`@vuepress/bundler-${bundler}`] = `${meta.vuepress}`
+  pkg.devDependencies['http-server'] = '^14.1.1'
+
+  const deps: string[] = []
+  if (!pkg.dependencies?.vue && !pkg.devDependencies.vue)
+    deps.push('vue')
+  if (bundler === 'webpack' && !pkg.dependencies?.['sass-loader'] && !pkg.devDependencies['sass-loader'])
+    deps.push('sass-loader')
+
+  if (!pkg.dependencies?.['sass-embedded'] && !pkg.devDependencies['sass-embedded'])
+    deps.push('sass-embedded')
+
+  const dv = await getDependenciesVersion(deps)
+
+  for (const [d, v] of Object.entries(dv))
+    pkg.devDependencies[d] = `^${v}`
+
+  return {
+    filepath: 'package.json',
+    content: JSON.stringify(pkg, null, 2),
+  }
+}
+
+async function getUserInfo() {
+  try {
+    const { stdout: username } = await execaCommand('git config --global user.name')
+    const { stdout: email } = await execaCommand('git config --global user.email')
+    return { username, email }
+  }
+  catch {
+    return null
+  }
+}
+
+async function getPackageManagerVersion(pkg: string) {
+  try {
+    const { stdout } = await execaCommand(`${pkg} -v`)
+    return stdout
+  }
+  catch {
+    return null
+  }
+}

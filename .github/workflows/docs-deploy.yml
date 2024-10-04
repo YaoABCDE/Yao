@@ -36,7 +36,9 @@ jobs:
 
       - name: Deploy docs
         uses: JamesIves/github-pages-deploy-action@v4
+        env:
+          GITHUB_TOKEN: ${{secrets.Yao_ACCESS_TOKEN}}
         with:
-          branch: gh-pages
+          branch: Yao_pages
           folder: docs/.vuepress/dist
           single-commit: true

@@ -50,5 +50,5 @@ jobs:
           GITHUB_TOKEN: ${{secrets.ACCESS_TOKEN}} #Yao：项目密钥
         with:
           # 部署文档
-          branch: Yao_pages //Yao：开源项目分支名 注意大小写
+          branch: Yao_pages #Yao：开源项目分支名 注意大小写
           folder: src/.vuepress/dist

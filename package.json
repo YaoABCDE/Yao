@@ -7,11 +7,7 @@
   "scripts": {
     "build": "vuepress-vite build src",
     "dev": "vuepress-vite dev src --clean-cache",
-    "update-package": "pnpm dlx vp-update",
-    "sync": "./_shell/git-sync.sh",
-    "deploy": "./_shell/deploy.sh",
-    "open": "./_shell/open.sh",
-    "weekly": "node ./_shell/weekly.js"
+    "update-package": "pnpm dlx vp-update"
   },
   "devDependencies": {
     "@vue/repl": "^4.4.2",
@@ -24,6 +20,7 @@
     "axios": "^1.7.7",
     "dayjs": "^1.11.13",
     "store": "^2.0.12",
+
     "vue-router": "^4.4.5",
     "vuepress-plugin-search-pro": "2.0.0-rc.57",
     "@vuepress/bundler-vite": "2.0.0-rc.17",

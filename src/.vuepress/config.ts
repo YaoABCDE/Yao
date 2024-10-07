@@ -1,25 +1,36 @@
-import { defineUserConfig } from "vuepress";
-
-import theme from "./theme.js";
+import { defineUserConfig } from 'vuepress';
+import theme from './theme.js';
+import { getDirname, path } from 'vuepress/utils';
+const __dirname = getDirname(import.meta.url);
+const SrcPath = path.resolve(__dirname, '../');
 
 export default defineUserConfig({
-  base: "/Yao/",
+  alias: {
+    '@components': path.resolve(__dirname, 'components'),
+    '@src': SrcPath,
+  },
+
+  dest: 'dist',
+  host: '0.0.0.0',
+  port: 9451,
+  base: '/Yao/',
+  temp: '.vscode/.vp-temp',
+  cache: '.vscode/.vp-cache',
 
   locales: {
-    "/": {
-      lang: "en-US",
-      title: "Blog Demo",
-      description: "A blog demo for vuepress-theme-hope",
+    '/': {
+      lang: 'zh-CN',
+      title: '墨七',
+      description: '墨七 - 简单快乐，理应如此。',
     },
-    "/zh/": {
-      lang: "zh-CN",
-      title: "博客演示",
-      description: "vuepress-theme-hope 的博客演示",
+    '/en/': {
+      lang: 'en-US',
+      title: 'Mo7',
+      description: 'Mo7 - Simple and happy, as it should be.',
     },
   },
 
   theme,
-
   // Enable it with pwa
-   //shouldPrefetch: true,
+  shouldPrefetch: false,
 });

@@ -1,52 +1,26 @@
-import { navbar } from "vuepress-theme-hope";
+import { navbar } from 'vuepress-theme-hope';
 
 export const zhNavbar = navbar([
-  "/zh/",
-  "/zh/demo/",
   {
-    text: "博文",
-    icon: "pen-to-square",
-    prefix: "/zh/posts/",
+    text: '总览',
+    icon: 'sort',
+    children: ['/posts/catalog.html', '/developer/', '/tutorial/', '/leetcode/', '/tips/', '/tools/'],
+  },
+  {
+    text: '分类',
+    icon: 'jiansuo',
     children: [
-      {
-        text: "苹果",
-        icon: "pen-to-square",
-        prefix: "apple/",
-        children: [
-          { text: "苹果1", icon: "pen-to-square", link: "1" },
-          { text: "苹果2", icon: "pen-to-square", link: "2" },
-          "3",
-          "4",
-        ],
-      },
-      {
-        text: "香蕉",
-        icon: "pen-to-square",
-        prefix: "banana/",
-        children: [
-          {
-            text: "香蕉 1",
-            icon: "pen-to-square",
-            link: "1",
-          },
-          {
-            text: "香蕉 2",
-            icon: "pen-to-square",
-            link: "2",
-          },
-          "3",
-          "4",
-        ],
-      },
-      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
-      { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
+      { text: '全部', icon: 'list', link: '/article/' },
+      { text: '分类', icon: 'category', link: '/category/' },
+      { text: '标签', icon: 'tag', link: '/tag/' },
+      { text: '时间轴', icon: 'time', link: '/timeline/' },
     ],
   },
   {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    text: '收藏',
+    icon: 'start',
+    link: '/favorite',
+    children: ['favorite/essays/', '/favorite/links/', '/favorite/movies/', '/favorite/music/', '/favorite/photos/'],
   },
+  '/about/',
 ]);

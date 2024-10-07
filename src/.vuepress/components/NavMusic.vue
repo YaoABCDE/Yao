@@ -116,6 +116,7 @@ const LoadMusicList = (callback) => {
   axios({
     method: 'get',
     url: '//file.mo7.cc/music/list.json',
+    //url: 'file://./YaoMusic/musiclist.json',
     params: {},
   }).then((response) => {
     var listData = response.data;

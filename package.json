@@ -7,7 +7,11 @@
   "scripts": {
     "build": "vuepress-vite build src",
     "dev": "vuepress-vite dev src --clean-cache",
-    "update-package": "pnpm dlx vp-update"
+    "update-package": "pnpm dlx vp-update",
+    "sync": "./_shell/git-sync.sh",
+    "deploy": "./_shell/deploy.sh",
+    "open": "./_shell/open.sh",
+    "weekly": "node ./_shell/weekly.js"
   },
   "devDependencies": {
     "@vue/repl": "^4.4.2",

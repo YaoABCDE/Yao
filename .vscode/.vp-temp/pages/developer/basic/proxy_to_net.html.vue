@@ -65,7 +65,7 @@
 <h2 id="科学上网" tabindex="-1"><a class="header-anchor" href="#科学上网"><span>科学上网</span></a></h2>
 <p>如果你想要使用 <code v-pre>Google</code>、 <code v-pre>ChartGPT</code> 或者想要获取国内外一手资讯等，还是得了解一下 <strong>科学上网</strong> 这件事情的。</p>
 <p><a href="https://blog.tsingjyujing.com/spam/gfw-history" target="_blank" rel="noopener noreferrer">中国网络防火长城简史</a></p>
-<p><RouteLink to="/tutorial/proxy_wall_ready.html">科学上网与本地代理教程</RouteLink></p>
+<p><a href="/tutorial/proxy_wall_ready.html" target="_blank" rel="noopener noreferrer">科学上网与本地代理教程</a></p>
 <blockquote>
 <p>请一定要做一个遵纪守法的好公民</p>
 </blockquote>

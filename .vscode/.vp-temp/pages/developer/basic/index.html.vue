@@ -13,7 +13,7 @@
 <h2 id="本教程包含内容" tabindex="-1"><a class="header-anchor" href="#本教程包含内容"><span>本教程包含内容</span></a></h2>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <RouteLink to="/developer/basic/proxy_to_net.html">科学上网</RouteLink>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <h3 id="一、操作系统的基本知识" tabindex="-1"><a class="header-anchor" href="#一、操作系统的基本知识"><span>一、操作系统的基本知识</span></a></h3>
 <p>操作系统简介:<br>

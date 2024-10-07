@@ -1,7 +1,7 @@
 <template><div><h1 id="_2-路径和文件" tabindex="-1"><a class="header-anchor" href="#_2-路径和文件"><span>2.路径和文件</span></a></h1>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <RouteLink to="/developer/basic/proxy_to_net.html">科学上网</RouteLink>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <p><a href="https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%84_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)" target="_blank" rel="noopener noreferrer">路径-维基百科</a></p>
 <p>文件路径是用于描述文件系统资源的一个文本标识。 文件系统是对文件存储设备的空间进行组织和分配，负责文件存储并对存入的文件进行保护和检索的系统。 文件存放在外部存储器中的某些位置上，经由文件系统管理后，被系统以文件路径标识，系统可以通过文件路径检索到对应文件。</p>

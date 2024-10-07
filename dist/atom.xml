@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://blog.mo7.cc/atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://blog.mo7.cc/Yao/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-  <id>https://blog.mo7.cc/</id>
+  <id>https://blog.mo7.cc/Yao/</id>
   <title>墨七</title>
   <subtitle>墨七 - 简单快乐，理应如此。</subtitle>
-  <icon>https://blog.mo7.cc/pwa/512.png</icon>
-  <logo>https://blog.mo7.cc/pwa/72.png</logo>
-  <updated>2024-10-07T16:38:12.076Z</updated>
+  <icon>https://blog.mo7.cc/Yao/pwa/512.png</icon>
+  <logo>https://blog.mo7.cc/Yao/pwa/72.png</logo>
+  <updated>2024-10-07T16:57:57.523Z</updated>
   <generator>@vuepress/plugin-feed</generator>
-  <link rel="self" href="https://blog.mo7.cc/atom.xml"/>
-  <link rel="alternate" href="https://blog.mo7.cc/"/>
+  <link rel="self" href="https://blog.mo7.cc/Yao/atom.xml"/>
+  <link rel="alternate" href="https://blog.mo7.cc/Yao/"/>
   <category term="developer"/>
   <category term="leetcode"/>
   <category term="博文"/>
@@ -22,118 +22,10 @@
   <category term="博客搭建教程"/>
   <category term="Go"/>
   <entry>
-    <title type="text">收藏</title>
-    <id>https://blog.mo7.cc/favorite/</id>
-    <link href="https://blog.mo7.cc/favorite/"/>
-    <updated>2024-10-07T16:38:12.083Z</updated>
-    <summary type="html"><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">有些记忆，弥足珍贵</p>
-</div>
-<hr>
-]]></summary>
-    <content type="html"><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">有些记忆，弥足珍贵</p>
-</div>
-]]></content>
-    <published>1993-02-13T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">随笔</title>
-    <id>https://blog.mo7.cc/favorite/essays/</id>
-    <link href="https://blog.mo7.cc/favorite/essays/"/>
-    <updated>2024-10-07T16:38:12.095Z</updated>
-    <summary type="html"><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">日常随便写一点东西</p>
-</div>
-<hr>
-]]></summary>
-    <content type="html"><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">日常随便写一点东西</p>
-</div>
-]]></content>
-    <published>1993-02-13T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">链接</title>
-    <id>https://blog.mo7.cc/favorite/links/</id>
-    <link href="https://blog.mo7.cc/favorite/links/"/>
-    <updated>2024-10-07T16:38:12.098Z</updated>
-    <summary type="html"><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">好的东西应该共享</p>
-</div>
-<hr>
-]]></summary>
-    <content type="html"><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">好的东西应该共享</p>
-</div>
-]]></content>
-    <published>1993-02-13T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">影视</title>
-    <id>https://blog.mo7.cc/favorite/movies/</id>
-    <link href="https://blog.mo7.cc/favorite/movies/"/>
-    <updated>2024-10-07T16:38:12.100Z</updated>
-    <summary type="html"><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">『 生活就像一盒巧克力 』</p>
-</div>
-<hr>
-]]></summary>
-    <content type="html"><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">『 生活就像一盒巧克力 』</p>
-</div>
-]]></content>
-    <published>1993-02-13T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">音乐</title>
-    <id>https://blog.mo7.cc/favorite/music/</id>
-    <link href="https://blog.mo7.cc/favorite/music/"/>
-    <updated>2024-10-07T16:38:12.107Z</updated>
-    <summary type="html"><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">单曲循环一整天</p>
-</div>
-<hr>
-]]></summary>
-    <content type="html"><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">单曲循环一整天</p>
-</div>
-]]></content>
-    <published>1993-02-13T00:00:00.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">相册</title>
-    <id>https://blog.mo7.cc/favorite/photos/</id>
-    <link href="https://blog.mo7.cc/favorite/photos/"/>
-    <updated>2024-10-07T16:38:12.110Z</updated>
-    <summary type="html"><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">唯愿此景与汝共</p>
-</div>
-<hr>
-]]></summary>
-    <content type="html"><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">唯愿此景与汝共</p>
-</div>
-]]></content>
-    <published>1993-02-13T00:00:00.000Z</published>
-  </entry>
-  <entry>
     <title type="text">关于</title>
-    <id>https://blog.mo7.cc/about/</id>
-    <link href="https://blog.mo7.cc/about/"/>
-    <updated>2024-10-07T16:38:12.115Z</updated>
+    <id>https://blog.mo7.cc/Yao/about/</id>
+    <link href="https://blog.mo7.cc/Yao/about/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">关于本站</p>
@@ -145,12 +37,13 @@
 <p class="hint-container-title">关于本站</p>
 </div>
 ]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">关于我</title>
-    <id>https://blog.mo7.cc/about/me.html</id>
-    <link href="https://blog.mo7.cc/about/me.html"/>
-    <updated>2024-10-07T16:38:12.123Z</updated>
+    <id>https://blog.mo7.cc/Yao/about/me.html</id>
+    <link href="https://blog.mo7.cc/Yao/about/me.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>墨七(<em>Mo7</em>)</h2>
 <p>我叫『墨七』，一名非典型程序员。热爱编程，喜欢拥抱新技术，妄图改变世界，企图让世界因我而美好。</p>
@@ -182,18 +75,19 @@
 <p>本站采用<br>
 <a href="https://v2.vuepress.vuejs.org" target="_blank" rel="noopener noreferrer">VuePress</a> 搭建，<br>
 基于主题 <a href="https://theme-hope.vuejs.press" target="_blank" rel="noopener noreferrer">ThemeHope</a> 由个人魔改而成。</p>
-<p>关于更多信息可阅读 <a href="/about/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99.html" target="_blank">关于本站</a></p>
+<p>关于更多信息可阅读 <a href="/Yao/about/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99.html" target="_blank">关于本站</a></p>
 <p>在日常的工作和学习当中我积累了大量的经验、知识和技巧，他们被我用 md 记录了下来存储在 Github 的私人仓库之上。</p>
 <figure><figcaption></figcaption></figure>
 <p>并且还有一些想法，想要表达的思想和观点等。我不太愿意将这些东西公布在各种公众平台之上，因为当我的知识变成了数据，那么这些数据的安全和版权应当由我自己负责，</p>
 <p>写博客，并不仅仅只是为了表达，更是一种<code>记忆</code>和<code>修身养性</code>的方式，让自己浮躁的生活跟心情沉淀下来的一种手段。我希望过个七年八年的，再回首打开这个站点的时候，它能变成一种财富和寄托。</p>
 ]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">关于本站</title>
-    <id>https://blog.mo7.cc/about/website.html</id>
-    <link href="https://blog.mo7.cc/about/website.html"/>
-    <updated>2024-10-07T16:38:12.130Z</updated>
+    <id>https://blog.mo7.cc/Yao/about/website.html</id>
+    <link href="https://blog.mo7.cc/Yao/about/website.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>前言</h2>
 <p>我基于 <a href="https://theme-hope.vuejs.press" target="_blank" rel="noopener noreferrer">ThemeHope</a> 这款主题做了一些魔改改，包括样式以及功能。每一处修改均以插件的形式进行了封装，现在已经开源并发布。</p>
@@ -206,7 +100,7 @@
 <p>注: 本站并非开源，但是我写了一个同步脚本，会定期将博客的源码同步至上述公开仓库中。通过上述仓库中的源码可以顺畅编译出本博客的全部公开内容。</p>
 </blockquote>
 <blockquote>
-<p>本博客搭建的技术细节可以参考: <a href="/tutorial/vuepress-hope/" target="_blank">本博客搭建指南</a></p>
+<p>本博客搭建的技术细节可以参考: <a href="/Yao/tutorial/vuepress-hope/" target="_blank">本博客搭建指南</a></p>
 </blockquote>
 <h3>顶栏和音乐播放器</h3>
 <p>这是顶部的一些下拉菜单，其中画板下拉菜单可以更改主题和全屏浏览。</p>
@@ -238,7 +132,7 @@
 <li>如果你想让数据流动起来，你需要掌握一门服务器编程语言和最基本的数据库操作使用方法。</li>
 </ol>
 <blockquote>
-<p>查看<a href="/favorite/links/document.html" target="_blank">本站用到的相关技术</a>，除此之外，网站的运营还涉及到 SEO ，流量推广，PWA 等等知识。如果你在中国大陆，想让自己的站点稳定的运行，还得了解基本的法律法规和管理条例以及备案技巧。</p>
+<p>查看<a href="/Yao/favorite/links/document.html" target="_blank">本站用到的相关技术</a>，除此之外，网站的运营还涉及到 SEO ，流量推广，PWA 等等知识。如果你在中国大陆，想让自己的站点稳定的运行，还得了解基本的法律法规和管理条例以及备案技巧。</p>
 </blockquote>
 <p>如果你想让它变得内容变得更加丰富，界面变得更加生动，访问速度更快，或者功能性更强。<br>
 你还得深入掌握更多更加专业的知识或者技巧。如果想要让站点能够与时俱进，得保证技术的更迭和软件的维护。随着功能越来越多，所需要的各种专业知识也将更多。</p>
@@ -268,12 +162,13 @@
 <p>于是基于 Hope 主题进行了一些细微的调教，自己写了一些功能模块，才有了本站当前的模样。</p>
 <p>在这里感谢 <a href="https://mrhope.site" target="_blank" rel="noopener noreferrer">𝓜𝓻.𝓗𝓸𝓹𝓮</a> 为我们带来这么棒的主题及其配套的插件。</p>
 ]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">留言板</title>
-    <id>https://blog.mo7.cc/about/guestbook.html</id>
-    <link href="https://blog.mo7.cc/about/guestbook.html"/>
-    <updated>2024-10-07T16:38:12.149Z</updated>
+    <id>https://blog.mo7.cc/Yao/about/guestbook.html</id>
+    <link href="https://blog.mo7.cc/Yao/about/guestbook.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">™</p>
@@ -301,23 +196,43 @@
 </div>
 </div>
 ]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">开发者</title>
-    <id>https://blog.mo7.cc/developer/</id>
-    <link href="https://blog.mo7.cc/developer/"/>
-    <updated>2024-10-07T16:38:12.155Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/</id>
+    <link href="https://blog.mo7.cc/Yao/developer/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 ]]></summary>
     <content type="html"><![CDATA[
 ]]></content>
     <category term="developer"/>
+    <published>2024-10-07T14:29:24.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">收藏</title>
+    <id>https://blog.mo7.cc/Yao/favorite/</id>
+    <link href="https://blog.mo7.cc/Yao/favorite/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
+    <summary type="html"><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">有些记忆，弥足珍贵</p>
+</div>
+<hr>
+]]></summary>
+    <content type="html"><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">有些记忆，弥足珍贵</p>
+</div>
+]]></content>
+    <published>1993-02-13T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">LeetCode</title>
-    <id>https://blog.mo7.cc/leetcode/</id>
-    <link href="https://blog.mo7.cc/leetcode/"/>
-    <updated>2024-10-07T16:38:12.157Z</updated>
+    <id>https://blog.mo7.cc/Yao/leetcode/</id>
+    <link href="https://blog.mo7.cc/Yao/leetcode/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">LeetCode</p>
@@ -338,12 +253,13 @@
 </div>
 ]]></content>
     <category term="leetcode"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">站点地图</title>
-    <id>https://blog.mo7.cc/posts/catalog.html</id>
-    <link href="https://blog.mo7.cc/posts/catalog.html"/>
-    <updated>2024-10-07T16:38:12.171Z</updated>
+    <id>https://blog.mo7.cc/Yao/posts/catalog.html</id>
+    <link href="https://blog.mo7.cc/Yao/posts/catalog.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>本站全部文章索引</h2>
 ]]></summary>
@@ -351,12 +267,13 @@
 <h2>本站全部文章索引</h2>
 ]]></content>
     <category term="博文"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">墨七的书单</title>
-    <id>https://blog.mo7.cc/posts/book_list.html</id>
-    <link href="https://blog.mo7.cc/posts/book_list.html"/>
-    <updated>2024-10-07T16:38:12.173Z</updated>
+    <id>https://blog.mo7.cc/Yao/posts/book_list.html</id>
+    <link href="https://blog.mo7.cc/Yao/posts/book_list.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>《 行为科学统计 》</h2>
 <figure><figcaption></figcaption></figure>
@@ -406,12 +323,13 @@
 </blockquote>
 ]]></content>
     <category term="博文"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">OtterTrade 文档站</title>
-    <id>https://blog.mo7.cc/posts/ot-doc_ready.html</id>
-    <link href="https://blog.mo7.cc/posts/ot-doc_ready.html"/>
-    <updated>2024-10-07T16:38:12.177Z</updated>
+    <id>https://blog.mo7.cc/Yao/posts/ot-doc_ready.html</id>
+    <link href="https://blog.mo7.cc/Yao/posts/ot-doc_ready.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p><strong>起源</strong></p>
 <div class="hint-container info">
@@ -504,12 +422,13 @@
 <figure><figcaption>在github中提交改动</figcaption></figure>
 ]]></content>
     <category term="教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">博文</title>
-    <id>https://blog.mo7.cc/posts/</id>
-    <link href="https://blog.mo7.cc/posts/"/>
-    <updated>2024-10-07T16:38:12.245Z</updated>
+    <id>https://blog.mo7.cc/Yao/posts/</id>
+    <link href="https://blog.mo7.cc/Yao/posts/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">记录一些所思所想</p>
@@ -522,12 +441,13 @@
 </div>
 ]]></content>
     <category term="博文"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">技巧分享</title>
-    <id>https://blog.mo7.cc/tips/</id>
-    <link href="https://blog.mo7.cc/tips/"/>
-    <updated>2024-10-07T16:38:12.249Z</updated>
+    <id>https://blog.mo7.cc/Yao/tips/</id>
+    <link href="https://blog.mo7.cc/Yao/tips/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">有些问题的解决办法很巧妙</p>
@@ -540,12 +460,13 @@
 </div>
 ]]></content>
     <category term="技巧"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">小技巧</title>
-    <id>https://blog.mo7.cc/tips/xiaojiqiao.html</id>
-    <link href="https://blog.mo7.cc/tips/xiaojiqiao.html"/>
-    <updated>2024-10-07T16:38:12.270Z</updated>
+    <id>https://blog.mo7.cc/Yao/tips/xiaojiqiao.html</id>
+    <link href="https://blog.mo7.cc/Yao/tips/xiaojiqiao.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -559,12 +480,13 @@
 </div>
 ]]></content>
     <category term="技巧"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">工具分享</title>
-    <id>https://blog.mo7.cc/tools/</id>
-    <link href="https://blog.mo7.cc/tools/"/>
-    <updated>2024-10-07T16:38:12.277Z</updated>
+    <id>https://blog.mo7.cc/Yao/tools/</id>
+    <link href="https://blog.mo7.cc/Yao/tools/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">你只是缺一件趁手的兵器而已</p>
@@ -577,12 +499,13 @@
 </div>
 ]]></content>
     <category term="工具"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">uTools</title>
-    <id>https://blog.mo7.cc/tools/uTools.html</id>
-    <link href="https://blog.mo7.cc/tools/uTools.html"/>
-    <updated>2024-10-07T16:38:12.292Z</updated>
+    <id>https://blog.mo7.cc/Yao/tools/uTools.html</id>
+    <link href="https://blog.mo7.cc/Yao/tools/uTools.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">相见恨晚的 PC 端工具集</p>
@@ -639,12 +562,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <h2>软件的使用演示</h2>
 ]]></content>
     <category term="工具"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">1.科学上网与本地代理教程</title>
-    <id>https://blog.mo7.cc/tutorial/proxy_wall_ready.html</id>
-    <link href="https://blog.mo7.cc/tutorial/proxy_wall_ready.html"/>
-    <updated>2024-10-07T16:38:12.299Z</updated>
+    <id>https://blog.mo7.cc/Yao/tutorial/proxy_wall_ready.html</id>
+    <link href="https://blog.mo7.cc/Yao/tutorial/proxy_wall_ready.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>为了学习目的，诸如国外的一些优秀网站访问速度会很慢，甚至是无法访问，导致一些依赖的下载和软件的更新无法完成，资料都无法查阅。<br>
 这个时候可能需要一些使用一些代理手段。</p>
@@ -780,12 +704,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">rm</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -fr</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> ~/.V2rayU/</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
     <category term="教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">2.WSL 子系统的介绍与安装</title>
-    <id>https://blog.mo7.cc/tutorial/wsl_ready.html</id>
-    <link href="https://blog.mo7.cc/tutorial/wsl_ready.html"/>
-    <updated>2024-10-07T16:38:12.345Z</updated>
+    <id>https://blog.mo7.cc/Yao/tutorial/wsl_ready.html</id>
+    <link href="https://blog.mo7.cc/Yao/tutorial/wsl_ready.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>官方说明：<br>
 <a href="https://learn.microsoft.com/zh-cn/windows/wsl/about" target="_blank" rel="noopener noreferrer">https://learn.microsoft.com/zh-cn/windows/wsl/about</a></p>
@@ -856,12 +781,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 </blockquote>
 ]]></content>
     <category term="教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">3.WSL 配置系统代理</title>
-    <id>https://blog.mo7.cc/tutorial/wsl_proxy.html</id>
-    <link href="https://blog.mo7.cc/tutorial/wsl_proxy.html"/>
-    <updated>2024-10-07T16:38:12.358Z</updated>
+    <id>https://blog.mo7.cc/Yao/tutorial/wsl_proxy.html</id>
+    <link href="https://blog.mo7.cc/Yao/tutorial/wsl_proxy.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>一般情况下，WSL2 的 IP 地址每次启动时都会改变，如果想要在 wsl2 中使用 Windows 系统的代理来进行<code>科学上网</code>，可以使用如下代码。</p>
 <p>进入 WSL 在 <code>~/.bashrc</code> 文件中添加如下指令</p>
@@ -895,20 +821,19 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 </ol>
 ]]></content>
     <category term="教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">4.ssh 跳板机</title>
-    <id>https://blog.mo7.cc/tutorial/ssh_jump.html</id>
-    <link href="https://blog.mo7.cc/tutorial/ssh_jump.html"/>
-    <updated>2024-10-07T16:38:12.376Z</updated>
+    <id>https://blog.mo7.cc/Yao/tutorial/ssh_jump.html</id>
+    <link href="https://blog.mo7.cc/Yao/tutorial/ssh_jump.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
-<p>前面讲过 <a href="/tutorial/proxy_wall_ready.html" target="_blank">科学上网与本地代理</a>，但是那只是在配置 <code>http_proxy</code> ，只适用于 <code>http</code> 请求。</p>
+<p>前面讲过 <a href="/tutorial/proxy_wall_ready.html" target="_blank" rel="noopener noreferrer">科学上网与本地代理</a>，但是那只是在配置 <code>http_proxy</code> ，只适用于 <code>http</code> 请求。</p>
 <p><code>http</code> 请求并非网络的全部，有的时候可能还会用到 <code>ssh 协议</code>，比如 Github，但是 Github 的访问又不那么流畅，怎么办呢？</p>
-<h2>什么是 <code>SSH</code></h2>
-<p>什么是 SSH：<br>
-<a href="https://info.support.huawei.com/info-finder/encyclopedia/zh/SSH.html" target="_blank" rel="noopener noreferrer">https://info.support.huawei.com/info-finder/encyclopedia/zh/SSH.html</a></p>]]></summary>
+<h2>什么是 <code>SSH</code></h2>]]></summary>
     <content type="html"><![CDATA[
-<p>前面讲过 <a href="/tutorial/proxy_wall_ready.html" target="_blank">科学上网与本地代理</a>，但是那只是在配置 <code>http_proxy</code> ，只适用于 <code>http</code> 请求。</p>
+<p>前面讲过 <a href="/tutorial/proxy_wall_ready.html" target="_blank" rel="noopener noreferrer">科学上网与本地代理</a>，但是那只是在配置 <code>http_proxy</code> ，只适用于 <code>http</code> 请求。</p>
 <p><code>http</code> 请求并非网络的全部，有的时候可能还会用到 <code>ssh 协议</code>，比如 Github，但是 Github 的访问又不那么流畅，怎么办呢？</p>
 <h2>什么是 <code>SSH</code></h2>
 <p>什么是 SSH：<br>
@@ -921,12 +846,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <div class="language-txt line-numbers-mode" data-highlighter="shiki" data-ext="txt" data-title="txt" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>+</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div>]]></content>
     <category term="教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">教程</title>
-    <id>https://blog.mo7.cc/tutorial/</id>
-    <link href="https://blog.mo7.cc/tutorial/"/>
-    <updated>2024-10-07T16:38:12.393Z</updated>
+    <id>https://blog.mo7.cc/Yao/tutorial/</id>
+    <link href="https://blog.mo7.cc/Yao/tutorial/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">有些东西其实很简单</p>
@@ -939,16 +865,17 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 </div>
 ]]></content>
     <category term="教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">1.计算机和操作系统</title>
-    <id>https://blog.mo7.cc/developer/basic/computer_and_os.html</id>
-    <link href="https://blog.mo7.cc/developer/basic/computer_and_os.html"/>
-    <updated>2024-10-07T16:38:12.395Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/basic/computer_and_os.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/basic/computer_and_os.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank">科学上网</a>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <h2>一、计算机的基本组成和工作原理</h2>
 <p>先来一段计算机导论节选：</p>
@@ -956,19 +883,20 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     <content type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank">科学上网</a>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <h2>一、计算机的基本组成和工作原理</h2>
 <p>先来一段计算机导论节选：</p>
 ]]></content>
     <category term="developer"/>
     <category term="基础"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">10.开源的那些事</title>
-    <id>https://blog.mo7.cc/developer/basic/open_source.html</id>
-    <link href="https://blog.mo7.cc/developer/basic/open_source.html"/>
-    <updated>2024-10-07T16:38:12.400Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/basic/open_source.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/basic/open_source.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>话不多说，直接看视频</p>
 <hr>
@@ -979,12 +907,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 ]]></content>
     <category term="developer"/>
     <category term="基础"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">11.一套最舒适的开发环境</title>
-    <id>https://blog.mo7.cc/developer/basic/dev_env_ready.html</id>
-    <link href="https://blog.mo7.cc/developer/basic/dev_env_ready.html"/>
-    <updated>2024-10-07T16:38:12.404Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/basic/dev_env_ready.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/basic/dev_env_ready.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>一套最舒适 最好的开发环境应该是什么样子的呢？</p>
 <h2>Windows</h2>
@@ -992,14 +921,14 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <li>将系统更新到最新，包括驱动等</li>
 <li>将系统归属地改为香港，设定好时间日期格式(设定为香港可以访问到更多有趣的内容)</li>
 <li>在系统设置中配置好 <strong>开发者选项</strong></li>
-<li>配置好 <a href="/tutorial/proxy_wall_ready.html" target="_blank">翻墙和代理服务</a></li>
+<li>配置好 <a href="/tutorial/proxy_wall_ready.html" target="_blank" rel="noopener noreferrer">翻墙和代理服务</a></li>
 <li>安装 <a href="https://www.google.com/chrome/" target="_blank" rel="noopener noreferrer">Chrome</a></li>
-<li>安装并配置 <a href="/tools/git/" target="_blank">Git</a></li>
-<li>安装并配置 <a href="/tools/vscode/" target="_blank">VSCode</a></li>
-<li>安装并配置 <a href="/tutorial/wsl_ready.html" target="_blank">WSL</a></li>
-<li>设定好 <a href="/tutorial/wsl_proxy.html" target="_blank">WSL 的系统代理</a></li>
-<li>然后在 WSL 中像 <a href="/developer/linux/" target="_blank">Linux</a> 一样去使用 Windows 进行开发和编码</li>
-<li>安装并设置 <a href="/tools/uTools.html" target="_blank">uTools</a></li>
+<li>安装并配置 <a href="/tools/git/" target="_blank" rel="noopener noreferrer">Git</a></li>
+<li>安装并配置 <a href="/tools/vscode/" target="_blank" rel="noopener noreferrer">VSCode</a></li>
+<li>安装并配置 <a href="/tutorial/wsl_ready.html" target="_blank" rel="noopener noreferrer">WSL</a></li>
+<li>设定好 <a href="/tutorial/wsl_proxy.html" target="_blank" rel="noopener noreferrer">WSL 的系统代理</a></li>
+<li>然后在 WSL 中像 <a href="/developer/linux/" target="_blank" rel="noopener noreferrer">Linux</a> 一样去使用 Windows 进行开发和编码</li>
+<li>安装并设置 <a href="/tools/uTools.html" target="_blank" rel="noopener noreferrer">uTools</a></li>
 </ol>]]></summary>
     <content type="html"><![CDATA[
 <p>一套最舒适 最好的开发环境应该是什么样子的呢？</p>
@@ -1008,38 +937,39 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <li>将系统更新到最新，包括驱动等</li>
 <li>将系统归属地改为香港，设定好时间日期格式(设定为香港可以访问到更多有趣的内容)</li>
 <li>在系统设置中配置好 <strong>开发者选项</strong></li>
-<li>配置好 <a href="/tutorial/proxy_wall_ready.html" target="_blank">翻墙和代理服务</a></li>
+<li>配置好 <a href="/tutorial/proxy_wall_ready.html" target="_blank" rel="noopener noreferrer">翻墙和代理服务</a></li>
 <li>安装 <a href="https://www.google.com/chrome/" target="_blank" rel="noopener noreferrer">Chrome</a></li>
-<li>安装并配置 <a href="/tools/git/" target="_blank">Git</a></li>
-<li>安装并配置 <a href="/tools/vscode/" target="_blank">VSCode</a></li>
-<li>安装并配置 <a href="/tutorial/wsl_ready.html" target="_blank">WSL</a></li>
-<li>设定好 <a href="/tutorial/wsl_proxy.html" target="_blank">WSL 的系统代理</a></li>
-<li>然后在 WSL 中像 <a href="/developer/linux/" target="_blank">Linux</a> 一样去使用 Windows 进行开发和编码</li>
-<li>安装并设置 <a href="/tools/uTools.html" target="_blank">uTools</a></li>
+<li>安装并配置 <a href="/tools/git/" target="_blank" rel="noopener noreferrer">Git</a></li>
+<li>安装并配置 <a href="/tools/vscode/" target="_blank" rel="noopener noreferrer">VSCode</a></li>
+<li>安装并配置 <a href="/tutorial/wsl_ready.html" target="_blank" rel="noopener noreferrer">WSL</a></li>
+<li>设定好 <a href="/tutorial/wsl_proxy.html" target="_blank" rel="noopener noreferrer">WSL 的系统代理</a></li>
+<li>然后在 WSL 中像 <a href="/developer/linux/" target="_blank" rel="noopener noreferrer">Linux</a> 一样去使用 Windows 进行开发和编码</li>
+<li>安装并设置 <a href="/tools/uTools.html" target="_blank" rel="noopener noreferrer">uTools</a></li>
 </ol>
 <h2>macOS</h2>
 <ol>
 <li>检查系统更新</li>
 <li>系统常规性设置，比如 <a href="https://support.apple.com/zh-cn/guide/mac-help/mchlp2304/mac" target="_blank" rel="noopener noreferrer">在 Mac 上显示或隐藏文件扩展名</a></li>
-<li>配置好 <a href="/tutorial/proxy_wall_ready.html" target="_blank">翻墙和代理服务</a></li>
+<li>配置好 <a href="/tutorial/proxy_wall_ready.html" target="_blank" rel="noopener noreferrer">翻墙和代理服务</a></li>
 <li>安装 <a href="https://www.google.com/chrome/" target="_blank" rel="noopener noreferrer">Chrome</a></li>
 <li>检查并配置好 <a href="https://support.apple.com/zh-cn/guide/terminal/welcome/mac" target="_blank" rel="noopener noreferrer">Terminal</a>，并安装 <a href="https://sysin.org/blog/macos-zsh/" target="_blank" rel="noopener noreferrer">oh-my-zsh </a></li>
 <li>安装 <a href="https://brew.sh/" target="_blank" rel="noopener noreferrer">Homebrew</a></li>
-<li>检查并配置 <a href="/tools/git/" target="_blank">Git</a> 等常用命令</li>
-<li>安装并配置 <a href="/tools/vscode/" target="_blank">VSCode</a></li>
-<li>安装并设置 <a href="/tools/uTools.html" target="_blank">uTools</a></li>
+<li>检查并配置 <a href="/tools/git/" target="_blank" rel="noopener noreferrer">Git</a> 等常用命令</li>
+<li>安装并配置 <a href="/tools/vscode/" target="_blank" rel="noopener noreferrer">VSCode</a></li>
+<li>安装并设置 <a href="/tools/uTools.html" target="_blank" rel="noopener noreferrer">uTools</a></li>
 </ol>
 <h2>Linux</h2>
-<p><a href="/developer/linux/" target="_blank">墨七编写的 Linux 系列文档</a></p>
+<p><a href="/developer/linux/" target="_blank" rel="noopener noreferrer">墨七编写的 Linux 系列文档</a></p>
 ]]></content>
     <category term="developer"/>
     <category term="基础"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">12.关于编程语言的那些事儿</title>
-    <id>https://blog.mo7.cc/developer/basic/coding_market.html</id>
-    <link href="https://blog.mo7.cc/developer/basic/coding_market.html"/>
-    <updated>2024-10-07T16:38:12.406Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/basic/coding_market.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/basic/coding_market.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>编程语言的分类</h2>
 <h3><strong>1.机器语言：</strong></h3>
@@ -1072,22 +1002,23 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 ]]></content>
     <category term="developer"/>
     <category term="基础"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">2.路径和文件</title>
-    <id>https://blog.mo7.cc/developer/basic/file_and_path.html</id>
-    <link href="https://blog.mo7.cc/developer/basic/file_and_path.html"/>
-    <updated>2024-10-07T16:38:12.415Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/basic/file_and_path.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/basic/file_and_path.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank">科学上网</a>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <p><a href="https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%84_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)" target="_blank" rel="noopener noreferrer">路径-维基百科</a></p>]]></summary>
     <content type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank">科学上网</a>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <p><a href="https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%84_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)" target="_blank" rel="noopener noreferrer">路径-维基百科</a></p>
 <p>文件路径是用于描述文件系统资源的一个文本标识。 文件系统是对文件存储设备的空间进行组织和分配，负责文件存储并对存入的文件进行保护和检索的系统。 文件存放在外部存储器中的某些位置上，经由文件系统管理后，被系统以文件路径标识，系统可以通过文件路径检索到对应文件。</p>
@@ -1095,23 +1026,24 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 ]]></content>
     <category term="developer"/>
     <category term="基础"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">3.文件编码</title>
-    <id>https://blog.mo7.cc/developer/basic/file_utf8.html</id>
-    <link href="https://blog.mo7.cc/developer/basic/file_utf8.html"/>
-    <updated>2024-10-07T16:38:12.485Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/basic/file_utf8.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/basic/file_utf8.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank">科学上网</a>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <p>不知道你有没有遇到过，打开一个<code>.txt</code>文件却发现文件乱码了？这种时候往往是因为使用了不一样的编码格式去打开文件导致的。</p>
 <p>比如当前正在编写的这篇文章，如果采用 <a href="https://zh.wikipedia.org/wiki/%E6%B1%89%E5%AD%97%E5%86%85%E7%A0%81%E6%89%A9%E5%B1%95%E8%A7%84%E8%8C%83" target="_blank" rel="noopener noreferrer">GBK</a> 编码打开，就会变成一堆不认识的字符：</p>]]></summary>
     <content type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank">科学上网</a>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <p>不知道你有没有遇到过，打开一个<code>.txt</code>文件却发现文件乱码了？这种时候往往是因为使用了不一样的编码格式去打开文件导致的。</p>
 <p>比如当前正在编写的这篇文章，如果采用 <a href="https://zh.wikipedia.org/wiki/%E6%B1%89%E5%AD%97%E5%86%85%E7%A0%81%E6%89%A9%E5%B1%95%E8%A7%84%E8%8C%83" target="_blank" rel="noopener noreferrer">GBK</a> 编码打开，就会变成一堆不认识的字符：</p>
@@ -1128,45 +1060,47 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 ]]></content>
     <category term="developer"/>
     <category term="基础"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">4.终端与 shell</title>
-    <id>https://blog.mo7.cc/developer/basic/cmd_shell.html</id>
-    <link href="https://blog.mo7.cc/developer/basic/cmd_shell.html"/>
-    <updated>2024-10-07T16:38:12.488Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/basic/cmd_shell.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/basic/cmd_shell.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank">科学上网</a>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <p>我觉得这里放一个视频就足以解释清楚了。</p>
 ]]></summary>
     <content type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank">科学上网</a>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <p>我觉得这里放一个视频就足以解释清楚了。</p>
 ]]></content>
     <category term="developer"/>
     <category term="基础"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">5.系统软件包管理器</title>
-    <id>https://blog.mo7.cc/developer/basic/apt_homebrew.html</id>
-    <link href="https://blog.mo7.cc/developer/basic/apt_homebrew.html"/>
-    <updated>2024-10-07T16:38:12.491Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/basic/apt_homebrew.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/basic/apt_homebrew.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank">科学上网</a>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <p>当你学会命令行的基本使用之后，那么就相当于一只脚踏入了另一个世界。<br>
 除了从应用商店安装下载之外，一般情况下还可以通过 <a href="https://juejin.cn/post/6884417656699486221" target="_blank" rel="noopener noreferrer">软件包管理系统</a> 来安装各种好用的命令和工具。</p>]]></summary>
     <content type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank">科学上网</a>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <p>当你学会命令行的基本使用之后，那么就相当于一只脚踏入了另一个世界。<br>
 除了从应用商店安装下载之外，一般情况下还可以通过 <a href="https://juejin.cn/post/6884417656699486221" target="_blank" rel="noopener noreferrer">软件包管理系统</a> 来安装各种好用的命令和工具。</p>
@@ -1189,35 +1123,37 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
     <category term="developer"/>
     <category term="基础"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">6.Git 与 Github</title>
-    <id>https://blog.mo7.cc/developer/basic/git_github.html</id>
-    <link href="https://blog.mo7.cc/developer/basic/git_github.html"/>
-    <updated>2024-10-07T16:38:12.494Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/basic/git_github.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/basic/git_github.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank">科学上网</a>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <p>这个系列视频讲解的非常好<br>
 <a href="https://www.bilibili.com/video/BV1HM411377j/" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1HM411377j/</a></p>]]></summary>
     <content type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank">科学上网</a>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <p>这个系列视频讲解的非常好<br>
 <a href="https://www.bilibili.com/video/BV1HM411377j/" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1HM411377j/</a></p>
 ]]></content>
     <category term="developer"/>
     <category term="基础"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">7.Visual Studio Code</title>
-    <id>https://blog.mo7.cc/developer/basic/vscode.html</id>
-    <link href="https://blog.mo7.cc/developer/basic/vscode.html"/>
-    <updated>2024-10-07T16:38:12.497Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/basic/vscode.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/basic/vscode.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>这年头什么都有教学视频</p>
 <p><a href="https://www.bilibili.com/video/BV1ug4y1571s/" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1ug4y1571s/</a></p>
@@ -1228,22 +1164,23 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 ]]></content>
     <category term="developer"/>
     <category term="基础"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">8.如何使用搜索引擎</title>
-    <id>https://blog.mo7.cc/developer/basic/search_engine.html</id>
-    <link href="https://blog.mo7.cc/developer/basic/search_engine.html"/>
-    <updated>2024-10-07T16:38:12.507Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/basic/search_engine.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/basic/search_engine.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank">科学上网</a>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <p><a href="https://zh.wikipedia.org/wiki/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E" target="_blank" rel="noopener noreferrer">搜索引擎</a> 是一个跨时代的发明，基本上我们每天都会用到。但是你真的会使用搜索引擎吗？</p>]]></summary>
     <content type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank">科学上网</a>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <p><a href="https://zh.wikipedia.org/wiki/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E" target="_blank" rel="noopener noreferrer">搜索引擎</a> 是一个跨时代的发明，基本上我们每天都会用到。但是你真的会使用搜索引擎吗？</p>
 <h2>搜索引擎的选择</h2>
@@ -1263,7 +1200,7 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <p>不过实践证明，国内的 Bing 属于特供版，内容会不太一样。</p>
 </blockquote>
 <ol start="2">
-<li>靠搜索家的 <strong>Google</strong> <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">https://www.google.com/</a> 可能需要掌握一定的 <a href="/tutorial/proxy_wall_ready.html" target="_blank">科学上网</a> 小技巧。</li>
+<li>靠搜索家的 <strong>Google</strong> <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">https://www.google.com/</a> 可能需要掌握一定的 <a href="/tutorial/proxy_wall_ready.html" target="_blank" rel="noopener noreferrer">科学上网</a> 小技巧。</li>
 </ol>
 <h2>搜索引擎使用技巧</h2>
 <p>只需要认真阅读这篇文章即可：</p>
@@ -1272,12 +1209,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 ]]></content>
     <category term="developer"/>
     <category term="基础"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">9.科学上网和国内镜像</title>
-    <id>https://blog.mo7.cc/developer/basic/proxy_to_net.html</id>
-    <link href="https://blog.mo7.cc/developer/basic/proxy_to_net.html"/>
-    <updated>2024-10-07T16:38:12.509Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/basic/proxy_to_net.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/basic/proxy_to_net.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>什么是 <a href="https://cn.bing.com/search?q=%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91" target="_blank" rel="noopener noreferrer">科学上网?</a></p>
 ]]></summary>
@@ -1286,12 +1224,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 ]]></content>
     <category term="developer"/>
     <category term="基础"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">基础入门</title>
-    <id>https://blog.mo7.cc/developer/basic/</id>
-    <link href="https://blog.mo7.cc/developer/basic/"/>
-    <updated>2024-10-07T16:38:12.512Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/basic/</id>
+    <link href="https://blog.mo7.cc/Yao/developer/basic/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>前言</h2>
 <p>前段时间 <a href="https://www.douyin.com/search/%E6%B7%98%E5%AE%9Dsteam%E4%BB%A3%E5%AE%89%E8%A3%85" target="_blank" rel="noopener noreferrer">淘宝 Steam 安装教程</a> 事件在网上大火。就是在大多数人看来 <code>安装Steam</code> 这么简单的一件事情居然会难倒这么多人。大家只是想玩一个游戏而已，为什么会如此魔幻?</p>
@@ -1311,12 +1250,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 ]]></content>
     <category term="developer"/>
     <category term="基础"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">1.Nodejs 基础环境搭建</title>
-    <id>https://blog.mo7.cc/developer/front_end_web/nodejs_ready.html</id>
-    <link href="https://blog.mo7.cc/developer/front_end_web/nodejs_ready.html"/>
-    <updated>2024-10-07T16:38:12.516Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/front_end_web/nodejs_ready.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/front_end_web/nodejs_ready.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>严格来说 <code>nodejs</code> 属于服务端的技术，并不属于 <code>Web 前端</code> , 但是当下前端开发基本上无法离开 <code>nodejs</code> 了。</p>
 <p>官网地址：<br>
@@ -1384,18 +1324,19 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div></details>
 <h3>2. 使用全局的命令行代理</h3>
 <blockquote>
-<p>具体细节可参考文章 <a href="/tutorial/proxy_wall_ready.html" target="_blank">科学上网与本地代理</a></p>
+<p>具体细节可参考文章 <a href="/tutorial/proxy_wall_ready.html" target="_blank" rel="noopener noreferrer">科学上网与本地代理</a></p>
 </blockquote>
 <p>如果你把代理关了，使用 npm 更新依赖时会有如下显示</p>
 <figure><figcaption>npm更新依赖报错</figcaption></figure>
 ]]></content>
     <category term="前端"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">2.fnm 管理 Nodejs</title>
-    <id>https://blog.mo7.cc/developer/front_end_web/fnm_ready.html</id>
-    <link href="https://blog.mo7.cc/developer/front_end_web/fnm_ready.html"/>
-    <updated>2024-10-07T16:38:12.556Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/front_end_web/fnm_ready.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/front_end_web/fnm_ready.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>当你本地存在多个项目，且依赖的 nodejs 版本不尽相同，就需要使用 nodejs 版本管理工具了，它允许同一台机器中多个 nodejs 版本共存且可以随时切换。</p>
 <p>fnm 类似于 nvm，是一个 nodejs 版本管理工具， 他比 nvm 更加迅速，应该是目前已知最好的 nodejs 版本管理工具。</p>
@@ -1429,12 +1370,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">fnm</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> ls-remote</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div>]]></content>
     <category term="前端"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">3.Web 前端开发入门</title>
-    <id>https://blog.mo7.cc/developer/front_end_web/web_develop_ready.html</id>
-    <link href="https://blog.mo7.cc/developer/front_end_web/web_develop_ready.html"/>
-    <updated>2024-10-07T16:38:12.575Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/front_end_web/web_develop_ready.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/front_end_web/web_develop_ready.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>想一想这一篇应该怎么去讲解。</p>
 <p>在任意位置新建文件 <code>demo.html</code> :</p>
@@ -1543,12 +1485,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <p><a href="https://www.bilibili.com/video/BV1BT4y1W7Aw" target="_blank" rel="noopener noreferrer">3 小时前端入门教程（HTML+CSS+JS）</a></p>
 ]]></content>
     <category term="前端"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">CommonJS 和 ES6 Modules</title>
-    <id>https://blog.mo7.cc/developer/front_end_web/es6_modules.html</id>
-    <link href="https://blog.mo7.cc/developer/front_end_web/es6_modules.html"/>
-    <updated>2024-10-07T16:38:12.650Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/front_end_web/es6_modules.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/front_end_web/es6_modules.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -1606,12 +1549,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">export</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> let</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> getArea</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> =</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#383A42;--shiki-light-font-style:inherit;--shiki-dark:#E06C75;--shiki-dark-font-style:italic">r</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">) </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">=&gt;</span><span style="--shiki-light:#986801;--shiki-dark:#E5C07B"> PI</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> _</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> r</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> _</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> r</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
     <category term="前端"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">npm 常用命令</title>
-    <id>https://blog.mo7.cc/developer/front_end_web/npm.html</id>
-    <link href="https://blog.mo7.cc/developer/front_end_web/npm.html"/>
-    <updated>2024-10-07T16:38:12.657Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/front_end_web/npm.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/front_end_web/npm.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -1659,12 +1603,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">npm</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> audit</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
     <category term="前端"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">pm2 最好用的后台守护进程</title>
-    <id>https://blog.mo7.cc/developer/front_end_web/pm2.html</id>
-    <link href="https://blog.mo7.cc/developer/front_end_web/pm2.html"/>
-    <updated>2024-10-07T16:38:12.661Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/front_end_web/pm2.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/front_end_web/pm2.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -1694,12 +1639,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">pm2</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> list</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
     <category term="前端"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">Web 前端</title>
-    <id>https://blog.mo7.cc/developer/front_end_web/</id>
-    <link href="https://blog.mo7.cc/developer/front_end_web/"/>
-    <updated>2024-10-07T16:38:12.663Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/front_end_web/</id>
+    <link href="https://blog.mo7.cc/Yao/developer/front_end_web/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">Web 前端开发</p>
@@ -1712,12 +1658,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 </div>
 ]]></content>
     <category term="前端"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">url 解析</title>
-    <id>https://blog.mo7.cc/developer/front_end_web/url_parse.html</id>
-    <link href="https://blog.mo7.cc/developer/front_end_web/url_parse.html"/>
-    <updated>2024-10-07T16:38:12.665Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/front_end_web/url_parse.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/front_end_web/url_parse.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -1747,12 +1694,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">url</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">resolve</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"地址"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"目录"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
     <category term="前端"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">1.安装</title>
-    <id>https://blog.mo7.cc/developer/golang/golang_install.html</id>
-    <link href="https://blog.mo7.cc/developer/golang/golang_install.html"/>
-    <updated>2024-10-07T16:38:12.667Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/golang/golang_install.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/golang/golang_install.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>官网地址：<br>
 <a href="https://golang.google.cn/" target="_blank" rel="noopener noreferrer">https://golang.google.cn/</a></p>
@@ -1803,12 +1751,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>此时 go 已经被安装到 <code>/usr/lib/go</code> 中了，接下来只需要将 go 指令添加到环境变量中。</p>
 ]]></content>
     <category term="Golang"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">mongo - golang 操作</title>
-    <id>https://blog.mo7.cc/developer/golang/go_mongo.html</id>
-    <link href="https://blog.mo7.cc/developer/golang/go_mongo.html"/>
-    <updated>2024-10-07T16:38:12.693Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/golang/go_mongo.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/golang/go_mongo.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -1857,12 +1806,13 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <h2>使用文档</h2>
 ]]></content>
     <category term="Golang"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">Go</title>
-    <id>https://blog.mo7.cc/developer/golang/</id>
-    <link href="https://blog.mo7.cc/developer/golang/"/>
-    <updated>2024-10-07T16:38:12.696Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/golang/</id>
+    <link href="https://blog.mo7.cc/Yao/developer/golang/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>go 语言，Golang，go</p>
 <p>是一门极其优秀且发展势头迅猛的语言，豪横的生父阵容。<br>
@@ -1882,12 +1832,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 是一门非常值得学习和用于构建的编程语言。</p>
 ]]></content>
     <category term="Golang"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">shell-format 插件</title>
-    <id>https://blog.mo7.cc/developer/golang/shell-format.html</id>
-    <link href="https://blog.mo7.cc/developer/golang/shell-format.html"/>
-    <updated>2024-10-07T16:38:12.698Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/golang/shell-format.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/golang/shell-format.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -1919,12 +1870,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">}</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
     <category term="Golang"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">golang vscode 开发环境搭建</title>
-    <id>https://blog.mo7.cc/developer/golang/vscode_golang.html</id>
-    <link href="https://blog.mo7.cc/developer/golang/vscode_golang.html"/>
-    <updated>2024-10-07T16:38:12.700Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/golang/vscode_golang.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/golang/vscode_golang.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -1959,12 +1911,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">}</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
     <category term="Golang"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">当红开发语言 Go，真的是未来的技术主流吗？</title>
-    <id>https://blog.mo7.cc/developer/golang/golang_viewpoint.html</id>
-    <link href="https://blog.mo7.cc/developer/golang/golang_viewpoint.html"/>
-    <updated>2024-10-07T16:38:12.704Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/golang/golang_viewpoint.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/golang/golang_viewpoint.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>这个问题不能从技术角度考虑，要从【市场】角度考虑。</p>
 <p>一、目前应用程序的主流是什么？</p>
@@ -2013,12 +1966,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 </ol>
 ]]></content>
     <category term="Golang"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">将 golang 作为脚本语言使用</title>
-    <id>https://blog.mo7.cc/developer/golang/golang_shell.html</id>
-    <link href="https://blog.mo7.cc/developer/golang/golang_shell.html"/>
-    <updated>2024-10-07T16:38:12.708Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/golang/golang_shell.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/golang/golang_shell.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -2058,12 +2012,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div></div></div><p>执行的结果是 1</p>
 ]]></content>
     <category term="Golang"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">常用命令</title>
-    <id>https://blog.mo7.cc/developer/golang/golang_command.html</id>
-    <link href="https://blog.mo7.cc/developer/golang/golang_command.html"/>
-    <updated>2024-10-07T16:38:12.711Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/golang/golang_command.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/golang/golang_command.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -2077,12 +2032,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 </div>
 ]]></content>
     <category term="Golang"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">常用库整理</title>
-    <id>https://blog.mo7.cc/developer/golang/golang_lib.html</id>
-    <link href="https://blog.mo7.cc/developer/golang/golang_lib.html"/>
-    <updated>2024-10-07T16:38:12.712Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/golang/golang_lib.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/golang/golang_lib.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -2107,12 +2063,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 可以用 xpath，goquery 这些选择器选中网页元素</p>
 ]]></content>
     <category term="Golang"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">go 语言相关书籍</title>
-    <id>https://blog.mo7.cc/developer/golang/golang_book.html</id>
-    <link href="https://blog.mo7.cc/developer/golang/golang_book.html"/>
-    <updated>2024-10-07T16:38:12.713Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/golang/golang_book.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/golang/golang_book.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -2128,12 +2085,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <p><a href="https://books.studygolang.com/" target="_blank" rel="noopener noreferrer">https://books.studygolang.com/</a></p>
 ]]></content>
     <category term="Golang"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">Nginx 的基本使用</title>
-    <id>https://blog.mo7.cc/developer/linux/nginx_ready.html</id>
-    <link href="https://blog.mo7.cc/developer/linux/nginx_ready.html"/>
-    <updated>2024-10-07T16:38:12.715Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/linux/nginx_ready.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/linux/nginx_ready.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -2147,12 +2105,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 </div>
 ]]></content>
     <category term="Linux"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">Linux</title>
-    <id>https://blog.mo7.cc/developer/linux/</id>
-    <link href="https://blog.mo7.cc/developer/linux/"/>
-    <updated>2024-10-07T16:38:12.726Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/linux/</id>
+    <link href="https://blog.mo7.cc/Yao/developer/linux/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">世界上有两种人，用 Linux 的和不会 Linux 的</p>
@@ -2165,12 +2124,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 </div>
 ]]></content>
     <category term="Linux"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">WSL2 安装远程桌面</title>
-    <id>https://blog.mo7.cc/developer/linux/wsl%E5%AE%89%E8%A3%85%E6%A1%8C%E9%9D%A2.html</id>
-    <link href="https://blog.mo7.cc/developer/linux/wsl%E5%AE%89%E8%A3%85%E6%A1%8C%E9%9D%A2.html"/>
-    <updated>2024-10-07T16:38:12.728Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/linux/wsl%E5%AE%89%E8%A3%85%E6%A1%8C%E9%9D%A2.html</id>
+    <link href="https://blog.mo7.cc/Yao/developer/linux/wsl%E5%AE%89%E8%A3%85%E6%A1%8C%E9%9D%A2.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"></span>
 <span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">sudo</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> apt-get</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> install</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> xfce4-terminal</span></span>
@@ -2199,12 +2159,31 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <p><a href="https://blog.csdn.net/sy95122/article/details/125143100" target="_blank" rel="noopener noreferrer">https://blog.csdn.net/sy95122/article/details/125143100</a></p>
 <p><a href="https://blog.csdn.net/weixin_45934869/article/details/131963546" target="_blank" rel="noopener noreferrer">https://blog.csdn.net/weixin_45934869/article/details/131963546</a></p>
 ]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">随笔</title>
+    <id>https://blog.mo7.cc/Yao/favorite/essays/</id>
+    <link href="https://blog.mo7.cc/Yao/favorite/essays/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
+    <summary type="html"><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">日常随便写一点东西</p>
+</div>
+<hr>
+]]></summary>
+    <content type="html"><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">日常随便写一点东西</p>
+</div>
+]]></content>
+    <published>1993-02-13T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">伊隆·马斯克 (Elon Musk) 励志名言</title>
-    <id>https://blog.mo7.cc/favorite/essays/elonmusk_saying.html</id>
-    <link href="https://blog.mo7.cc/favorite/essays/elonmusk_saying.html"/>
-    <updated>2024-10-07T16:38:12.734Z</updated>
+    <id>https://blog.mo7.cc/Yao/favorite/essays/elonmusk_saying.html</id>
+    <link href="https://blog.mo7.cc/Yao/favorite/essays/elonmusk_saying.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">相关信息</p>
@@ -2260,12 +2239,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <p>愿每个人最后都能成功 ~！</p>
 </blockquote>
 ]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">关于传统公司与互联网公司程序员忙碌的感悟</title>
-    <id>https://blog.mo7.cc/favorite/essays/not_internet_developer.html</id>
-    <link href="https://blog.mo7.cc/favorite/essays/not_internet_developer.html"/>
-    <updated>2024-10-07T16:38:12.739Z</updated>
+    <id>https://blog.mo7.cc/Yao/favorite/essays/not_internet_developer.html</id>
+    <link href="https://blog.mo7.cc/Yao/favorite/essays/not_internet_developer.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>现在我才明白互联网公司为啥程序员得 996 了。<br>
 大多数情况下，领导拍脑袋或靠调查报告产生一个需求，<br>
@@ -2301,12 +2281,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <p>天才们可以靠着感觉，察觉到隐藏在市场下的需求，有针对性的一鸣惊人。<br>
 而对于大多数人来说，应该是先找到需求和买方，再有针对性的去处理。</p>
 ]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">文档</title>
-    <id>https://blog.mo7.cc/favorite/links/document.html</id>
-    <link href="https://blog.mo7.cc/favorite/links/document.html"/>
-    <updated>2024-10-07T16:38:12.741Z</updated>
+    <id>https://blog.mo7.cc/Yao/favorite/links/document.html</id>
+    <link href="https://blog.mo7.cc/Yao/favorite/links/document.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container tip">
 <p class="hint-container-title">常用文档</p>
@@ -2319,22 +2300,42 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 </div>
 <h2></h2>
 ]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">友链</title>
-    <id>https://blog.mo7.cc/favorite/links/friend.html</id>
-    <link href="https://blog.mo7.cc/favorite/links/friend.html"/>
-    <updated>2024-10-07T16:38:12.746Z</updated>
+    <id>https://blog.mo7.cc/Yao/favorite/links/friend.html</id>
+    <link href="https://blog.mo7.cc/Yao/favorite/links/friend.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 ]]></summary>
     <content type="html"><![CDATA[
 ]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">链接</title>
+    <id>https://blog.mo7.cc/Yao/favorite/links/</id>
+    <link href="https://blog.mo7.cc/Yao/favorite/links/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
+    <summary type="html"><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">好的东西应该共享</p>
+</div>
+<hr>
+]]></summary>
+    <content type="html"><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">好的东西应该共享</p>
+</div>
+]]></content>
+    <published>1993-02-13T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">在线工具</title>
-    <id>https://blog.mo7.cc/favorite/links/tools.html</id>
-    <link href="https://blog.mo7.cc/favorite/links/tools.html"/>
-    <updated>2024-10-07T16:38:12.749Z</updated>
+    <id>https://blog.mo7.cc/Yao/favorite/links/tools.html</id>
+    <link href="https://blog.mo7.cc/Yao/favorite/links/tools.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container tip">
 <p class="hint-container-title">好用的在线工具</p>
@@ -2347,12 +2348,31 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 </div>
 <h2></h2>
 ]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">影视</title>
+    <id>https://blog.mo7.cc/Yao/favorite/movies/</id>
+    <link href="https://blog.mo7.cc/Yao/favorite/movies/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
+    <summary type="html"><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">『 生活就像一盒巧克力 』</p>
+</div>
+<hr>
+]]></summary>
+    <content type="html"><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">『 生活就像一盒巧克力 』</p>
+</div>
+]]></content>
+    <published>1993-02-13T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">阿甘正传</title>
-    <id>https://blog.mo7.cc/favorite/movies/ForrestGump.html</id>
-    <link href="https://blog.mo7.cc/favorite/movies/ForrestGump.html"/>
-    <updated>2024-10-07T16:38:12.754Z</updated>
+    <id>https://blog.mo7.cc/Yao/favorite/movies/ForrestGump.html</id>
+    <link href="https://blog.mo7.cc/Yao/favorite/movies/ForrestGump.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>《阿甘正传》是由罗伯特·泽米吉斯执导的电影，由汤姆·汉克斯、罗宾·怀特等人主演，于 1994 年 7 月 6 日在美国上映。</p>
 <p>电影改编自美国作家温斯顿·格鲁姆于 1986 年出版的同名小说，描绘了先天智障的小镇男孩福瑞斯特·甘自强不息，最终“傻人有傻福”地得到上天眷顾，在多个领域创造奇迹的励志故事 [1] 。电影上映后，于 1995 年获得奥斯卡最佳影片奖、最佳男主角奖、最佳导演奖等 6 项大奖 。</p>
@@ -2364,24 +2384,44 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <p>2014 年 9 月 5 日，在该片上映 20 周年之际，《阿甘正传》IMAX 版本开始在全美上映</p>
 <figure><figcaption>海报</figcaption></figure>
 ]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">音乐</title>
+    <id>https://blog.mo7.cc/Yao/favorite/music/</id>
+    <link href="https://blog.mo7.cc/Yao/favorite/music/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
+    <summary type="html"><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">单曲循环一整天</p>
+</div>
+<hr>
+]]></summary>
+    <content type="html"><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">单曲循环一整天</p>
+</div>
+]]></content>
+    <published>1993-02-13T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">网易云歌单</title>
-    <id>https://blog.mo7.cc/favorite/music/music163_favorite.html</id>
-    <link href="https://blog.mo7.cc/favorite/music/music163_favorite.html"/>
-    <updated>2024-10-07T16:38:12.757Z</updated>
+    <id>https://blog.mo7.cc/Yao/favorite/music/music163_favorite.html</id>
+    <link href="https://blog.mo7.cc/Yao/favorite/music/music163_favorite.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="//music.163.com/outchain/player?type=0&amp;id=8056247134&amp;auto=0&amp;height=430"></iframe>
 ]]></summary>
     <content type="html"><![CDATA[
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="//music.163.com/outchain/player?type=0&amp;id=8056247134&amp;auto=0&amp;height=430"></iframe>
 ]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">必应每日壁纸 api</title>
-    <id>https://blog.mo7.cc/favorite/photos/bing_img_api.html</id>
-    <link href="https://blog.mo7.cc/favorite/photos/bing_img_api.html"/>
-    <updated>2024-10-07T16:38:12.759Z</updated>
+    <id>https://blog.mo7.cc/Yao/favorite/photos/bing_img_api.html</id>
+    <link href="https://blog.mo7.cc/Yao/favorite/photos/bing_img_api.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>采用 golang 编写，每日定时爬取 <a href="https://cn.bing.com" target="_blank" rel="noopener noreferrer">https://cn.bing.com</a> 当日的 7 张壁纸，并将链接固定下来进行 302 重定向。 idx 参数分别对应 当日壁纸数组 的序号，<code>idx=1</code> 时则返回当天壁纸。</p>
 <p>支持 <code>http</code> 以及 <code>https</code> 。</p>
@@ -2422,12 +2462,31 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <p>程序采用 golang 编写，采用 302 重定向返回图片，流量消耗可以忽略不计。程序定时爬取数据并缓存在内存中，因此可以支持极高的并发。欢迎食用 ~</p>
 </div>
 ]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">相册</title>
+    <id>https://blog.mo7.cc/Yao/favorite/photos/</id>
+    <link href="https://blog.mo7.cc/Yao/favorite/photos/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
+    <summary type="html"><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">唯愿此景与汝共</p>
+</div>
+<hr>
+]]></summary>
+    <content type="html"><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">唯愿此景与汝共</p>
+</div>
+]]></content>
+    <published>1993-02-13T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">三数之和 (threeSum)</title>
-    <id>https://blog.mo7.cc/leetcode/threeSum.html</id>
-    <link href="https://blog.mo7.cc/leetcode/threeSum.html"/>
-    <updated>2024-10-07T16:38:12.764Z</updated>
+    <id>https://blog.mo7.cc/Yao/leetcode/threeSum.html</id>
+    <link href="https://blog.mo7.cc/Yao/leetcode/threeSum.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p><a href="https://leetcode.cn/problems/3sum" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/3sum</a></p>
 <hr>
@@ -2496,12 +2555,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <p><a href="https://leetcode.cn/problems/3sum" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/3sum</a></p>
 ]]></content>
     <category term="leetcode"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">两数之和 (twoSum)</title>
-    <id>https://blog.mo7.cc/leetcode/twoSum.html</id>
-    <link href="https://blog.mo7.cc/leetcode/twoSum.html"/>
-    <updated>2024-10-07T16:38:12.773Z</updated>
+    <id>https://blog.mo7.cc/Yao/leetcode/twoSum.html</id>
+    <link href="https://blog.mo7.cc/Yao/leetcode/twoSum.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p><a href="https://leetcode.cn/problems/two-sum/" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/two-sum/</a></p>
 <hr>
@@ -2558,12 +2618,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <p><a href="https://leetcode.cn/problems/two-sum/" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/two-sum/</a></p>
 ]]></content>
     <category term="leetcode"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">字母异位词分组 (groupAnagrams)</title>
-    <id>https://blog.mo7.cc/leetcode/groupAnagrams.html</id>
-    <link href="https://blog.mo7.cc/leetcode/groupAnagrams.html"/>
-    <updated>2024-10-07T16:38:12.792Z</updated>
+    <id>https://blog.mo7.cc/Yao/leetcode/groupAnagrams.html</id>
+    <link href="https://blog.mo7.cc/Yao/leetcode/groupAnagrams.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p><a href="https://leetcode.cn/problems/group-anagrams" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/group-anagrams</a></p>
 <hr>
@@ -2607,12 +2668,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <p><a href="https://leetcode.cn/problems/group-anagrams" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/group-anagrams</a></p>
 ]]></content>
     <category term="leetcode"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">接雨水 (trap)</title>
-    <id>https://blog.mo7.cc/leetcode/trap.html</id>
-    <link href="https://blog.mo7.cc/leetcode/trap.html"/>
-    <updated>2024-10-07T16:38:12.805Z</updated>
+    <id>https://blog.mo7.cc/Yao/leetcode/trap.html</id>
+    <link href="https://blog.mo7.cc/Yao/leetcode/trap.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p><a href="https://leetcode.cn/problems/trapping-rain-water" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/trapping-rain-water</a></p>
 <hr>
@@ -2645,12 +2707,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <p><a href="https://leetcode.cn/problems/trapping-rain-water" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/trapping-rain-water</a></p>
 ]]></content>
     <category term="leetcode"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">最长连续序列 (longestConsecutive)</title>
-    <id>https://blog.mo7.cc/leetcode/longestConsecutive.html</id>
-    <link href="https://blog.mo7.cc/leetcode/longestConsecutive.html"/>
-    <updated>2024-10-07T16:38:12.811Z</updated>
+    <id>https://blog.mo7.cc/Yao/leetcode/longestConsecutive.html</id>
+    <link href="https://blog.mo7.cc/Yao/leetcode/longestConsecutive.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p><a href="https://leetcode.cn/problems/longest-consecutive-sequence" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/longest-consecutive-sequence</a></p>
 <hr>
@@ -2766,12 +2829,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <p><a href="https://leetcode.cn/problems/longest-consecutive-sequence" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/longest-consecutive-sequence</a></p>
 ]]></content>
     <category term="leetcode"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">盛最多水的容器 (maxArea)</title>
-    <id>https://blog.mo7.cc/leetcode/maxArea.html</id>
-    <link href="https://blog.mo7.cc/leetcode/maxArea.html"/>
-    <updated>2024-10-07T16:38:12.838Z</updated>
+    <id>https://blog.mo7.cc/Yao/leetcode/maxArea.html</id>
+    <link href="https://blog.mo7.cc/Yao/leetcode/maxArea.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p><a href="https://leetcode.cn/problems/container-with-most-water" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/container-with-most-water</a></p>
 <hr>
@@ -2829,12 +2893,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <p><a href="https://leetcode.cn/problems/container-with-most-water" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/container-with-most-water</a></p>
 ]]></content>
     <category term="leetcode"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">移动零 (moveZeroes)</title>
-    <id>https://blog.mo7.cc/leetcode/moveZeroes.html</id>
-    <link href="https://blog.mo7.cc/leetcode/moveZeroes.html"/>
-    <updated>2024-10-07T16:38:12.843Z</updated>
+    <id>https://blog.mo7.cc/Yao/leetcode/moveZeroes.html</id>
+    <link href="https://blog.mo7.cc/Yao/leetcode/moveZeroes.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p><a href="https://leetcode.cn/problems/move-zeroes" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/move-zeroes</a></p>
 <hr>
@@ -2899,12 +2964,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <p><a href="https://leetcode.cn/problems/move-zeroes" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/move-zeroes</a></p>
 ]]></content>
     <category term="leetcode"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">1.Git 安装与基本设置</title>
-    <id>https://blog.mo7.cc/tools/git/git_ready.html</id>
-    <link href="https://blog.mo7.cc/tools/git/git_ready.html"/>
-    <updated>2024-10-07T16:38:12.865Z</updated>
+    <id>https://blog.mo7.cc/Yao/tools/git/git_ready.html</id>
+    <link href="https://blog.mo7.cc/Yao/tools/git/git_ready.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。<br>
 Git 是 Linus Torvalds 为了帮助管理 Linux 内核开发而开发的一个开放源码的版本控制软件。<br>
@@ -2998,16 +3064,17 @@ Git 与常用的版本控制工具 CVS, Subversion, SVN 等不同，它采用了
 <p><a href="https://git-scm.com/book/zh/v2" target="_blank" rel="noopener noreferrer">git Ebook</a></p>
 ]]></content>
     <category term="工具"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">2.设置代理加速</title>
-    <id>https://blog.mo7.cc/tools/git/git_proxy.html</id>
-    <link href="https://blog.mo7.cc/tools/git/git_proxy.html"/>
-    <updated>2024-10-07T16:38:12.878Z</updated>
+    <id>https://blog.mo7.cc/Yao/tools/git/git_proxy.html</id>
+    <link href="https://blog.mo7.cc/Yao/tools/git/git_proxy.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>系统代理设置</h2>
 <p>参考文档<br>
-<a href="/tutorial/proxy_wall_ready.html" target="_blank">科学上网与本地代理教程</a></p>
+<a href="/tutorial/proxy_wall_ready.html" target="_blank" rel="noopener noreferrer">科学上网与本地代理教程</a></p>
 <h2>ssh 协议代理</h2>
 <p>如下面这种指令</p>
 <div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">git</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> clone</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> git@github.com:handy-golang/go-tools.git</span></span></code></pre>
@@ -3015,14 +3082,14 @@ Git 与常用的版本控制工具 CVS, Subversion, SVN 等不同，它采用了
     <content type="html"><![CDATA[
 <h2>系统代理设置</h2>
 <p>参考文档<br>
-<a href="/tutorial/proxy_wall_ready.html" target="_blank">科学上网与本地代理教程</a></p>
+<a href="/tutorial/proxy_wall_ready.html" target="_blank" rel="noopener noreferrer">科学上网与本地代理教程</a></p>
 <h2>ssh 协议代理</h2>
 <p>如下面这种指令</p>
 <div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">git</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> clone</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> git@github.com:handy-golang/go-tools.git</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>这里是使用 ssh 协议进行 远程仓库访问的，这个时候 是不走 http 代理的</p>
 <p>可以通过 ssh 跳板机 完成代理。</p>
 <p>参考文档：<br>
-<a href="/tutorial/ssh_jump.html" target="_blank">ssh 跳板机</a></p>
+<a href="/tutorial/ssh_jump.html" target="_blank" rel="noopener noreferrer">ssh 跳板机</a></p>
 <h2>仅仅只是添加局部代理</h2>
 <div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">git</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> config</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> --global</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> http.proxy</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'http://127.0.0.1:10809'</span></span>
 <span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">git</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> config</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> --global</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> https.proxy</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'http://127.0.0.1:10809'</span></span>
@@ -3037,12 +3104,13 @@ Git 与常用的版本控制工具 CVS, Subversion, SVN 等不同，它采用了
 <span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">git</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> config</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> --global</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> --unset</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> https.proxy</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
     <category term="工具"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">3.Git 常用命令</title>
-    <id>https://blog.mo7.cc/tools/git/git_command.html</id>
-    <link href="https://blog.mo7.cc/tools/git/git_command.html"/>
-    <updated>2024-10-07T16:38:12.883Z</updated>
+    <id>https://blog.mo7.cc/Yao/tools/git/git_command.html</id>
+    <link href="https://blog.mo7.cc/Yao/tools/git/git_command.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>一般的工作流以及需要用到的命令：</p>
 <div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">#将当前目录变成仓库</span></span>
@@ -3160,12 +3228,13 @@ Git 与常用的版本控制工具 CVS, Subversion, SVN 等不同，它采用了
 <span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">git</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> push</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
     <category term="工具"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">4.图像化客户端推荐</title>
-    <id>https://blog.mo7.cc/tools/git/git_client.html</id>
-    <link href="https://blog.mo7.cc/tools/git/git_client.html"/>
-    <updated>2024-10-07T16:38:12.897Z</updated>
+    <id>https://blog.mo7.cc/Yao/tools/git/git_client.html</id>
+    <link href="https://blog.mo7.cc/Yao/tools/git/git_client.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>有一些工作流比较复杂，同时涉及到多条命令，除非是自动化工作流，否则使用命令不仅难以记忆，操作效率也会很慢。<br>
 而且 文件会改动对比 这种事情用 图形化展示也会比较好一点。</p>
@@ -3192,12 +3261,13 @@ Pro 版本收费。</p>
 <a href="https://www.gitkraken.com/" target="_blank" rel="noopener noreferrer">https://www.gitkraken.com/</a></p>
 ]]></content>
     <category term="工具"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">5.常用工作流</title>
-    <id>https://blog.mo7.cc/tools/git/git_flow.html</id>
-    <link href="https://blog.mo7.cc/tools/git/git_flow.html"/>
-    <updated>2024-10-07T16:38:12.899Z</updated>
+    <id>https://blog.mo7.cc/Yao/tools/git/git_flow.html</id>
+    <link href="https://blog.mo7.cc/Yao/tools/git/git_flow.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>相关文档</p>
 <p><a href="https://juejin.cn/post/7031149758940971021" target="_blank" rel="noopener noreferrer">四种常见的 Git 工作流</a></p>
@@ -3212,23 +3282,25 @@ Pro 版本收费。</p>
 <figure><figcaption>OtterTrade 团队 Git 协作工作流</figcaption></figure>
 ]]></content>
     <category term="工具"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">Git</title>
-    <id>https://blog.mo7.cc/tools/git/</id>
-    <link href="https://blog.mo7.cc/tools/git/"/>
-    <updated>2024-10-07T16:38:12.902Z</updated>
+    <id>https://blog.mo7.cc/Yao/tools/git/</id>
+    <link href="https://blog.mo7.cc/Yao/tools/git/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 ]]></summary>
     <content type="html"><![CDATA[
 ]]></content>
     <category term="工具"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">1.安装与基本设置</title>
-    <id>https://blog.mo7.cc/tools/vscode/vscode_ready.html</id>
-    <link href="https://blog.mo7.cc/tools/vscode/vscode_ready.html"/>
-    <updated>2024-10-07T16:38:12.904Z</updated>
+    <id>https://blog.mo7.cc/Yao/tools/vscode/vscode_ready.html</id>
+    <link href="https://blog.mo7.cc/Yao/tools/vscode/vscode_ready.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>安装流程</h2>
 <p>可以参考这篇文章：<br>
@@ -3318,12 +3390,13 @@ Pro 版本收费。</p>
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">}</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
     <category term="工具"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">2.通用插件推荐</title>
-    <id>https://blog.mo7.cc/tools/vscode/vscode_common_plug.html</id>
-    <link href="https://blog.mo7.cc/tools/vscode/vscode_common_plug.html"/>
-    <updated>2024-10-07T16:38:12.928Z</updated>
+    <id>https://blog.mo7.cc/Yao/tools/vscode/vscode_common_plug.html</id>
+    <link href="https://blog.mo7.cc/Yao/tools/vscode/vscode_common_plug.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>以下标签直接点开链接然后安装即可</p>
 <h2>VSCode 的中文支持</h2>
@@ -3362,12 +3435,13 @@ Pro 版本收费。</p>
 <a href="https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one" target="_blank" rel="noopener noreferrer">https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one</a></p>
 ]]></content>
     <category term="工具"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">3.前端开发设置</title>
-    <id>https://blog.mo7.cc/tools/vscode/vscode_web_front_vue.html</id>
-    <link href="https://blog.mo7.cc/tools/vscode/vscode_web_front_vue.html"/>
-    <updated>2024-10-07T16:38:12.931Z</updated>
+    <id>https://blog.mo7.cc/Yao/tools/vscode/vscode_web_front_vue.html</id>
+    <link href="https://blog.mo7.cc/Yao/tools/vscode/vscode_web_front_vue.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>colorize</h2>
 <p>VSCode 系统自带的颜色选择器会导致开发卡顿，而且容易误触。但是关闭颜色选择器又无法直观的看到颜色代码所代表的颜色了，这个插件很好的弥补了这点。</p>
@@ -3414,12 +3488,13 @@ ESLint 对于团队协作开发 js 或 ts 项目的风格统一十分有帮助�
 <a href="https://marketplace.visualstudio.com/items?itemName=Vue.volar" target="_blank" rel="noopener noreferrer">https://marketplace.visualstudio.com/items?itemName=Vue.volar</a></p>
 ]]></content>
     <category term="工具"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">4.go 开发设置</title>
-    <id>https://blog.mo7.cc/tools/vscode/vscode_golang.html</id>
-    <link href="https://blog.mo7.cc/tools/vscode/vscode_golang.html"/>
-    <updated>2024-10-07T16:38:12.934Z</updated>
+    <id>https://blog.mo7.cc/Yao/tools/vscode/vscode_golang.html</id>
+    <link href="https://blog.mo7.cc/Yao/tools/vscode/vscode_golang.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>Go</h2>
 <p>go 语言支持，由 go 语言官方开发，好用！</p>
@@ -3443,12 +3518,13 @@ go 语言不需要任何框架。但是是 go-zero 另辟蹊径给出了很多�
 <a href="https://go-zero.dev/" target="_blank" rel="noopener noreferrer">https://go-zero.dev/</a></p>
 ]]></content>
     <category term="工具"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">5.远程开发</title>
-    <id>https://blog.mo7.cc/tools/vscode/vscode_remote.html</id>
-    <link href="https://blog.mo7.cc/tools/vscode/vscode_remote.html"/>
-    <updated>2024-10-07T16:38:12.938Z</updated>
+    <id>https://blog.mo7.cc/Yao/tools/vscode/vscode_remote.html</id>
+    <link href="https://blog.mo7.cc/Yao/tools/vscode/vscode_remote.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>Remote Development</h2>
 <p>远程开发工具包包含四个插件，<br>
@@ -3466,12 +3542,13 @@ go 语言不需要任何框架。但是是 go-zero 另辟蹊径给出了很多�
 <p><a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer" target="_blank" rel="noopener noreferrer">https://marketplace.visualstudio.com/items?itemName=ms-vscode.remote-explorer</a></p>
 ]]></content>
     <category term="工具"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">6.笔记的终极形态</title>
-    <id>https://blog.mo7.cc/tools/vscode/vscode_Draw.html</id>
-    <link href="https://blog.mo7.cc/tools/vscode/vscode_Draw.html"/>
-    <updated>2024-10-07T16:38:12.940Z</updated>
+    <id>https://blog.mo7.cc/Yao/tools/vscode/vscode_Draw.html</id>
+    <link href="https://blog.mo7.cc/Yao/tools/vscode/vscode_Draw.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">个人笔记的终极形态</p>
@@ -3565,12 +3642,13 @@ VSCode 插件，<br>
 <p>然后，等到哪一天你想迁移你的文档了，那简直就是灾难！</p>
 ]]></content>
     <category term="工具"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">7.能力拓展</title>
-    <id>https://blog.mo7.cc/tools/vscode/vscode_nginx.html</id>
-    <link href="https://blog.mo7.cc/tools/vscode/vscode_nginx.html"/>
-    <updated>2024-10-07T16:38:12.972Z</updated>
+    <id>https://blog.mo7.cc/Yao/tools/vscode/vscode_nginx.html</id>
+    <link href="https://blog.mo7.cc/Yao/tools/vscode/vscode_nginx.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>DotENV</h2>
 <p><code>.env</code> 文件支持</p>
@@ -3600,12 +3678,13 @@ VSCode 插件，<br>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><a href="https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format" target="_blank" rel="noopener noreferrer">https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format</a></p>
 ]]></content>
     <category term="工具"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">Visual Studio Code</title>
-    <id>https://blog.mo7.cc/tools/vscode/</id>
-    <link href="https://blog.mo7.cc/tools/vscode/"/>
-    <updated>2024-10-07T16:38:12.977Z</updated>
+    <id>https://blog.mo7.cc/Yao/tools/vscode/</id>
+    <link href="https://blog.mo7.cc/Yao/tools/vscode/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>什么是 VSCode</h2>
 <p><code>Visual Studio Code</code> 简称 <code>VSCode</code> 。<br>
@@ -3626,29 +3705,29 @@ VSCode 插件，<br>
 <h2>章节目录</h2>
 ]]></content>
     <category term="工具"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">1.环境准备与项目启动</title>
-    <id>https://blog.mo7.cc/tutorial/vuepress-hope/step_ready.html</id>
-    <link href="https://blog.mo7.cc/tutorial/vuepress-hope/step_ready.html"/>
-    <updated>2024-10-07T16:38:12.979Z</updated>
+    <id>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_ready.html</id>
+    <link href="https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_ready.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>当前博客采用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank" rel="noopener noreferrer">vuepress-hope</a> 搭建，这是一个免费开源的项目，是我用过的最强大和灵活的静态博客生成工具。</p>
 <p>但是想要完全用好这款工具搭建出符合自己心意的博客，必须得具有一定的知识储备和掌握必要的工具。</p>
 <h2>必要的知识储备</h2>
-<p><a href="/developer/basic/" target="_blank">墨七编写的 编程基础入门</a></p>
-<p>相对路径，命令行，文件编码，开发工具，Git，Github 都需要具备一定的概念才可以。</p>]]></summary>
+<p><a href="/developer/basic/" target="_blank" rel="noopener noreferrer">墨七编写的 编程基础入门</a></p>]]></summary>
     <content type="html"><![CDATA[
 <p>当前博客采用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank" rel="noopener noreferrer">vuepress-hope</a> 搭建，这是一个免费开源的项目，是我用过的最强大和灵活的静态博客生成工具。</p>
 <p>但是想要完全用好这款工具搭建出符合自己心意的博客，必须得具有一定的知识储备和掌握必要的工具。</p>
 <h2>必要的知识储备</h2>
-<p><a href="/developer/basic/" target="_blank">墨七编写的 编程基础入门</a></p>
+<p><a href="/developer/basic/" target="_blank" rel="noopener noreferrer">墨七编写的 编程基础入门</a></p>
 <p>相对路径，命令行，文件编码，开发工具，Git，Github 都需要具备一定的概念才可以。</p>
 <h2>工具准备</h2>
 <h3>命令行环境</h3>
-<p><a href="/developer/front_end_web/nodejs_ready.html" target="_blank">Nodejs 基础环境搭建</a></p>
+<p><a href="/developer/front_end_web/nodejs_ready.html" target="_blank" rel="noopener noreferrer">Nodejs 基础环境搭建</a></p>
 <h3>编辑器</h3>
-<p><a href="/tools/vscode/" target="_blank">Visual Studio Code 使用说明</a></p>
+<p><a href="/tools/vscode/" target="_blank" rel="noopener noreferrer">Visual Studio Code 使用说明</a></p>
 <p>为了良好的体验，需要安装的插件：</p>
 <p><strong>Vue - Official</strong><br>
 <a href="https://marketplace.visualstudio.com/items?itemName=Vue.volar" target="_blank" rel="noopener noreferrer">https://marketplace.visualstudio.com/items?itemName=Vue.volar</a></p>
@@ -3733,12 +3812,13 @@ VSCode 插件，<br>
 <span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">pnpm</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> run</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> weekly</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
     <category term="博客搭建教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">10.图片预览插件</title>
-    <id>https://blog.mo7.cc/tutorial/vuepress-hope/img-preview.html</id>
-    <link href="https://blog.mo7.cc/tutorial/vuepress-hope/img-preview.html"/>
-    <updated>2024-10-07T16:38:12.989Z</updated>
+    <id>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/img-preview.html</id>
+    <link href="https://blog.mo7.cc/Yao/tutorial/vuepress-hope/img-preview.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">相关信息</p>
@@ -4159,12 +4239,13 @@ VSCode 插件，<br>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2>最终效果如下</h2>
 ]]></content>
     <category term="博客搭建教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">2.配置文件讲解</title>
-    <id>https://blog.mo7.cc/tutorial/vuepress-hope/step_config.html</id>
-    <link href="https://blog.mo7.cc/tutorial/vuepress-hope/step_config.html"/>
-    <updated>2024-10-07T16:38:13.080Z</updated>
+    <id>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_config.html</id>
+    <link href="https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_config.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>vuepress 的配置文件分为两类:</p>
 <h2>主配置文件：</h2>
@@ -4185,7 +4266,7 @@ VSCode 插件，<br>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  dest</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'dist'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  host</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '0.0.0.0'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  port</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> 9451</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  base</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '/'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  base</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '/Yao'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  temp</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '.vscode/.vp-temp'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  cache</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '.vscode/.vp-cache'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
 <span class="line"></span>
@@ -4227,7 +4308,7 @@ VSCode 插件，<br>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  dest</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'dist'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  host</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '0.0.0.0'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  port</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> 9451</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  base</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '/'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  base</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '/Yao'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  temp</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '.vscode/.vp-temp'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  cache</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '.vscode/.vp-cache'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
 <span class="line"></span>
@@ -4264,12 +4345,13 @@ VSCode 插件，<br>
 </blockquote>
 ]]></content>
     <category term="博客搭建教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">3.如何编写自定义组件</title>
-    <id>https://blog.mo7.cc/tutorial/vuepress-hope/step_components.html</id>
-    <link href="https://blog.mo7.cc/tutorial/vuepress-hope/step_components.html"/>
-    <updated>2024-10-07T16:38:13.561Z</updated>
+    <id>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_components.html</id>
+    <link href="https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_components.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>如何编写自定义组件啊，这个教程是真的很难写，会就是会，不会的话要学习的知识是很多的。但我还是尽力去讲解吧。</p>
 <p>我这里用一个最简单的组件来举例子:</p>
@@ -4369,12 +4451,13 @@ VSCode 插件，<br>
 <a href="https://cn.vuejs.org/" target="_blank" rel="noopener noreferrer">https://cn.vuejs.org/</a></p>
 ]]></content>
     <category term="博客搭建教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">4.主题魔改说明</title>
-    <id>https://blog.mo7.cc/tutorial/vuepress-hope/step_client.html</id>
-    <link href="https://blog.mo7.cc/tutorial/vuepress-hope/step_client.html"/>
-    <updated>2024-10-07T16:38:13.592Z</updated>
+    <id>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_client.html</id>
+    <link href="https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_client.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>整个站站点的修改分为以下几个部分</p>
 <h2>插件式美化</h2>
@@ -4532,12 +4615,13 @@ VSCode 插件，<br>
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">}</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
     <category term="博客搭建教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">5.在 md 中使用自定义组件</title>
-    <id>https://blog.mo7.cc/tutorial/vuepress-hope/step_md_components.html</id>
-    <link href="https://blog.mo7.cc/tutorial/vuepress-hope/step_md_components.html"/>
-    <updated>2024-10-07T16:38:13.633Z</updated>
+    <id>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_md_components.html</id>
+    <link href="https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_md_components.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>上一个章节讲到的是使用全局组件来对主题和博客进行修改，其实本质上是通过 vue 组件的形式进行了全局的 js 和 css 的引入。和直接 <code>&lt;link href="xxx" /&gt;   &lt;script src="xxx"&gt;</code> 的形式没啥区别。不过使用 vue 组件看起来比较优雅而已。<br>
 而且 vue 组件的代码内容一定会经过 vite 的优化，代码的执行效率会更高。</p>
@@ -4583,12 +4667,13 @@ VSCode 插件，<br>
 <p><a href="https://theme-hope.vuejs.press/zh/guide/component/sfc.html" target="_blank" rel="noopener noreferrer">https://theme-hope.vuejs.press/zh/guide/component/sfc.html</a></p>
 ]]></content>
     <category term="博客搭建教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">6.Klipse 插件的使用</title>
-    <id>https://blog.mo7.cc/tutorial/vuepress-hope/klipse.html</id>
-    <link href="https://blog.mo7.cc/tutorial/vuepress-hope/klipse.html"/>
-    <updated>2024-10-07T16:38:13.826Z</updated>
+    <id>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/klipse.html</id>
+    <link href="https://blog.mo7.cc/Yao/tutorial/vuepress-hope/klipse.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">相关信息</p>
@@ -4712,12 +4797,13 @@ VSCode 插件，<br>
 </div>
 ]]></content>
     <category term="博客搭建教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">7.搭建评论系统</title>
-    <id>https://blog.mo7.cc/tutorial/vuepress-hope/step_talk.html</id>
-    <link href="https://blog.mo7.cc/tutorial/vuepress-hope/step_talk.html"/>
-    <updated>2024-10-07T16:38:13.872Z</updated>
+    <id>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_talk.html</id>
+    <link href="https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_talk.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>这里的评论系统使用了</p>
 <p><a href="https://waline.js.org" target="_blank" rel="noopener noreferrer">https://waline.js.org</a></p>
@@ -4881,12 +4967,13 @@ VSCode 插件，<br>
 <p>也就是说，如果你信任我的话，也可以直接在自己的 博客 配置文件这么填写，评论服务一样可以生效。只不过评论时的邮件和数据全都会存放在我这里。哪天一不开心我也可以关停评论服务。</p>
 ]]></content>
     <category term="博客搭建教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">8.自定义图标和导航栏</title>
-    <id>https://blog.mo7.cc/tutorial/vuepress-hope/step_icon_nav.html</id>
-    <link href="https://blog.mo7.cc/tutorial/vuepress-hope/step_icon_nav.html"/>
-    <updated>2024-10-07T16:38:13.914Z</updated>
+    <id>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_icon_nav.html</id>
+    <link href="https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_icon_nav.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>这个篇章会讲解如何自定义自己的图标</p>
 <p>这里我们会用到一个网站：<br>
@@ -4926,12 +5013,13 @@ VSCode 插件，<br>
 <p>这里是我的导航栏源码:</p>
 ]]></content>
     <category term="博客搭建教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">9.部署和发布</title>
-    <id>https://blog.mo7.cc/tutorial/vuepress-hope/step_deploy.html</id>
-    <link href="https://blog.mo7.cc/tutorial/vuepress-hope/step_deploy.html"/>
-    <updated>2024-10-07T16:38:13.982Z</updated>
+    <id>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_deploy.html</id>
+    <link href="https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_deploy.html"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <p>因为编译结果是一堆纯静态的 html 文件 和 js ，没有任何动态服务器生成的内容。</p>
 <p>所以，一般的 html 文件如何部署，博客就是如何部署的。</p>
@@ -4950,12 +5038,13 @@ VSCode 插件，<br>
 <p>然后你的域名访问 <code>dist</code> 目录的文件内容，然后浏览器加载并解析文件内容并渲染呈现。</p>
 ]]></content>
     <category term="博客搭建教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">本博客搭建指南</title>
-    <id>https://blog.mo7.cc/tutorial/vuepress-hope/</id>
-    <link href="https://blog.mo7.cc/tutorial/vuepress-hope/"/>
-    <updated>2024-10-07T16:38:13.983Z</updated>
+    <id>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/</id>
+    <link href="https://blog.mo7.cc/Yao/tutorial/vuepress-hope/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">本网站搭建指南</p>
@@ -4970,12 +5059,13 @@ VSCode 插件，<br>
 </div>
 ]]></content>
     <category term="博客搭建教程"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
   <entry>
     <title type="text">go-zero</title>
-    <id>https://blog.mo7.cc/developer/golang/go-zero/</id>
-    <link href="https://blog.mo7.cc/developer/golang/go-zero/"/>
-    <updated>2024-10-07T16:38:13.987Z</updated>
+    <id>https://blog.mo7.cc/Yao/developer/golang/go-zero/</id>
+    <link href="https://blog.mo7.cc/Yao/developer/golang/go-zero/"/>
+    <updated>2024-10-07T16:48:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">go-zero 缩短需求到上线的距离</p>
@@ -4990,5 +5080,6 @@ VSCode 插件，<br>
 <p><a href="https://www.bilibili.com/video/BV1Fg4y1W7Na" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1Fg4y1W7Na</a></p>
 ]]></content>
     <category term="Go"/>
+    <published>2024-10-07T14:29:24.000Z</published>
   </entry>
 </feed>

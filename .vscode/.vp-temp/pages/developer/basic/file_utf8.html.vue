@@ -1,7 +1,7 @@
 <template><div><h1 id="_3-文件编码" tabindex="-1"><a class="header-anchor" href="#_3-文件编码"><span>3.文件编码</span></a></h1>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <RouteLink to="/developer/basic/proxy_to_net.html">科学上网</RouteLink>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <p>不知道你有没有遇到过，打开一个<code v-pre>.txt</code>文件却发现文件乱码了？这种时候往往是因为使用了不一样的编码格式去打开文件导致的。</p>
 <p>比如当前正在编写的这篇文章，如果采用 <a href="https://zh.wikipedia.org/wiki/%E6%B1%89%E5%AD%97%E5%86%85%E7%A0%81%E6%89%A9%E5%B1%95%E8%A7%84%E8%8C%83" target="_blank" rel="noopener noreferrer">GBK</a> 编码打开，就会变成一堆不认识的字符：</p>

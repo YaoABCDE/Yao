@@ -47,8 +47,8 @@
 <p>在使用过 <code v-pre>fnm use</code> 命令后，就可以直接使用 对应的 node 版本了。</p>
 </div>
 <h2 id="windows-环境下不推荐使用-fnm" tabindex="-1"><a class="header-anchor" href="#windows-环境下不推荐使用-fnm"><span>Windows 环境下不推荐使用 fnm</span></a></h2>
-<p>因为我 Windows 开发环境一直使用的是 <RouteLink to="/tutorial/wsl_ready.html">WSL 子系统</RouteLink> ，如果 Windows 环境需要使用 nodejs 我建议直接下载 <code v-pre>.msi</code> 安装包进行使用。</p>
-<p>详情可参考 <RouteLink to="/developer/front_end_web/nodejs_ready.html">nodejs 基础环境搭建</RouteLink></p>
+<p>因为我 Windows 开发环境一直使用的是 <a href="/tutorial/wsl_ready.html" target="_blank" rel="noopener noreferrer">WSL 子系统</a> ，如果 Windows 环境需要使用 nodejs 我建议直接下载 <code v-pre>.msi</code> 安装包进行使用。</p>
+<p>详情可参考 <a href="/developer/front_end_web/nodejs_ready.html" target="_blank" rel="noopener noreferrer">nodejs 基础环境搭建</a></p>
 </div></template>
 
 

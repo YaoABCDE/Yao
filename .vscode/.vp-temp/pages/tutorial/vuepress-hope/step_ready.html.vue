@@ -2,13 +2,13 @@
 <p>当前博客采用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank" rel="noopener noreferrer">vuepress-hope</a> 搭建，这是一个免费开源的项目，是我用过的最强大和灵活的静态博客生成工具。</p>
 <p>但是想要完全用好这款工具搭建出符合自己心意的博客，必须得具有一定的知识储备和掌握必要的工具。</p>
 <h2 id="必要的知识储备" tabindex="-1"><a class="header-anchor" href="#必要的知识储备"><span>必要的知识储备</span></a></h2>
-<p><RouteLink to="/developer/basic/">墨七编写的 编程基础入门</RouteLink></p>
+<p><a href="/developer/basic/" target="_blank" rel="noopener noreferrer">墨七编写的 编程基础入门</a></p>
 <p>相对路径，命令行，文件编码，开发工具，Git，Github 都需要具备一定的概念才可以。</p>
 <h2 id="工具准备" tabindex="-1"><a class="header-anchor" href="#工具准备"><span>工具准备</span></a></h2>
 <h3 id="命令行环境" tabindex="-1"><a class="header-anchor" href="#命令行环境"><span>命令行环境</span></a></h3>
-<p><RouteLink to="/developer/front_end_web/nodejs_ready.html">Nodejs 基础环境搭建</RouteLink></p>
+<p><a href="/developer/front_end_web/nodejs_ready.html" target="_blank" rel="noopener noreferrer">Nodejs 基础环境搭建</a></p>
 <h3 id="编辑器" tabindex="-1"><a class="header-anchor" href="#编辑器"><span>编辑器</span></a></h3>
-<p><RouteLink to="/tools/vscode/">Visual Studio Code 使用说明</RouteLink></p>
+<p><a href="/tools/vscode/" target="_blank" rel="noopener noreferrer">Visual Studio Code 使用说明</a></p>
 <p>为了良好的体验，需要安装的插件：</p>
 <p><strong>Vue - Official</strong><br>
 <a href="https://marketplace.visualstudio.com/items?itemName=Vue.volar" target="_blank" rel="noopener noreferrer">https://marketplace.visualstudio.com/items?itemName=Vue.volar</a></p>

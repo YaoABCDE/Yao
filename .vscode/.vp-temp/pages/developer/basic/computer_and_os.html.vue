@@ -1,7 +1,7 @@
 <template><div><h1 id="_1-计算机和操作系统" tabindex="-1"><a class="header-anchor" href="#_1-计算机和操作系统"><span>1.计算机和操作系统</span></a></h1>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <RouteLink to="/developer/basic/proxy_to_net.html">科学上网</RouteLink>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <h2 id="一、计算机的基本组成和工作原理" tabindex="-1"><a class="header-anchor" href="#一、计算机的基本组成和工作原理"><span>一、计算机的基本组成和工作原理</span></a></h2>
 <p>先来一段计算机导论节选：</p>

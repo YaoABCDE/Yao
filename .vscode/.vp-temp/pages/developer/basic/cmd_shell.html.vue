@@ -1,7 +1,7 @@
 <template><div><h1 id="_4-终端与-shell" tabindex="-1"><a class="header-anchor" href="#_4-终端与-shell"><span>4.终端与 shell</span></a></h1>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <RouteLink to="/developer/basic/proxy_to_net.html">科学上网</RouteLink>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <p>我觉得这里放一个视频就足以解释清楚了。</p>
 <BiliBili bvid="BV17m411U7cC" /><p>这里再放上一篇文章</p>
@@ -22,7 +22,7 @@ Windows 下默认为 <a href="https://zh.wikipedia.org/wiki/PowerShell" target="
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
 <p><code v-pre>PowerShell</code> 的语法和 <code v-pre>Bash shell</code> 并不相同，但是在编程领域，<code v-pre>Bash shell</code> 无疑是占据领导地位的，在很多场景下都可以开箱即用，所以十分建议专门学习一下 <code v-pre>Bash shell</code>。</p>
-<p>在 windows 下推荐使用 <a href="https://moshanghua.net/details/2765" target="_blank" rel="noopener noreferrer">Git bash</a> 或 <RouteLink to="/tutorial/wsl_ready.html">WSL</RouteLink> 来进行日常操作。</p>
+<p>在 windows 下推荐使用 <a href="https://moshanghua.net/details/2765" target="_blank" rel="noopener noreferrer">Git bash</a> 或 <a href="/tutorial/wsl_ready.html" target="_blank" rel="noopener noreferrer">WSL</a> 来进行日常操作。</p>
 </div>
 <blockquote>
 <p>好了，到这一步为止，你终于学会了命令行的基本使用了。</p>

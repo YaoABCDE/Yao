@@ -56,7 +56,7 @@
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div></details>
 <h3 id="_2-使用全局的命令行代理" tabindex="-1"><a class="header-anchor" href="#_2-使用全局的命令行代理"><span>2. 使用全局的命令行代理</span></a></h3>
 <blockquote>
-<p>具体细节可参考文章 <RouteLink to="/tutorial/proxy_wall_ready.html">科学上网与本地代理</RouteLink></p>
+<p>具体细节可参考文章 <a href="/tutorial/proxy_wall_ready.html" target="_blank" rel="noopener noreferrer">科学上网与本地代理</a></p>
 </blockquote>
 <p>如果你把代理关了，使用 npm 更新依赖时会有如下显示</p>
 <figure><img src="@source/developer/front_end_web/image/npm_local_propxy.png" alt="npm更新依赖报错" tabindex="0" loading="lazy"><figcaption>npm更新依赖报错</figcaption></figure>

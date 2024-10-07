@@ -1,7 +1,7 @@
 <template><div><h1 id="_8-如何使用搜索引擎" tabindex="-1"><a class="header-anchor" href="#_8-如何使用搜索引擎"><span>8.如何使用搜索引擎</span></a></h1>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <RouteLink to="/developer/basic/proxy_to_net.html">科学上网</RouteLink>。</p>
+<p>注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 <a href="/developer/basic/proxy_to_net.html" target="_blank" rel="noopener noreferrer">科学上网</a>。</p>
 </div>
 <p><a href="https://zh.wikipedia.org/wiki/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E" target="_blank" rel="noopener noreferrer">搜索引擎</a> 是一个跨时代的发明，基本上我们每天都会用到。但是你真的会使用搜索引擎吗？</p>
 <h2 id="搜索引擎的选择" tabindex="-1"><a class="header-anchor" href="#搜索引擎的选择"><span>搜索引擎的选择</span></a></h2>
@@ -21,7 +21,7 @@
 <p>不过实践证明，国内的 Bing 属于特供版，内容会不太一样。</p>
 </blockquote>
 <ol start="2">
-<li>靠搜索家的 <strong>Google</strong> <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">https://www.google.com/</a> 可能需要掌握一定的 <RouteLink to="/tutorial/proxy_wall_ready.html">科学上网</RouteLink> 小技巧。</li>
+<li>靠搜索家的 <strong>Google</strong> <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">https://www.google.com/</a> 可能需要掌握一定的 <a href="/tutorial/proxy_wall_ready.html" target="_blank" rel="noopener noreferrer">科学上网</a> 小技巧。</li>
 </ol>
 <h2 id="搜索引擎使用技巧" tabindex="-1"><a class="header-anchor" href="#搜索引擎使用技巧"><span>搜索引擎使用技巧</span></a></h2>
 <p>只需要认真阅读这篇文章即可：</p>

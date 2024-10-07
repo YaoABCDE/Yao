@@ -1,5 +1,5 @@
 <template><div><h1 id="_4-ssh-跳板机" tabindex="-1"><a class="header-anchor" href="#_4-ssh-跳板机"><span>4.ssh 跳板机</span></a></h1>
-<p>前面讲过 <RouteLink to="/tutorial/proxy_wall_ready.html">科学上网与本地代理</RouteLink>，但是那只是在配置 <code v-pre>http_proxy</code> ，只适用于 <code v-pre>http</code> 请求。</p>
+<p>前面讲过 <a href="/tutorial/proxy_wall_ready.html" target="_blank" rel="noopener noreferrer">科学上网与本地代理</a>，但是那只是在配置 <code v-pre>http_proxy</code> ，只适用于 <code v-pre>http</code> 请求。</p>
 <p><code v-pre>http</code> 请求并非网络的全部，有的时候可能还会用到 <code v-pre>ssh 协议</code>，比如 Github，但是 Github 的访问又不那么流畅，怎么办呢？</p>
 <h2 id="什么是-ssh" tabindex="-1"><a class="header-anchor" href="#什么是-ssh"><span>什么是 <code v-pre>SSH</code></span></a></h2>
 <p>什么是 SSH：<br>

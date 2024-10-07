@@ -6,8 +6,8 @@
     <link>https://blog.mo7.cc/Yao/</link>
     <description>墨七 - 简单快乐，理应如此。</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 07 Oct 2024 14:35:32 GMT</pubDate>
-    <lastBuildDate>Mon, 07 Oct 2024 14:35:32 GMT</lastBuildDate>
+    <pubDate>Mon, 07 Oct 2024 15:10:54 GMT</pubDate>
+    <lastBuildDate>Mon, 07 Oct 2024 15:10:54 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -1927,7 +1927,8 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
       <description>网易云歌单</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="//music.163.com/outchain/player?type=0&amp;id=8056247134&amp;auto=0&amp;height=430"></iframe>
+<!-- <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=550 src="//music.163.com/outchain/player?type=0&id=8056247134&auto=0&height=430"></iframe>-->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="//t1.kugou.com/2KR6d16CSV2"></iframe>
 ]]></content:encoded>
     </item>
     <item>
@@ -2033,18 +2034,6 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 ]]></content:encoded>
     </item>
     <item>
-      <title>最长连续序列 (longestConsecutive)</title>
-      <link>https://blog.mo7.cc/Yao/leetcode/longestConsecutive.html</link>
-      <guid>https://blog.mo7.cc/Yao/leetcode/longestConsecutive.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">最长连续序列 (longestConsecutive)</source>
-      <description>最长连续序列 (longestConsecutive) https://leetcode.cn/problems/longest-consecutive-sequence 解法思路 用 target 挨个 减去 nums 中的项，然后得出结果，如果结果 nums 中存在，则记录下标 JavaScript Golang</description>
-      <category>leetcode</category>
-      <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
-      <content:encoded><![CDATA[
-<p><a href="https://leetcode.cn/problems/longest-consecutive-sequence" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/longest-consecutive-sequence</a></p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>盛最多水的容器 (maxArea)</title>
       <link>https://blog.mo7.cc/Yao/leetcode/maxArea.html</link>
       <guid>https://blog.mo7.cc/Yao/leetcode/maxArea.html</guid>
@@ -2054,6 +2043,18 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
 <p><a href="https://leetcode.cn/problems/container-with-most-water" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/container-with-most-water</a></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>最长连续序列 (longestConsecutive)</title>
+      <link>https://blog.mo7.cc/Yao/leetcode/longestConsecutive.html</link>
+      <guid>https://blog.mo7.cc/Yao/leetcode/longestConsecutive.html</guid>
+      <source url="https://blog.mo7.cc/Yao/rss.xml">最长连续序列 (longestConsecutive)</source>
+      <description>最长连续序列 (longestConsecutive) https://leetcode.cn/problems/longest-consecutive-sequence 解法思路 用 target 挨个 减去 nums 中的项，然后得出结果，如果结果 nums 中存在，则记录下标 JavaScript Golang</description>
+      <category>leetcode</category>
+      <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
+      <content:encoded><![CDATA[
+<p><a href="https://leetcode.cn/problems/longest-consecutive-sequence" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/longest-consecutive-sequence</a></p>
 ]]></content:encoded>
     </item>
     <item>

@@ -9,5 +9,5 @@
     "outDir": "./dist"
   },
   "include": ["src/.vuepress/**/*.ts", "src/.vuepress/**/*.vue", "src/.vuepress/**/*"],
-  "exclude": ["node_modules", "dist", "__private","axios"]
+  "exclude": ["node_modules", "dist", "__private"]
 }

@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://blog.mo7.cc/Yao/en/atom.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://blog.mo7.cc/en/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
-  <id>https://blog.mo7.cc/Yao/en/</id>
+  <id>https://blog.mo7.cc/en/</id>
   <title>Mo7</title>
   <subtitle>Mo7 - Simple and happy, as it should be.</subtitle>
-  <icon>https://blog.mo7.cc/Yao/pwa/512.png</icon>
-  <logo>https://blog.mo7.cc/Yao/pwa/72.png</logo>
-  <updated>2024-10-07T15:10:54.464Z</updated>
+  <icon>https://blog.mo7.cc/pwa/512.png</icon>
+  <logo>https://blog.mo7.cc/pwa/72.png</logo>
+  <updated>2024-10-07T15:25:24.582Z</updated>
   <generator>@vuepress/plugin-feed</generator>
-  <link rel="self" href="https://blog.mo7.cc/Yao/en/atom.xml"/>
-  <link rel="alternate" href="https://blog.mo7.cc/Yao/en/"/>
+  <link rel="self" href="https://blog.mo7.cc/en/atom.xml"/>
+  <link rel="alternate" href="https://blog.mo7.cc/en/"/>
   <category term="Guide"/>
   <category term="Cherry"/>
   <category term="Dragon Fruit"/>
@@ -22,8 +22,8 @@
   </contributor>
   <entry>
     <title type="text">Page Config</title>
-    <id>https://blog.mo7.cc/Yao/en/demo/page.html</id>
-    <link href="https://blog.mo7.cc/Yao/en/demo/page.html"/>
+    <id>https://blog.mo7.cc/en/demo/page.html</id>
+    <link href="https://blog.mo7.cc/en/demo/page.html"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[<p>Content before <code>more</code> comment is regarded as page excerpt.</p>
 ]]></summary>
@@ -81,32 +81,32 @@
   </entry>
   <entry>
     <title type="text">Features Demo</title>
-    <id>https://blog.mo7.cc/Yao/en/demo/</id>
-    <link href="https://blog.mo7.cc/Yao/en/demo/"/>
+    <id>https://blog.mo7.cc/en/demo/</id>
+    <link href="https://blog.mo7.cc/en/demo/"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[<h2>Catalog</h2>
 <ul>
 <li>
-<p><a href="/Yao/en/demo/page.html" target="_blank">Page Config</a></p>
+<p><a href="/en/demo/page.html" target="_blank">Page Config</a></p>
 </li>
 <li>
-<p><a href="/Yao/en/demo/disable.html" target="_blank">Function Disable</a></p>
+<p><a href="/en/demo/disable.html" target="_blank">Function Disable</a></p>
 </li>
 <li>
-<p><a href="/Yao/en/demo/encrypt.html" target="_blank">Encryption Demo</a></p>
+<p><a href="/en/demo/encrypt.html" target="_blank">Encryption Demo</a></p>
 </li>
 </ul>
 ]]></summary>
     <content type="html"><![CDATA[<h2>Catalog</h2>
 <ul>
 <li>
-<p><a href="/Yao/en/demo/page.html" target="_blank">Page Config</a></p>
+<p><a href="/en/demo/page.html" target="_blank">Page Config</a></p>
 </li>
 <li>
-<p><a href="/Yao/en/demo/disable.html" target="_blank">Function Disable</a></p>
+<p><a href="/en/demo/disable.html" target="_blank">Function Disable</a></p>
 </li>
 <li>
-<p><a href="/Yao/en/demo/encrypt.html" target="_blank">Encryption Demo</a></p>
+<p><a href="/en/demo/encrypt.html" target="_blank">Encryption Demo</a></p>
 </li>
 </ul>
 ]]></content>
@@ -115,8 +115,8 @@
   </entry>
   <entry>
     <title type="text">Intro Page</title>
-    <id>https://blog.mo7.cc/Yao/en/intro.html</id>
-    <link href="https://blog.mo7.cc/Yao/en/intro.html"/>
+    <id>https://blog.mo7.cc/en/intro.html</id>
+    <link href="https://blog.mo7.cc/en/intro.html"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[
 <p>Place your introduction and profile here.</p>
@@ -128,8 +128,8 @@
   </entry>
   <entry>
     <title type="text">Disabling layout and features</title>
-    <id>https://blog.mo7.cc/Yao/en/demo/disable.html</id>
-    <link href="https://blog.mo7.cc/Yao/en/demo/disable.html"/>
+    <id>https://blog.mo7.cc/en/demo/disable.html</id>
+    <link href="https://blog.mo7.cc/en/demo/disable.html"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[<p>You can disable some function and layout on the page by setting the Frontmatter of the page.</p>
 ]]></summary>
@@ -155,8 +155,8 @@
   </entry>
   <entry>
     <title type="text">Encryption Article</title>
-    <id>https://blog.mo7.cc/Yao/en/demo/encrypt.html</id>
-    <link href="https://blog.mo7.cc/Yao/en/demo/encrypt.html"/>
+    <id>https://blog.mo7.cc/en/demo/encrypt.html</id>
+    <link href="https://blog.mo7.cc/en/demo/encrypt.html"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[
 <p>The actual article content.</p>
@@ -172,8 +172,8 @@
   </entry>
   <entry>
     <title type="text">Cherry</title>
-    <id>https://blog.mo7.cc/Yao/en/posts/cherry.html</id>
-    <link href="https://blog.mo7.cc/Yao/en/posts/cherry.html"/>
+    <id>https://blog.mo7.cc/en/posts/cherry.html</id>
+    <link href="https://blog.mo7.cc/en/posts/cherry.html"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>Heading 2</h2>
@@ -192,8 +192,8 @@
   </entry>
   <entry>
     <title type="text">Dragon Fruit</title>
-    <id>https://blog.mo7.cc/Yao/en/posts/dragonfruit.html</id>
-    <link href="https://blog.mo7.cc/Yao/en/posts/dragonfruit.html"/>
+    <id>https://blog.mo7.cc/en/posts/dragonfruit.html</id>
+    <link href="https://blog.mo7.cc/en/posts/dragonfruit.html"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>Heading 2</h2>
@@ -213,8 +213,8 @@
   </entry>
   <entry>
     <title type="text">Strawberry</title>
-    <id>https://blog.mo7.cc/Yao/en/posts/strawberry.html</id>
-    <link href="https://blog.mo7.cc/Yao/en/posts/strawberry.html"/>
+    <id>https://blog.mo7.cc/en/posts/strawberry.html</id>
+    <link href="https://blog.mo7.cc/en/posts/strawberry.html"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>Heading 2</h2>
@@ -234,8 +234,8 @@
   </entry>
   <entry>
     <title type="text">Tomato</title>
-    <id>https://blog.mo7.cc/Yao/en/posts/tomato.html</id>
-    <link href="https://blog.mo7.cc/Yao/en/posts/tomato.html"/>
+    <id>https://blog.mo7.cc/en/posts/tomato.html</id>
+    <link href="https://blog.mo7.cc/en/posts/tomato.html"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>Heading 2</h2>
@@ -254,8 +254,8 @@
   </entry>
   <entry>
     <title type="text">Apple 1</title>
-    <id>https://blog.mo7.cc/Yao/en/posts/apple/1.html</id>
-    <link href="https://blog.mo7.cc/Yao/en/posts/apple/1.html"/>
+    <id>https://blog.mo7.cc/en/posts/apple/1.html</id>
+    <link href="https://blog.mo7.cc/en/posts/apple/1.html"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>Heading 2</h2>
@@ -274,8 +274,8 @@
   </entry>
   <entry>
     <title type="text">Apple 2</title>
-    <id>https://blog.mo7.cc/Yao/en/posts/apple/2.html</id>
-    <link href="https://blog.mo7.cc/Yao/en/posts/apple/2.html"/>
+    <id>https://blog.mo7.cc/en/posts/apple/2.html</id>
+    <link href="https://blog.mo7.cc/en/posts/apple/2.html"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[
 <p>A apple article being stared.</p>
@@ -293,8 +293,8 @@
   </entry>
   <entry>
     <title type="text">Apple 3</title>
-    <id>https://blog.mo7.cc/Yao/en/posts/apple/3.html</id>
-    <link href="https://blog.mo7.cc/Yao/en/posts/apple/3.html"/>
+    <id>https://blog.mo7.cc/en/posts/apple/3.html</id>
+    <link href="https://blog.mo7.cc/en/posts/apple/3.html"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>Heading 2</h2>
@@ -314,8 +314,8 @@
   </entry>
   <entry>
     <title type="text">Apple 4</title>
-    <id>https://blog.mo7.cc/Yao/en/posts/apple/4.html</id>
-    <link href="https://blog.mo7.cc/Yao/en/posts/apple/4.html"/>
+    <id>https://blog.mo7.cc/en/posts/apple/4.html</id>
+    <link href="https://blog.mo7.cc/en/posts/apple/4.html"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>Heading 2</h2>
@@ -335,8 +335,8 @@
   </entry>
   <entry>
     <title type="text">Banana 1</title>
-    <id>https://blog.mo7.cc/Yao/en/posts/banana/1.html</id>
-    <link href="https://blog.mo7.cc/Yao/en/posts/banana/1.html"/>
+    <id>https://blog.mo7.cc/en/posts/banana/1.html</id>
+    <link href="https://blog.mo7.cc/en/posts/banana/1.html"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>Heading 2</h2>
@@ -356,8 +356,8 @@
   </entry>
   <entry>
     <title type="text">Banana 2</title>
-    <id>https://blog.mo7.cc/Yao/en/posts/banana/2.html</id>
-    <link href="https://blog.mo7.cc/Yao/en/posts/banana/2.html"/>
+    <id>https://blog.mo7.cc/en/posts/banana/2.html</id>
+    <link href="https://blog.mo7.cc/en/posts/banana/2.html"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[
 <p>A banana article being stared with number <code>10</code>.</p>
@@ -376,8 +376,8 @@
   </entry>
   <entry>
     <title type="text">Banana 3</title>
-    <id>https://blog.mo7.cc/Yao/en/posts/banana/3.html</id>
-    <link href="https://blog.mo7.cc/Yao/en/posts/banana/3.html"/>
+    <id>https://blog.mo7.cc/en/posts/banana/3.html</id>
+    <link href="https://blog.mo7.cc/en/posts/banana/3.html"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>Heading 2</h2>
@@ -396,8 +396,8 @@
   </entry>
   <entry>
     <title type="text">Banana 4</title>
-    <id>https://blog.mo7.cc/Yao/en/posts/banana/4.html</id>
-    <link href="https://blog.mo7.cc/Yao/en/posts/banana/4.html"/>
+    <id>https://blog.mo7.cc/en/posts/banana/4.html</id>
+    <link href="https://blog.mo7.cc/en/posts/banana/4.html"/>
     <updated>2024-10-07T14:29:24.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>Heading 2</h2>

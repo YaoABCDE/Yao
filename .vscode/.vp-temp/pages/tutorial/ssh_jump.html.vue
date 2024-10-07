@@ -1,0 +1,58 @@
+<template><div><h1 id="_4-ssh-跳板机" tabindex="-1"><a class="header-anchor" href="#_4-ssh-跳板机"><span>4.ssh 跳板机</span></a></h1>
+<p>前面讲过 <RouteLink to="/tutorial/proxy_wall_ready.html">科学上网与本地代理</RouteLink>，但是那只是在配置 <code v-pre>http_proxy</code> ，只适用于 <code v-pre>http</code> 请求。</p>
+<p><code v-pre>http</code> 请求并非网络的全部，有的时候可能还会用到 <code v-pre>ssh 协议</code>，比如 Github，但是 Github 的访问又不那么流畅，怎么办呢？</p>
+<h2 id="什么是-ssh" tabindex="-1"><a class="header-anchor" href="#什么是-ssh"><span>什么是 <code v-pre>SSH</code></span></a></h2>
+<p>什么是 SSH：<br>
+<a href="https://info.support.huawei.com/info-finder/encyclopedia/zh/SSH.html" target="_blank" rel="noopener noreferrer">https://info.support.huawei.com/info-finder/encyclopedia/zh/SSH.html</a></p>
+<h2 id="什么是-ssh跳板机" tabindex="-1"><a class="header-anchor" href="#什么是-ssh跳板机"><span>什么是 <code v-pre>SSH跳板机</code></span></a></h2>
+<p>在公司开发中，为了安全起见，生产环境跟开发环境是相互隔离开来的。也就是说在开发环境网络中无法直接 ssh 登录到生产环境的机器， 如果需要登录生产环境的机器，通常会需要借助跳板机，先登录到跳板机，然后通过跳板机登录到生产环境。</p>
+<ul>
+<li>大致的过程如下面的图示：</li>
+</ul>
+<div class="language-txt line-numbers-mode" data-highlighter="shiki" data-ext="txt" data-title="txt" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre v-pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>+-------------+       +-----------+       +--------------+</span></span>
+<span class="line"><span>| 开发环境机器 | &#x3C;---> | 跳板服务器 | &#x3C;---> |  生产环境机器 |</span></span>
+<span class="line"><span>+-------------+       +-----------+       +--------------+</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ul>
+<li>换成 shell 命令就是：</li>
+</ul>
+<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre v-pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">ssh</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> foo@jump_host</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">  -----</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">></span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">  ssh</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> bar@production_host</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><ul>
+<li>两步操作变成一步</li>
+</ul>
+<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre v-pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">ssh</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -tt</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> foo@jump_host</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> ssh</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -tt</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> bar@production_host</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><h2 id="通过设置-proxycommand-把配置写到配置文件里面" tabindex="-1"><a class="header-anchor" href="#通过设置-proxycommand-把配置写到配置文件里面"><span>通过设置 ProxyCommand 把配置写到配置文件里面</span></a></h2>
+<p>文件:<code v-pre>~/.ssh/config</code></p>
+<blockquote>
+<p>如果没有就自己新建一个</p>
+</blockquote>
+<p>比如我的机器一般是这么配置的:</p>
+<div class="language-js line-numbers-mode" data-highlighter="shiki" data-ext="js" data-title="js" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre v-pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">Host</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B"> www</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">mo7</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cc</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">  HostName</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B"> www</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">mo7</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cc</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">  User</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> root</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">Host</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B"> github</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">com</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">  HostName</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B"> github</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">com</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">  User</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> git</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">  ProxyCommand</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> ssh</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> -</span><span style="--shiki-light:#986801;--shiki-dark:#E5C07B">W</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> %</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">h</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">%</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">p</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B"> www</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">mo7</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cc</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>这样 在执行 <code v-pre>git clone git@github.com:xxxx/xxxx.git</code> 的时候会通过 <code v-pre>www.mo7.cc</code> 的网络了</p>
+</blockquote>
+<p>语法示例如下</p>
+<div class="language-js line-numbers-mode" data-highlighter="shiki" data-ext="js" data-title="js" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre v-pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">Host</span><span style="--shiki-light:#986801;--shiki-dark:#E5C07B"> B</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    HostName</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> %</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">h</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    User</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> dsl</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    Port</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> 1046</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    IdentityFile</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ~/</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">ssh</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">id_dsa</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">Host</span><span style="--shiki-light:#986801;--shiki-dark:#E5C07B"> C</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    HostName</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> %</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">h</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    User</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> dsl</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    Port</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> 1046</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    IdentityFile</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ~/</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">ssh</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">id_rsa</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    ProxyCommand</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> ssh</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> -</span><span style="--shiki-light:#986801;--shiki-dark:#E5C07B">W</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> %</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">h</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">%</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">p</span><span style="--shiki-light:#986801;--shiki-dark:#E5C07B"> B</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote>
+<p>记得添加 ssh 私钥</p>
+</blockquote>
+</div></template>
+
+

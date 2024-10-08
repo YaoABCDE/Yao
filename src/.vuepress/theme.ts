@@ -5,6 +5,7 @@ import { getDirname, path } from 'vuepress/utils';
 //import { BlogPassword } from '../../__private/password.js';
 const __dirname = getDirname(import.meta.url);
 
+//页脚设置
 const footerICP_HTML = `
 <a class="footer-icp" href="https://beian.miit.gov.cn" target="_blank">
   <img src="//file.mo7.cc/static/img/beian.png">
@@ -13,7 +14,7 @@ const footerICP_HTML = `
 `;
 
 export default hopeTheme({
-  hostname: 'https://blog.mo7.cc',
+  hostname: 'https://yaoabcde.github.io/Yao',
   author: {
     name: 'Yao',
     url: 'https://baidu.com',
@@ -46,20 +47,20 @@ export default hopeTheme({
   blog: {
     name: 'Mr.Yao',
     //avatar: '//file.mo7.cc/static/lxh_gif/lxh_71.gif',
-    avatar:'/YaoPhoto/png/logo2.png',
+    avatar:'/YaoPhoto/png/logo3.png',//右边博客logo
     description: '改变世界从小事做起。',
-    intro: 'https://blog.mo7.cc/about/me.html',
+    intro: 'www.bing.com',
     medias: {
-      Email: 'mailto:mo7@mo7.cc',
-      GitHub: 'https://github.com/mo7cc',
-      Discord: 'https://discord.gg/8yXKxbSDDg',
-      Lark: 'https://www.larksuite.com/invitation/page/add_contact/?token=c8co337a-9dd7-4976-998f-5d2898o763r5&amp;unique_id=cgjGUk53Y2dh_FCZPuqY_A==',
-      WechatPay: 'https://file.mo7.cc/static/img/wx_proceeds.jpg',
-      QQ: 'https://file.mo7.cc/static/img/myqq.jpeg',
-      Wechat: 'https://file.mo7.cc/static/img/mywchart.jpeg',
-      Zhihu: 'https://www.zhihu.com/people/meichangliang',
-      BiliBili: 'https://space.bilibili.com/24452567',
-      Rss: 'https://blog.mo7.cc/atom.xml',
+      //WechatPay: '/YaoPhoto/QRCode/微信支付.png',
+      //QQ: 'https://file.mo7.cc/static/img/myqq.jpeg',
+      Email: 'mailto:1964877312@QQ.com',
+      GitHub: 'https://github.com/YaoABCDE',
+      // Discord: 'https://discord.gg/8yXKxbSDDg',
+      // Lark: 'https://www.larksuite.com/invitation/page/add_contact/?token=c8co337a-9dd7-4976-998f-5d2898o763r5&amp;unique_id=cgjGUk53Y2dh_FCZPuqY_A==',
+      // Wechat: 'https://file.mo7.cc/static/img/mywchart.jpeg',
+      // Zhihu: 'https://www.zhihu.com/people/meichangliang',
+      // BiliBili: 'https://space.bilibili.com/24452567',
+      // Rss: 'https://blog.mo7.cc/atom.xml',
     },
   },
 
@@ -71,8 +72,9 @@ export default hopeTheme({
       sidebar: zhSidebar,
       blog: {
         name: 'Yao',//博客名称
-        description: '称霸世界',
-        intro: '/about/me.html',
+        description: '称霸世界', //博客介绍
+        intro: '/Yao/blogme/me.html',//点击主页跳到自我介绍
+        //intro: '/about/me.html',//点击主页跳到自我介绍
         timeline: '颠倒黑白，明辨是非。',
       },
     },
@@ -89,6 +91,7 @@ export default hopeTheme({
     },
   },
 
+  //项目密钥
   // encrypt: {
   //   config: {
   //     '/en/demo/encrypt.html': [BlogPassword],
@@ -125,6 +128,7 @@ export default hopeTheme({
       icon: '/YaoPhoto/png/logo3.png',
     },
 
+    //博客个人页-2分类-3标签
     searchPro: {
       // 索引全部内容
       indexContent: true,

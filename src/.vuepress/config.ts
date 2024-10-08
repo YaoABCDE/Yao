@@ -13,15 +13,15 @@ export default defineUserConfig({
   dest: 'dist',
   host: '0.0.0.0',
   port: 9451,
-  base: '/Yao/',
+  base: '/Yao/',  //部署站点的基础路径
   temp: '.vscode/.vp-temp',
   cache: '.vscode/.vp-cache',
 
   locales: {
     '/': {
-      lang: 'zh-CN',
-      title: 'YAO',
-      description: '我欲修仙，快乐齐天',
+      lang: 'zh-CN',//语言选项
+      title: 'YAO', //主页标题
+      description: '我欲修仙，快乐齐天', //站点的描述
     },
     '/en/': {
       lang: 'en-US',

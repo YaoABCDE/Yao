@@ -3,12 +3,14 @@ home: true
 layout: BlogHome
 icon: home
 title: Home
-heroImage: /pwa/144.png
-bgImage: //file.mo7.cc/api/public/bz
-heroText: Mo7
-tagline: Something wonderful is about to  happen.
+# heroImage: /pwa/144.png
+# bgImage: //file.mo7.cc/api/public/bz
+heroImage: /YaoPhoto/png/logo3.png  #首页图标
+bgImage: /YaoPhoto/jpg/11.jpg  #首页图片
+heroText: Yao
+tagline: Yao hello world ！！！
 heroFullScreen: true
-description: Mo7's blog
+description: Yao blog
 article: false
 projects:
   - icon: project
@@ -34,11 +36,6 @@ projects:
   - icon: friend
     name: friend name
     desc: Detailed description of friend
-    link: https://link.to.your.friend
-
-  - icon: http://file.mo7.cc/static/lxh_gif/lxh_71.gif
-    name: custom item
-    desc: Detailed description of this custom item
     link: https://link.to.your.friend
 
 footer: true

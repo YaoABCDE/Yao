@@ -1,0 +1,16 @@
+import comp from "D:/node/Yaoweb5/.vscode/.vp-temp/pages/Yao/blogme/website.html.vue"
+const data = JSON.parse("{\"path\":\"/Yao/blogme/website.html\",\"title\":\"关于本站 Yao:测试\",\"lang\":\"zh-CN\",\"frontmatter\":{\"icon\":\"web\",\"star\":2,\"order\":1,\"permalink\":\"/Yao/blogme/website.html\",\"description\":\"关于本站 Yao:测试 前言 我基于 ThemeHope 这款主题做了一些魔改改，包括样式以及功能。每一处修改均以插件的形式进行了封装，现在已经开源并发布。 Github 地址: https://github.com/mo7cc/BlogSource 注: 本站并非开源，但是我写了一个同步脚本，会定期将博客的源码同步至上述公开仓库中。通过上述仓库中的源...\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://yaoabcde.github.io/Yao/Yao/Yao/blogme/website.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"YAO\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"关于本站 Yao:测试\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"关于本站 Yao:测试 前言 我基于 ThemeHope 这款主题做了一些魔改改，包括样式以及功能。每一处修改均以插件的形式进行了封装，现在已经开源并发布。 Github 地址: https://github.com/mo7cc/BlogSource 注: 本站并非开源，但是我写了一个同步脚本，会定期将博客的源码同步至上述公开仓库中。通过上述仓库中的源...\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"关于本站 Yao:测试\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"Yao\\\",\\\"url\\\":\\\"https://baidu.com\\\",\\\"email\\\":\\\"1964877312@qq.com\\\"}]}\"]]},\"headers\":[{\"level\":2,\"title\":\"前言\",\"slug\":\"前言\",\"link\":\"#前言\",\"children\":[{\"level\":3,\"title\":\"顶栏和音乐播放器\",\"slug\":\"顶栏和音乐播放器\",\"link\":\"#顶栏和音乐播放器\",\"children\":[]},{\"level\":3,\"title\":\"宽屏兼容\",\"slug\":\"宽屏兼容\",\"link\":\"#宽屏兼容\",\"children\":[]},{\"level\":3,\"title\":\"夜晚模式\",\"slug\":\"夜晚模式\",\"link\":\"#夜晚模式\",\"children\":[]},{\"level\":3,\"title\":\"评论区介绍\",\"slug\":\"评论区介绍\",\"link\":\"#评论区介绍\",\"children\":[]}]},{\"level\":2,\"title\":\"缘起\",\"slug\":\"缘起\",\"link\":\"#缘起\",\"children\":[]},{\"level\":2,\"title\":\"缘落\",\"slug\":\"缘落\",\"link\":\"#缘落\",\"children\":[]},{\"level\":2,\"title\":\"需求\",\"slug\":\"需求\",\"link\":\"#需求\",\"children\":[]},{\"level\":2,\"title\":\"Hexo\",\"slug\":\"hexo\",\"link\":\"#hexo\",\"children\":[]},{\"level\":2,\"title\":\"VuePress\",\"slug\":\"vuepress\",\"link\":\"#vuepress\",\"children\":[]},{\"level\":2,\"title\":\"vuepress-theme-hope\",\"slug\":\"vuepress-theme-hope\",\"link\":\"#vuepress-theme-hope\",\"children\":[]}],\"git\":{\"createdTime\":null,\"updatedTime\":null,\"contributors\":[]},\"readingTime\":{\"minutes\":7.2,\"words\":2159},\"filePathRelative\":\"Yao/blogme/关于本站.md\",\"excerpt\":\"\\n<h2>前言</h2>\\n<p>我基于 <a href=\\\"https://theme-hope.vuejs.press\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">ThemeHope</a> 这款主题做了一些魔改改，包括样式以及功能。每一处修改均以插件的形式进行了封装，现在已经开源并发布。</p>\\n<p>Github 地址: <a href=\\\"https://github.com/mo7cc/BlogSource\\\" target=\\\"_blank\\\" rel=\\\"noopener noreferrer\\\">https://github.com/mo7cc/BlogSource</a></p>\",\"autoDesc\":true}")
+export { comp, data }
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

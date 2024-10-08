@@ -73,7 +73,7 @@ export default hopeTheme({
       blog: {
         name: 'Yao',//博客名称
         description: '称霸世界', //博客介绍
-        intro: '/Yao/blogme/me.html',//点击主页跳到自我介绍
+        intro: '/Yao/myblog/me.html',//点击主页跳到自我介绍
         //intro: '/about/me.html',//点击主页跳到自我介绍
         timeline: '颠倒黑白，明辨是非。',
       },

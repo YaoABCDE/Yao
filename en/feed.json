@@ -1,11 +1,11 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "Mo7",
+  "title": "Yao",
   "home_page_url": "https://blog.mo7.cc/Yao/en/",
   "feed_url": "https://blog.mo7.cc/Yao/en/feed.json",
-  "description": "Mo7 - Simple and happy, as it should be.",
-  "icon": "https://blog.mo7.cc/Yao/pwa/72.png",
-  "favicon": "https://blog.mo7.cc/Yao/pwa/512.png",
+  "description": "Hello Yao",
+  "icon": "https://blog.mo7.cc/Yao/YaoPhoto/png/logo2.png",
+  "favicon": "https://blog.mo7.cc/Yao/YaoPhoto/png/logo3.png",
   "items": [
     {
       "title": "Features Demo",

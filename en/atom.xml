@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://blog.mo7.cc/Yao/en/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
   <id>https://blog.mo7.cc/Yao/en/</id>
-  <title>Mo7</title>
-  <subtitle>Mo7 - Simple and happy, as it should be.</subtitle>
-  <icon>https://blog.mo7.cc/Yao/pwa/512.png</icon>
-  <logo>https://blog.mo7.cc/Yao/pwa/72.png</logo>
-  <updated>2024-10-07T17:04:05.120Z</updated>
+  <title>Yao</title>
+  <subtitle>Hello Yao</subtitle>
+  <icon>https://blog.mo7.cc/Yao/YaoPhoto/png/logo3.png</icon>
+  <logo>https://blog.mo7.cc/Yao/YaoPhoto/png/logo2.png</logo>
+  <updated>2024-10-08T05:59:36.965Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://blog.mo7.cc/Yao/en/atom.xml"/>
   <link rel="alternate" href="https://blog.mo7.cc/Yao/en/"/>

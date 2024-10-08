@@ -41,11 +41,12 @@ export default hopeTheme({
   },
 
   iconAssets: '//at.alicdn.com/t/c/font_3855310_3p4qtirn5xz.css',
-  logo: '/YaoPhoto/png/logo3.png',
+  logo: '/YaoPhoto/png/logo3.png',//左上角图标
   docsDir: 'src',
   blog: {
     name: 'Mr.Yao',
-    avatar: '//file.mo7.cc/static/lxh_gif/lxh_71.gif',
+    //avatar: '//file.mo7.cc/static/lxh_gif/lxh_71.gif',
+    avatar:'/YaoPhoto/png/logo2.png',
     description: '改变世界从小事做起。',
     intro: 'https://blog.mo7.cc/about/me.html',
     medias: {
@@ -62,13 +63,14 @@ export default hopeTheme({
     },
   },
 
+//博客展示中英文
   footer: footerICP_HTML,
   locales: {
     '/': {
       navbar: zhNavbar,
       sidebar: zhSidebar,
       blog: {
-        name: 'Yao',
+        name: 'Yao',//博客名称
         description: '称霸世界',
         intro: '/about/me.html',
         timeline: '颠倒黑白，明辨是非。',
@@ -101,6 +103,7 @@ export default hopeTheme({
     blog: true,
     photoSwipe: false, // 这个插件难用的 一 B
 
+    //留言板
     comment: {
       provider: 'Waline',
       serverURL: 'https://talk.mo7.cc',
@@ -188,51 +191,51 @@ export default hopeTheme({
 
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     pwa: {
-      favicon: '/favicon.ico',
+      favicon: '/YaoPhoto/ico/64.ico',//网页头logo
       cacheHTML: true,
       cacheImage: true,
       appendBase: true,
       apple: {
-        icon: '/pwa/144.png',
+        icon: '/YaoPhoto/logopng/144.png',
         statusBarColor: 'black',
       },
       msTile: {
-        image: '/pwa/144.png',
+        image: '/YaoPhoto/logopng/144.png',
         color: '#000',
       },
       manifest: {
         icons: [
           {
-            src: '/pwa/512.png',
+            src: '/YaoPhoto/logopng/512.png',
             sizes: '512x512',
             purpose: 'maskable',
             type: 'image/png',
           },
           {
-            src: '/pwa/192.png',
+            src: '/YaoPhoto/logopng/192.png',
             sizes: '192x192',
             purpose: 'maskable',
             type: 'image/png',
           },
           {
-            src: '/pwa/512.png',
+            src: '/YaoPhoto/logopng/512.png',
             sizes: '512x512',
             type: 'image/png',
           },
           {
-            src: '/pwa/192.png',
+            src: '/YaoPhoto/logopng/192.png',
             sizes: '192x192',
             type: 'image/png',
           },
         ],
         shortcuts: [
           {
-            name: '墨七',
-            short_name: '墨七',
+            name: 'YAO',
+            short_name: 'Yao',
             url: '/',
             icons: [
               {
-                src: '/pwa/192.png',
+                src: '/YaoPhoto/logopng/192.png',
                 sizes: '192x192',
                 purpose: 'maskable',
                 type: 'image/png',

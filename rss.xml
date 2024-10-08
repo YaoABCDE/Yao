@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://blog.mo7.cc/Yao/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://yaoabcde.github.io/Yao/Yao/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://blog.mo7.cc/Yao/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://yaoabcde.github.io/Yao/Yao/rss.xml" rel="self" type="application/rss+xml"/>
     <title>YAO</title>
-    <link>https://blog.mo7.cc/Yao/</link>
+    <link>https://yaoabcde.github.io/Yao/Yao/</link>
     <description>我欲修仙，快乐齐天</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 08 Oct 2024 14:09:42 GMT</pubDate>
-    <lastBuildDate>Tue, 08 Oct 2024 14:09:42 GMT</lastBuildDate>
+    <pubDate>Tue, 08 Oct 2024 17:30:57 GMT</pubDate>
+    <lastBuildDate>Tue, 08 Oct 2024 17:30:57 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
       <title>YAO</title>
-      <url>https://blog.mo7.cc/Yao/YaoPhoto/png/logo2.png</url>
-      <link>https://blog.mo7.cc/Yao/</link>
+      <url>https://yaoabcde.github.io/Yao/Yao/YaoPhoto/png/logo2.png</url>
+      <link>https://yaoabcde.github.io/Yao/Yao/</link>
     </image>
     <category>developer</category>
     <category>leetcode</category>
@@ -26,12 +26,34 @@
     <category>Golang</category>
     <category>Linux</category>
     <category>博客搭建教程</category>
-    <category>Go</category>
+    <item>
+      <title>关于我 测试</title>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/me.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/me.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">关于我 测试</source>
+      <description>关于我 测试</description>
+      <pubDate>Tue, 08 Oct 2024 17:24:05 GMT</pubDate>
+      <content:encoded><![CDATA[
+]]></content:encoded>
+    </item>
+    <item>
+      <title>收藏</title>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">收藏</source>
+      <description>收藏 有些记忆，弥足珍贵</description>
+      <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">有些记忆，弥足珍贵</p>
+</div>
+]]></content:encoded>
+    </item>
     <item>
       <title>关于</title>
-      <link>https://blog.mo7.cc/Yao/about/</link>
-      <guid>https://blog.mo7.cc/Yao/about/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">关于</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/about/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/about/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">关于</source>
       <description>关于 关于本站</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -42,9 +64,9 @@
     </item>
     <item>
       <title>关于我</title>
-      <link>https://blog.mo7.cc/Yao/about/me.html</link>
-      <guid>https://blog.mo7.cc/Yao/about/me.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">关于我</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/about/me.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/about/me.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">关于我</source>
       <description>关于我 墨七(Mo7) 我叫『墨七』，一名非典型程序员。热爱编程，喜欢拥抱新技术，妄图改变世界，企图让世界因我而美好。 一名全站工程师，在多个开发领域都有着比较丰富的开发经验。 墨七 , mo7 , Mo7 关于爱好 写代码给我带来过很多快乐，也曾在我内心最悲伤的时候陪伴我走出阴影。 经常会突发奇想，喜欢自己设计构想，然后自己动手实现的那种成就感。写出...</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -76,9 +98,9 @@
     </item>
     <item>
       <title>关于本站</title>
-      <link>https://blog.mo7.cc/Yao/about/website.html</link>
-      <guid>https://blog.mo7.cc/Yao/about/website.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">关于本站</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/about/website.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/about/website.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">关于本站</source>
       <description>关于本站 前言 我基于 ThemeHope 这款主题做了一些魔改改，包括样式以及功能。每一处修改均以插件的形式进行了封装，现在已经开源并发布。 Github 地址: https://github.com/mo7cc/BlogSource 注: 本站并非开源，但是我写了一个同步脚本，会定期将博客的源码同步至上述公开仓库中。通过上述仓库中的源码可以顺畅编译...</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -154,9 +176,9 @@
     </item>
     <item>
       <title>留言板</title>
-      <link>https://blog.mo7.cc/Yao/about/guestbook.html</link>
-      <guid>https://blog.mo7.cc/Yao/about/guestbook.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">留言板</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/about/guestbook.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/about/guestbook.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">留言板</source>
       <description>留言板 ™ 有什麽想説的？ 有什麽想問的？ 有什麽想吐槽的？ 可以在下面留言... @墨七。</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -176,9 +198,9 @@
     </item>
     <item>
       <title>开发者</title>
-      <link>https://blog.mo7.cc/Yao/developer/</link>
-      <guid>https://blog.mo7.cc/Yao/developer/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">开发者</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">开发者</source>
       <description>开发者</description>
       <category>developer</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -187,9 +209,9 @@
     </item>
     <item>
       <title>收藏</title>
-      <link>https://blog.mo7.cc/Yao/favorite/</link>
-      <guid>https://blog.mo7.cc/Yao/favorite/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">收藏</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/favorite/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/favorite/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">收藏</source>
       <description>收藏 有些记忆，弥足珍贵</description>
       <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -200,9 +222,9 @@
     </item>
     <item>
       <title>LeetCode</title>
-      <link>https://blog.mo7.cc/Yao/leetcode/</link>
-      <guid>https://blog.mo7.cc/Yao/leetcode/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">LeetCode</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/leetcode/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/leetcode/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">LeetCode</source>
       <description>LeetCode LeetCode 每天至少一道脑筋急转弯，防止老年痴呆。 程序员脑筋急转弯。 刷 LeetCode 防止老年痴呆。 个人主页：https://leetcode.cn/u/mo7cc/</description>
       <category>leetcode</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -218,9 +240,9 @@
     </item>
     <item>
       <title>站点地图</title>
-      <link>https://blog.mo7.cc/Yao/posts/catalog.html</link>
-      <guid>https://blog.mo7.cc/Yao/posts/catalog.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">站点地图</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/posts/catalog.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/posts/catalog.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">站点地图</source>
       <description>站点地图 本站全部文章索引</description>
       <category>博文</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -230,9 +252,9 @@
     </item>
     <item>
       <title>墨七的书单</title>
-      <link>https://blog.mo7.cc/Yao/posts/book_list.html</link>
-      <guid>https://blog.mo7.cc/Yao/posts/book_list.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">墨七的书单</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/posts/book_list.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/posts/book_list.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">墨七的书单</source>
       <description>墨七的书单 《 行为科学统计 》 豆瓣读书-行为科学统计 这是本极佳的统计学入门书籍，不单讲理论，还会让你明白为什么要这么做，应该怎么做。 《 深入浅出数据分析 》 豆瓣读书-深入浅出数据分析 够浅白，然后还会讲一下为什么要这么做。唯一不好就是废话比较多吧，对有基础的人，不是很合适。 《 数据挖掘导论 》 豆瓣读书-数据挖掘导论 这个主要用于挖掘数据之...</description>
       <category>博文</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -278,9 +300,9 @@
     </item>
     <item>
       <title>OtterTrade 文档站</title>
-      <link>https://blog.mo7.cc/Yao/posts/ot-doc_ready.html</link>
-      <guid>https://blog.mo7.cc/Yao/posts/ot-doc_ready.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">OtterTrade 文档站</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/posts/ot-doc_ready.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/posts/ot-doc_ready.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">OtterTrade 文档站</source>
       <description>OtterTrade 文档站 起源 相关信息 有独立开发完成一个量化系统开发的人吗？ - 墨七的回答 - 知乎 https://www.zhihu.com/question/35977425/answer/3001448431 基于知乎的一篇回答建了一个群，拉起了一支团队， 并成立了一个 Github 组织 ， 然后大家一起研发了OtterTrade....</description>
       <category>教程</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -371,9 +393,9 @@
     </item>
     <item>
       <title>博文</title>
-      <link>https://blog.mo7.cc/Yao/posts/</link>
-      <guid>https://blog.mo7.cc/Yao/posts/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">博文</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/posts/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/posts/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">博文</source>
       <description>博文 记录一些所思所想</description>
       <category>博文</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -385,9 +407,9 @@
     </item>
     <item>
       <title>技巧分享</title>
-      <link>https://blog.mo7.cc/Yao/tips/</link>
-      <guid>https://blog.mo7.cc/Yao/tips/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">技巧分享</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tips/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tips/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">技巧分享</source>
       <description>技巧分享 有些问题的解决办法很巧妙</description>
       <category>技巧</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -399,9 +421,9 @@
     </item>
     <item>
       <title>小技巧</title>
-      <link>https://blog.mo7.cc/Yao/tips/xiaojiqiao.html</link>
-      <guid>https://blog.mo7.cc/Yao/tips/xiaojiqiao.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">小技巧</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tips/xiaojiqiao.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tips/xiaojiqiao.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">小技巧</source>
       <description>小技巧 注意 该文档有待补充和完善</description>
       <category>技巧</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -414,9 +436,9 @@
     </item>
     <item>
       <title>工具分享</title>
-      <link>https://blog.mo7.cc/Yao/tools/</link>
-      <guid>https://blog.mo7.cc/Yao/tools/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">工具分享</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tools/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tools/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">工具分享</source>
       <description>工具分享 你只是缺一件趁手的兵器而已</description>
       <category>工具</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -428,9 +450,9 @@
     </item>
     <item>
       <title>uTools</title>
-      <link>https://blog.mo7.cc/Yao/tools/uTools.html</link>
-      <guid>https://blog.mo7.cc/Yao/tools/uTools.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">uTools</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tools/uTools.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tools/uTools.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">uTools</source>
       <description>uTools 相见恨晚的 PC 端工具集 当我搞明白这货的使用方法和运行逻辑之后，不仅效率提升了很多，我还卸载了十几个软件。 本文重点 https://open.u-tools.cn/445779.html 基于 nodejs 开发的跨平台工具集合。 横跨 Mac、Windows、Linux 三大平台，设计体验一致。它使得你的工具软件不再零碎。 有了它...</description>
       <category>工具</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -482,9 +504,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>1.科学上网与本地代理教程</title>
-      <link>https://blog.mo7.cc/Yao/tutorial/proxy_wall_ready.html</link>
-      <guid>https://blog.mo7.cc/Yao/tutorial/proxy_wall_ready.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">1.科学上网与本地代理教程</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tutorial/proxy_wall_ready.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tutorial/proxy_wall_ready.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">1.科学上网与本地代理教程</source>
       <description>1.科学上网与本地代理教程 为了学习目的，诸如国外的一些优秀网站访问速度会很慢，甚至是无法访问，导致一些依赖的下载和软件的更新无法完成，资料都无法查阅。 这个时候可能需要一些使用一些代理手段。 我之前使用过的方案是 ByWave ，实测还蛮好用的，一年也就一百来块挺实惠。 ByWave 点进去之后，直接注册/登录，然后购买对应的服务，然后下载安装即可。...</description>
       <category>教程</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -617,9 +639,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>2.WSL 子系统的介绍与安装</title>
-      <link>https://blog.mo7.cc/Yao/tutorial/wsl_ready.html</link>
-      <guid>https://blog.mo7.cc/Yao/tutorial/wsl_ready.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">2.WSL 子系统的介绍与安装</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tutorial/wsl_ready.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tutorial/wsl_ready.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">2.WSL 子系统的介绍与安装</source>
       <description>2.WSL 子系统的介绍与安装 官方说明： https://learn.microsoft.com/zh-cn/windows/wsl/about 为何会需要 WSL ？ 一般的程序员都会拥有多台电脑，一台 Mac 笔记本 ，一台 Windows，上班 Mac，下班 Windows。 敲代码 Mac，打游戏 Windows，甚至可能还有一款 Windo...</description>
       <category>教程</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -688,9 +710,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>3.WSL 配置系统代理</title>
-      <link>https://blog.mo7.cc/Yao/tutorial/wsl_proxy.html</link>
-      <guid>https://blog.mo7.cc/Yao/tutorial/wsl_proxy.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">3.WSL 配置系统代理</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tutorial/wsl_proxy.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tutorial/wsl_proxy.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">3.WSL 配置系统代理</source>
       <description>3.WSL 配置系统代理 一般情况下，WSL2 的 IP 地址每次启动时都会改变，如果想要在 wsl2 中使用 Windows 系统的代理来进行科学上网，可以使用如下代码。 进入 WSL 在 ~/.bashrc 文件中添加如下指令 相关信息 这里的原理就是: /etc/resolv.conf 文件中始终会更新当前 WSL2 在 Windows 系统中的...</description>
       <category>教程</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -723,9 +745,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>4.ssh 跳板机</title>
-      <link>https://blog.mo7.cc/Yao/tutorial/ssh_jump.html</link>
-      <guid>https://blog.mo7.cc/Yao/tutorial/ssh_jump.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">4.ssh 跳板机</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tutorial/ssh_jump.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tutorial/ssh_jump.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">4.ssh 跳板机</source>
       <description>4.ssh 跳板机 前面讲过 科学上网与本地代理，但是那只是在配置 http_proxy ，只适用于 http 请求。 http 请求并非网络的全部，有的时候可能还会用到 ssh 协议，比如 Github，但是 Github 的访问又不那么流畅，怎么办呢？ 什么是 SSH 什么是 SSH： https://info.support.huawei.com...</description>
       <category>教程</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -745,9 +767,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>教程</title>
-      <link>https://blog.mo7.cc/Yao/tutorial/</link>
-      <guid>https://blog.mo7.cc/Yao/tutorial/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">教程</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tutorial/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tutorial/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">教程</source>
       <description>教程 有些东西其实很简单</description>
       <category>教程</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -758,10 +780,36 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 ]]></content:encoded>
     </item>
     <item>
+      <title>收藏</title>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/favorite/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/favorite/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">收藏</source>
+      <description>收藏 有些记忆，弥足珍贵</description>
+      <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">有些记忆，弥足珍贵</p>
+</div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>收藏</title>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">收藏</source>
+      <description>收藏 有些记忆，弥足珍贵</description>
+      <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">有些记忆，弥足珍贵</p>
+</div>
+]]></content:encoded>
+    </item>
+    <item>
       <title>1.计算机和操作系统</title>
-      <link>https://blog.mo7.cc/Yao/developer/basic/computer_and_os.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/basic/computer_and_os.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">1.计算机和操作系统</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/basic/computer_and_os.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/basic/computer_and_os.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">1.计算机和操作系统</source>
       <description>1.计算机和操作系统 注意 注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 科学上网。 一、计算机的基本组成和工作原理 先来一段计算机导论节选：</description>
       <category>developer</category>
       <category>基础</category>
@@ -777,9 +825,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>10.开源的那些事</title>
-      <link>https://blog.mo7.cc/Yao/developer/basic/open_source.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/basic/open_source.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">10.开源的那些事</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/basic/open_source.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/basic/open_source.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">10.开源的那些事</source>
       <description>10.开源的那些事 话不多说，直接看视频 当我们在伤害开源的时候，在伤害什么？【差评君】</description>
       <category>developer</category>
       <category>基础</category>
@@ -790,9 +838,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>11.一套最舒适的开发环境</title>
-      <link>https://blog.mo7.cc/Yao/developer/basic/dev_env_ready.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/basic/dev_env_ready.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">11.一套最舒适的开发环境</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/basic/dev_env_ready.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/basic/dev_env_ready.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">11.一套最舒适的开发环境</source>
       <description>11.一套最舒适的开发环境 一套最舒适 最好的开发环境应该是什么样子的呢？ Windows 将系统更新到最新，包括驱动等 将系统归属地改为香港，设定好时间日期格式(设定为香港可以访问到更多有趣的内容) 在系统设置中配置好 开发者选项 配置好 翻墙和代理服务 安装 Chrome 安装并配置 Git 安装并配置 VSCode 安装并配置 WSL 设定好 W...</description>
       <category>developer</category>
       <category>基础</category>
@@ -831,9 +879,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>12.关于编程语言的那些事儿</title>
-      <link>https://blog.mo7.cc/Yao/developer/basic/coding_market.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/basic/coding_market.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">12.关于编程语言的那些事儿</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/basic/coding_market.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/basic/coding_market.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">12.关于编程语言的那些事儿</source>
       <description>12.关于编程语言的那些事儿 编程语言的分类 1.机器语言： 机器语言是计算机最原始的语言，是一种指令集的体系。这种指令集称为机器码。仅由 0 和 1 组成。 CPU 在工作的时候只认识机器语言。每台机器都会存在自己的指令集。 最早计算机是以 穿孔纸带 进行编程的。带孔为 1，无孔为 0，经过光电输入到计算机当中。纸带就充当了存储介质。后面被 磁带 所...</description>
       <category>developer</category>
       <category>基础</category>
@@ -864,9 +912,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>2.路径和文件</title>
-      <link>https://blog.mo7.cc/Yao/developer/basic/file_and_path.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/basic/file_and_path.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">2.路径和文件</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/basic/file_and_path.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/basic/file_and_path.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">2.路径和文件</source>
       <description>2.路径和文件 注意 注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 科学上网。 路径-维基百科 文件路径是用于描述文件系统资源的一个文本标识。 文件系统是对文件存储设备的空间进行组织和分配，负责文件存储并对存入的文件进行保护和检索的系统。 文件存放在外部存储器中的某些位置上，经由文件系统管理后，被系统以文件路径标识，系统可以通过文件路径检...</description>
       <category>developer</category>
       <category>基础</category>
@@ -883,9 +931,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>3.文件编码</title>
-      <link>https://blog.mo7.cc/Yao/developer/basic/file_utf8.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/basic/file_utf8.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">3.文件编码</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/basic/file_utf8.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/basic/file_utf8.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">3.文件编码</source>
       <description>3.文件编码 注意 注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 科学上网。 不知道你有没有遇到过，打开一个.txt文件却发现文件乱码了？这种时候往往是因为使用了不一样的编码格式去打开文件导致的。 比如当前正在编写的这篇文章，如果采用 GBK 编码打开，就会变成一堆不认识的字符： 但是同样的一篇文章采用 UTF-8 打开则可以正常阅读： ...</description>
       <category>developer</category>
       <category>基础</category>
@@ -911,9 +959,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>4.终端与 shell</title>
-      <link>https://blog.mo7.cc/Yao/developer/basic/cmd_shell.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/basic/cmd_shell.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">4.终端与 shell</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/basic/cmd_shell.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/basic/cmd_shell.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">4.终端与 shell</source>
       <description>4.终端与 shell 注意 注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 科学上网。 我觉得这里放一个视频就足以解释清楚了。</description>
       <category>developer</category>
       <category>基础</category>
@@ -928,9 +976,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>5.系统软件包管理器</title>
-      <link>https://blog.mo7.cc/Yao/developer/basic/apt_homebrew.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/basic/apt_homebrew.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">5.系统软件包管理器</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/basic/apt_homebrew.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/basic/apt_homebrew.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">5.系统软件包管理器</source>
       <description>5.系统软件包管理器 注意 注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 科学上网。 当你学会命令行的基本使用之后，那么就相当于一只脚踏入了另一个世界。 除了从应用商店安装下载之外，一般情况下还可以通过 软件包管理系统 来安装各种好用的命令和工具。 Linux 一般 debian 系 的系统比如 Ubuntu 默认的包管理器都是 apt 命令</description>
       <category>developer</category>
       <category>基础</category>
@@ -962,9 +1010,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>6.Git 与 Github</title>
-      <link>https://blog.mo7.cc/Yao/developer/basic/git_github.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/basic/git_github.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">6.Git 与 Github</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/basic/git_github.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/basic/git_github.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">6.Git 与 Github</source>
       <description>6.Git 与 Github 注意 注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 科学上网。 这个系列视频讲解的非常好 https://www.bilibili.com/video/BV1HM411377j/ 还有这份教程 https://nulab.com/zh-cn/learn/software-development/git-tut...</description>
       <category>developer</category>
       <category>基础</category>
@@ -980,9 +1028,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>7.Visual Studio Code</title>
-      <link>https://blog.mo7.cc/Yao/developer/basic/vscode.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/basic/vscode.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">7.Visual Studio Code</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/basic/vscode.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/basic/vscode.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">7.Visual Studio Code</source>
       <description>7.Visual Studio Code 这年头什么都有教学视频 https://www.bilibili.com/video/BV1ug4y1571s/</description>
       <category>developer</category>
       <category>基础</category>
@@ -994,9 +1042,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>8.如何使用搜索引擎</title>
-      <link>https://blog.mo7.cc/Yao/developer/basic/search_engine.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/basic/search_engine.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">8.如何使用搜索引擎</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/basic/search_engine.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/basic/search_engine.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">8.如何使用搜索引擎</source>
       <description>8.如何使用搜索引擎 注意 注意：本文中的一些超链接你可能会打不开，那很可能是因为需要 科学上网。 搜索引擎 是一个跨时代的发明，基本上我们每天都会用到。但是你真的会使用搜索引擎吗？ 搜索引擎的选择 注意 在中国，虽然大部分人都知道 百度 ，但是身为一个搜索引擎它并没有履行好自己的职责。 有兴趣吃瓜的可以查看以下链接： https://zh.wikip...</description>
       <category>developer</category>
       <category>基础</category>
@@ -1034,9 +1082,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>9.科学上网和国内镜像</title>
-      <link>https://blog.mo7.cc/Yao/developer/basic/proxy_to_net.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/basic/proxy_to_net.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">9.科学上网和国内镜像</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/basic/proxy_to_net.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/basic/proxy_to_net.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">9.科学上网和国内镜像</source>
       <description>9.科学上网和国内镜像 什么是 科学上网?</description>
       <category>developer</category>
       <category>基础</category>
@@ -1047,9 +1095,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>基础入门</title>
-      <link>https://blog.mo7.cc/Yao/developer/basic/</link>
-      <guid>https://blog.mo7.cc/Yao/developer/basic/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">基础入门</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/basic/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/basic/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">基础入门</source>
       <description>基础入门 前言 前段时间 淘宝 Steam 安装教程 事件在网上大火。就是在大多数人看来 安装Steam 这么简单的一件事情居然会难倒这么多人。大家只是想玩一个游戏而已，为什么会如此魔幻? 一方面是国内的大环境下所有厂商都在尽全力让人们把视线转向移动端，尽可能掠夺大家的时间和精力。传统 PC 相关的技能普及度正在降低。 另一方面是因为一些国家政策，GF...</description>
       <category>developer</category>
       <category>基础</category>
@@ -1069,9 +1117,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>1.Nodejs 基础环境搭建</title>
-      <link>https://blog.mo7.cc/Yao/developer/front_end_web/nodejs_ready.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/front_end_web/nodejs_ready.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">1.Nodejs 基础环境搭建</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/front_end_web/nodejs_ready.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/front_end_web/nodejs_ready.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">1.Nodejs 基础环境搭建</source>
       <description>1.Nodejs 基础环境搭建 严格来说 nodejs 属于服务端的技术，并不属于 Web 前端 , 但是当下前端开发基本上无法离开 nodejs 了。 官网地址： https://nodejs.org/ 在 macOS 和 Windows 上安装 Node.js 注意 macOS 和 Windows 官方都有发布安专门的安装包，所以安装方式基本相同，...</description>
       <category>前端</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1141,9 +1189,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>2.fnm 管理 Nodejs</title>
-      <link>https://blog.mo7.cc/Yao/developer/front_end_web/fnm_ready.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/front_end_web/fnm_ready.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">2.fnm 管理 Nodejs</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/front_end_web/fnm_ready.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/front_end_web/fnm_ready.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">2.fnm 管理 Nodejs</source>
       <description>2.fnm 管理 Nodejs 当你本地存在多个项目，且依赖的 nodejs 版本不尽相同，就需要使用 nodejs 版本管理工具了，它允许同一台机器中多个 nodejs 版本共存且可以随时切换。 fnm 类似于 nvm，是一个 nodejs 版本管理工具， 他比 nvm 更加迅速，应该是目前已知最好的 nodejs 版本管理工具。 fnm 的特点是:...</description>
       <category>前端</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1172,9 +1220,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>3.Web 前端开发入门</title>
-      <link>https://blog.mo7.cc/Yao/developer/front_end_web/web_develop_ready.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/front_end_web/web_develop_ready.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">3.Web 前端开发入门</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/front_end_web/web_develop_ready.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/front_end_web/web_develop_ready.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">3.Web 前端开发入门</source>
       <description>3.Web 前端开发入门 想一想这一篇应该怎么去讲解。 在任意位置新建文件 demo.html : 保存后 浏览器打开会显示以下内容： demo.html 内容demo.html 内容 html 结构说明 demo.html 结构说明demo.html 结构说明 一般来说，一个 html 文件的基本结构如下： 一个基本的文档类型声明 &amp;lt;html&amp;gt; &amp;lt;/...</description>
       <category>前端</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1261,9 +1309,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>Web 前端</title>
-      <link>https://blog.mo7.cc/Yao/developer/front_end_web/</link>
-      <guid>https://blog.mo7.cc/Yao/developer/front_end_web/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">Web 前端</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/front_end_web/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/front_end_web/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">Web 前端</source>
       <description>Web 前端 Web 前端开发</description>
       <category>前端</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1275,9 +1323,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>CommonJS 和 ES6 Modules</title>
-      <link>https://blog.mo7.cc/Yao/developer/front_end_web/es6_modules.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/front_end_web/es6_modules.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">CommonJS 和 ES6 Modules</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/front_end_web/es6_modules.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/front_end_web/es6_modules.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">CommonJS 和 ES6 Modules</source>
       <description>CommonJS 和 ES6 Modules 注意 该文档有待补充和完善 https://zhuanlan.zhihu.com/p/27644026 要学好 webpack,必须熟悉 JS 模块规范 \ CommonJS 规范: 寻找 node_modules 如果找不到就逐层向上找,直到根目录找不到就返回错误 ES6 Modules 规范:</description>
       <category>前端</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1318,9 +1366,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>npm 常用命令</title>
-      <link>https://blog.mo7.cc/Yao/developer/front_end_web/npm.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/front_end_web/npm.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">npm 常用命令</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/front_end_web/npm.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/front_end_web/npm.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">npm 常用命令</source>
       <description>npm 常用命令 注意 该文档有待补充和完善 阿里巴巴开源镜像站 https://developer.aliyun.com/mirror/ npm 镜像站 http://www.npmmirror.com/ Linux 设置本地代理 一些其它指令</description>
       <category>前端</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1364,9 +1412,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>pm2 最好用的后台守护进程</title>
-      <link>https://blog.mo7.cc/Yao/developer/front_end_web/pm2.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/front_end_web/pm2.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">pm2 最好用的后台守护进程</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/front_end_web/pm2.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/front_end_web/pm2.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">pm2 最好用的后台守护进程</source>
       <description>pm2 最好用的后台守护进程 注意 该文档有待补充和完善</description>
       <category>前端</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1387,9 +1435,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>url 解析</title>
-      <link>https://blog.mo7.cc/Yao/developer/front_end_web/url_parse.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/front_end_web/url_parse.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">url 解析</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/front_end_web/url_parse.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/front_end_web/url_parse.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">url 解析</source>
       <description>url 解析 注意 该文档有待补充和完善</description>
       <category>前端</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1410,9 +1458,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>1.安装</title>
-      <link>https://blog.mo7.cc/Yao/developer/golang/golang_install.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/golang/golang_install.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">1.安装</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/golang/golang_install.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/golang/golang_install.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">1.安装</source>
       <description>1.安装 官网地址： https://golang.google.cn/ 国内 Wiki https://learnku.com/go/wikis Linux 可以无脑的依次执行以下命令: 注意！ 一定要区分系统的架构类型，尤其是常见的 amd 和 arm 架构。 每次版本更新时 只需要将版本号 go1.23.2 换成最新版本号即可。 此时 go 已经...</description>
       <category>Golang</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1456,9 +1504,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>mongo - golang 操作</title>
-      <link>https://blog.mo7.cc/Yao/developer/golang/go_mongo.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/golang/go_mongo.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">mongo - golang 操作</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/golang/go_mongo.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/golang/go_mongo.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">mongo - golang 操作</source>
       <description>mongo - golang 操作 注意 该文档有待补充和完善 任务： 创建一个数据库，名为：bz 创建一个长度为 8 的固定集合 获取地址数组插入 获取地址数组进行返回与填充 属性 1:对固定集合进行插入速度极快 属性 2:按照插入顺序的查询输出速度极快 属性 3:能够在插入最新数据时,淘汰最早的数据 使用文档</description>
       <category>Golang</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1496,9 +1544,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>Go</title>
-      <link>https://blog.mo7.cc/Yao/developer/golang/</link>
-      <guid>https://blog.mo7.cc/Yao/developer/golang/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">Go</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/golang/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/golang/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">Go</source>
       <description>Go go 语言，Golang，go 是一门极其优秀且发展势头迅猛的语言，豪横的生父阵容。 静态强类型，易于维护，语法简洁，特性简单。 极低的上手门槛和不亚于 Python 的开发速度。 然后还有位于第一梯队的编译和运行速度。 go 在各个方面都达到了一种非常棒的平衡。 是一门非常值得学习和用于构建的编程语言。</description>
       <category>Golang</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1514,9 +1562,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>shell-format 插件</title>
-      <link>https://blog.mo7.cc/Yao/developer/golang/shell-format.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/golang/shell-format.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">shell-format 插件</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/golang/shell-format.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/golang/shell-format.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">shell-format 插件</source>
       <description>shell-format 插件 注意 该文档有待补充和完善 vscode 的 shfmt 插件配置 然在 vscode 配置文件中</description>
       <category>Golang</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1540,9 +1588,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>golang vscode 开发环境搭建</title>
-      <link>https://blog.mo7.cc/Yao/developer/golang/vscode_golang.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/golang/vscode_golang.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">golang vscode 开发环境搭建</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/golang/vscode_golang.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/golang/vscode_golang.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">golang vscode 开发环境搭建</source>
       <description>golang vscode 开发环境搭建 注意 该文档有待补充和完善 按住 F1 按键 输入: go:install 然后选择安装 额外的一些配置工具（好像也不是很有必要） https://www.jianshu.com/p/0f150ea1fd48 风格 https://blog.csdn.net/zhetmdoubeizhanyong/articl...</description>
       <category>Golang</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1572,9 +1620,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>当红开发语言 Go，真的是未来的技术主流吗？</title>
-      <link>https://blog.mo7.cc/Yao/developer/golang/golang_viewpoint.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/golang/golang_viewpoint.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">当红开发语言 Go，真的是未来的技术主流吗？</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/golang/golang_viewpoint.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/golang/golang_viewpoint.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">当红开发语言 Go，真的是未来的技术主流吗？</source>
       <description>当红开发语言 Go，真的是未来的技术主流吗？ 这个问题不能从技术角度考虑，要从【市场】角度考虑。 一、目前应用程序的主流是什么？ 桌面（Mac，Win，Linux） 移动 App（Android，Ios） Web（浏览器以各种 App、系统内套壳页面，鸿蒙，小程序 都算这一类吧~） 嵌入式（各种硬件交互，传感器，硬件控制，通信） 工控软件（嵌入式软件、...</description>
       <category>Golang</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1605,9 +1653,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>将 golang 作为脚本语言使用</title>
-      <link>https://blog.mo7.cc/Yao/developer/golang/golang_shell.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/golang/golang_shell.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">将 golang 作为脚本语言使用</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/golang/golang_shell.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/golang/golang_shell.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">将 golang 作为脚本语言使用</source>
       <description>将 golang 作为脚本语言使用 注意 该文档有待补充和完善 为什么？ https://github.com/erning/gorun 使用方式 区别 执行的结果是 42 执行的结果是 1</description>
       <category>Golang</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1638,9 +1686,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>常用命令</title>
-      <link>https://blog.mo7.cc/Yao/developer/golang/golang_command.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/golang/golang_command.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">常用命令</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/golang/golang_command.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/golang/golang_command.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">常用命令</source>
       <description>常用命令 注意 该文档有待补充和完善</description>
       <category>Golang</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1653,9 +1701,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>常用库整理</title>
-      <link>https://blog.mo7.cc/Yao/developer/golang/golang_lib.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/golang/golang_lib.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">常用库整理</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/golang/golang_lib.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/golang/golang_lib.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">常用库整理</source>
       <description>常用库整理 注意 该文档有待补充和完善 读取并设置配置文件 https://www.cnblogs.com/jiujuan/p/13799976.html json to go https://mholt.github.io/json-to-go/ go-colly 爬虫 https://zhuanlan.zhihu.com/p/76629605 ht...</description>
       <category>Golang</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1676,9 +1724,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>go 语言相关书籍</title>
-      <link>https://blog.mo7.cc/Yao/developer/golang/golang_book.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/golang/golang_book.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">go 语言相关书籍</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/golang/golang_book.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/golang/golang_book.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">go 语言相关书籍</source>
       <description>go 语言相关书籍 注意 该文档有待补充和完善 https://books.studygolang.com/</description>
       <category>Golang</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1692,9 +1740,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>Linux</title>
-      <link>https://blog.mo7.cc/Yao/developer/linux/</link>
-      <guid>https://blog.mo7.cc/Yao/developer/linux/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">Linux</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/linux/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/linux/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">Linux</source>
       <description>Linux 世界上有两种人，用 Linux 的和不会 Linux 的</description>
       <category>Linux</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1706,9 +1754,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>Nginx 的基本使用</title>
-      <link>https://blog.mo7.cc/Yao/developer/linux/nginx_ready.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/linux/nginx_ready.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">Nginx 的基本使用</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/linux/nginx_ready.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/linux/nginx_ready.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">Nginx 的基本使用</source>
       <description>Nginx 的基本使用 注意 该文档有待补充和完善</description>
       <category>Linux</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -1721,9 +1769,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>WSL2 安装远程桌面</title>
-      <link>https://blog.mo7.cc/Yao/developer/linux/wsl%E5%AE%89%E8%A3%85%E6%A1%8C%E9%9D%A2.html</link>
-      <guid>https://blog.mo7.cc/Yao/developer/linux/wsl%E5%AE%89%E8%A3%85%E6%A1%8C%E9%9D%A2.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">WSL2 安装远程桌面</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/developer/linux/wsl%E5%AE%89%E8%A3%85%E6%A1%8C%E9%9D%A2.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/developer/linux/wsl%E5%AE%89%E8%A3%85%E6%A1%8C%E9%9D%A2.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">WSL2 安装远程桌面</source>
       <description>WSL2 安装远程桌面 安装 VcXsrv https://sourceforge.net/projects/vcxsrv/ 添加配置文件 ~/.bashrc 启动桌面 启动 XLaunch 可以无脑下一步，然后是个黑屏。 然后在 WSL2 中输入 参考资料 https://learn.microsoft.com/zh-cn/windows/wsl/t...</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1752,9 +1800,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>随笔</title>
-      <link>https://blog.mo7.cc/Yao/favorite/essays/</link>
-      <guid>https://blog.mo7.cc/Yao/favorite/essays/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">随笔</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/favorite/essays/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/favorite/essays/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">随笔</source>
       <description>随笔 日常随便写一点东西</description>
       <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1765,9 +1813,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>伊隆·马斯克 (Elon Musk) 励志名言</title>
-      <link>https://blog.mo7.cc/Yao/favorite/essays/elonmusk_saying.html</link>
-      <guid>https://blog.mo7.cc/Yao/favorite/essays/elonmusk_saying.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">伊隆·马斯克 (Elon Musk) 励志名言</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/favorite/essays/elonmusk_saying.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/favorite/essays/elonmusk_saying.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">伊隆·马斯克 (Elon Musk) 励志名言</source>
       <description>伊隆·马斯克 (Elon Musk) 励志名言 相关信息 虽然不我确定这是不是 ElonMusk 的名言，但这些句子的确给了我很大的力量。 关于行动力 a-1 a-2 a-3 关于如何变得优秀 b-1 b-2 b-3 关于面对新事物 c-1 c-2 关于人生低谷 d-1 d-2 d-3 关于态度 e-1 e-2 e-3 最后 f-1f-1 愿每个人最后...</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1803,9 +1851,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>关于传统公司与互联网公司程序员忙碌的感悟</title>
-      <link>https://blog.mo7.cc/Yao/favorite/essays/not_internet_developer.html</link>
-      <guid>https://blog.mo7.cc/Yao/favorite/essays/not_internet_developer.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">关于传统公司与互联网公司程序员忙碌的感悟</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/favorite/essays/not_internet_developer.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/favorite/essays/not_internet_developer.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">关于传统公司与互联网公司程序员忙碌的感悟</source>
       <description>关于传统公司与互联网公司程序员忙碌的感悟 现在我才明白互联网公司为啥程序员得 996 了。 大多数情况下，领导拍脑袋或靠调查报告产生一个需求， 产品凝练需求， 为了验证想法开发团队得尽快把需求落地。 然后市场反馈，不对再改，不盈利再改，反响不好再改。 所有的需求全部产生于【想法】以及【想象力】。 因此，互联网公司的程序员面对的都是各种新东西，或者拍脑袋...</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1830,9 +1878,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>链接</title>
-      <link>https://blog.mo7.cc/Yao/favorite/links/</link>
-      <guid>https://blog.mo7.cc/Yao/favorite/links/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">链接</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/favorite/links/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/favorite/links/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">链接</source>
       <description>链接 好的东西应该共享</description>
       <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1843,9 +1891,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>文档</title>
-      <link>https://blog.mo7.cc/Yao/favorite/links/document.html</link>
-      <guid>https://blog.mo7.cc/Yao/favorite/links/document.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">文档</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/favorite/links/document.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/favorite/links/document.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">文档</source>
       <description>文档 常用文档</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1857,9 +1905,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>友链</title>
-      <link>https://blog.mo7.cc/Yao/favorite/links/friend.html</link>
-      <guid>https://blog.mo7.cc/Yao/favorite/links/friend.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">友链</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/favorite/links/friend.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/favorite/links/friend.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">友链</source>
       <description>友链</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1867,9 +1915,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>在线工具</title>
-      <link>https://blog.mo7.cc/Yao/favorite/links/tools.html</link>
-      <guid>https://blog.mo7.cc/Yao/favorite/links/tools.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">在线工具</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/favorite/links/tools.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/favorite/links/tools.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">在线工具</source>
       <description>在线工具 好用的在线工具</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1881,9 +1929,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>影视</title>
-      <link>https://blog.mo7.cc/Yao/favorite/movies/</link>
-      <guid>https://blog.mo7.cc/Yao/favorite/movies/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">影视</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/favorite/movies/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/favorite/movies/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">影视</source>
       <description>影视 『 生活就像一盒巧克力 』</description>
       <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1894,9 +1942,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>阿甘正传</title>
-      <link>https://blog.mo7.cc/Yao/favorite/movies/ForrestGump.html</link>
-      <guid>https://blog.mo7.cc/Yao/favorite/movies/ForrestGump.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">阿甘正传</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/favorite/movies/ForrestGump.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/favorite/movies/ForrestGump.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">阿甘正传</source>
       <description>阿甘正传 《阿甘正传》是由罗伯特·泽米吉斯执导的电影，由汤姆·汉克斯、罗宾·怀特等人主演，于 1994 年 7 月 6 日在美国上映。 电影改编自美国作家温斯顿·格鲁姆于 1986 年出版的同名小说，描绘了先天智障的小镇男孩福瑞斯特·甘自强不息，最终“傻人有傻福”地得到上天眷顾，在多个领域创造奇迹的励志故事 [1] 。电影上映后，于 1995 年获得奥...</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1908,9 +1956,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>音乐</title>
-      <link>https://blog.mo7.cc/Yao/favorite/music/</link>
-      <guid>https://blog.mo7.cc/Yao/favorite/music/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">音乐</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/favorite/music/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/favorite/music/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">音乐</source>
       <description>音乐 单曲循环一整天</description>
       <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1921,9 +1969,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>网易云歌单</title>
-      <link>https://blog.mo7.cc/Yao/favorite/music/music163_favorite.html</link>
-      <guid>https://blog.mo7.cc/Yao/favorite/music/music163_favorite.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">网易云歌单</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/favorite/music/music163_favorite.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/favorite/music/music163_favorite.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">网易云歌单</source>
       <description>网易云歌单</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1934,9 +1982,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>必应每日壁纸 api</title>
-      <link>https://blog.mo7.cc/Yao/favorite/photos/bing_img_api.html</link>
-      <guid>https://blog.mo7.cc/Yao/favorite/photos/bing_img_api.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">必应每日壁纸 api</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/favorite/photos/bing_img_api.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/favorite/photos/bing_img_api.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">必应每日壁纸 api</source>
       <description>必应每日壁纸 api 采用 golang 编写，每日定时爬取 https://cn.bing.com 当日的 7 张壁纸，并将链接固定下来进行 302 重定向。 idx 参数分别对应 当日壁纸数组 的序号，idx=1 时则返回当天壁纸。 支持 http 以及 https 。 HTML 和 Markdown 使用 当 idx 参数小于 1 时，则会随机返...</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1971,13 +2019,13 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
 <p>程序采用 golang 编写，采用 302 重定向返回图片，流量消耗可以忽略不计。程序定时爬取数据并缓存在内存中，因此可以支持极高的并发。欢迎食用 ~</p>
 </div>
 ]]></content:encoded>
-      <enclosure url="https://blog.mo7.cc/Yao//file.mo7.cc/api/public/bz?idx=1" type="image/"/>
+      <enclosure url="https://yaoabcde.github.io/Yao/Yao//file.mo7.cc/api/public/bz?idx=1" type="image/"/>
     </item>
     <item>
       <title>相册</title>
-      <link>https://blog.mo7.cc/Yao/favorite/photos/</link>
-      <guid>https://blog.mo7.cc/Yao/favorite/photos/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">相册</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/favorite/photos/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/favorite/photos/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">相册</source>
       <description>相册 唯愿此景与汝共</description>
       <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -1988,9 +2036,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>三数之和 (threeSum)</title>
-      <link>https://blog.mo7.cc/Yao/leetcode/threeSum.html</link>
-      <guid>https://blog.mo7.cc/Yao/leetcode/threeSum.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">三数之和 (threeSum)</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/leetcode/threeSum.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/leetcode/threeSum.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">三数之和 (threeSum)</source>
       <description>三数之和 (threeSum) https://leetcode.cn/problems/3sum 解法思路 Golang JavaScript</description>
       <category>leetcode</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2000,9 +2048,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>两数之和 (twoSum)</title>
-      <link>https://blog.mo7.cc/Yao/leetcode/twoSum.html</link>
-      <guid>https://blog.mo7.cc/Yao/leetcode/twoSum.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">两数之和 (twoSum)</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/leetcode/twoSum.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/leetcode/twoSum.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">两数之和 (twoSum)</source>
       <description>两数之和 (twoSum) https://leetcode.cn/problems/two-sum/ 解法思路 用 target 挨个 减去 nums 中的项，然后得出结果，如果结果 nums 中存在，则记录下标 Golang JavaScript</description>
       <category>leetcode</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2012,9 +2060,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>字母异位词分组 (groupAnagrams)</title>
-      <link>https://blog.mo7.cc/Yao/leetcode/groupAnagrams.html</link>
-      <guid>https://blog.mo7.cc/Yao/leetcode/groupAnagrams.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">字母异位词分组 (groupAnagrams)</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/leetcode/groupAnagrams.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/leetcode/groupAnagrams.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">字母异位词分组 (groupAnagrams)</source>
       <description>字母异位词分组 (groupAnagrams) https://leetcode.cn/problems/group-anagrams 解法思路 Golang JavaScript</description>
       <category>leetcode</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2024,9 +2072,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>接雨水 (trap)</title>
-      <link>https://blog.mo7.cc/Yao/leetcode/trap.html</link>
-      <guid>https://blog.mo7.cc/Yao/leetcode/trap.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">接雨水 (trap)</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/leetcode/trap.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/leetcode/trap.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">接雨水 (trap)</source>
       <description>接雨水 (trap) https://leetcode.cn/problems/trapping-rain-water 解法思路 Golang JavaScript</description>
       <category>leetcode</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2036,9 +2084,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>最长连续序列 (longestConsecutive)</title>
-      <link>https://blog.mo7.cc/Yao/leetcode/longestConsecutive.html</link>
-      <guid>https://blog.mo7.cc/Yao/leetcode/longestConsecutive.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">最长连续序列 (longestConsecutive)</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/leetcode/longestConsecutive.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/leetcode/longestConsecutive.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">最长连续序列 (longestConsecutive)</source>
       <description>最长连续序列 (longestConsecutive) https://leetcode.cn/problems/longest-consecutive-sequence 解法思路 用 target 挨个 减去 nums 中的项，然后得出结果，如果结果 nums 中存在，则记录下标 JavaScript Golang</description>
       <category>leetcode</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2048,9 +2096,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>盛最多水的容器 (maxArea)</title>
-      <link>https://blog.mo7.cc/Yao/leetcode/maxArea.html</link>
-      <guid>https://blog.mo7.cc/Yao/leetcode/maxArea.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">盛最多水的容器 (maxArea)</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/leetcode/maxArea.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/leetcode/maxArea.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">盛最多水的容器 (maxArea)</source>
       <description>盛最多水的容器 (maxArea) https://leetcode.cn/problems/container-with-most-water 解法思路 Golang JavaScript</description>
       <category>leetcode</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2060,9 +2108,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>移动零 (moveZeroes)</title>
-      <link>https://blog.mo7.cc/Yao/leetcode/moveZeroes.html</link>
-      <guid>https://blog.mo7.cc/Yao/leetcode/moveZeroes.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">移动零 (moveZeroes)</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/leetcode/moveZeroes.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/leetcode/moveZeroes.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">移动零 (moveZeroes)</source>
       <description>移动零 (moveZeroes) https://leetcode.cn/problems/move-zeroes 解法思路 Golang JavaScript</description>
       <category>leetcode</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2072,9 +2120,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
     </item>
     <item>
       <title>1.Git 安装与基本设置</title>
-      <link>https://blog.mo7.cc/Yao/tools/git/git_ready.html</link>
-      <guid>https://blog.mo7.cc/Yao/tools/git/git_ready.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">1.Git 安装与基本设置</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tools/git/git_ready.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tools/git/git_ready.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">1.Git 安装与基本设置</source>
       <description>1.Git 安装与基本设置 Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。 Git 是 Linus Torvalds 为了帮助管理 Linux 内核开发而开发的一个开放源码的版本控制软件。 Git 与常用的版本控制工具 CVS, Subversion, SVN 等不同，它采用了分布式版本库的方式，不必服务器端软件支持。 ...</description>
       <category>工具</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2163,9 +2211,9 @@ Git 与常用的版本控制工具 CVS, Subversion, SVN 等不同，它采用了
     </item>
     <item>
       <title>2.设置代理加速</title>
-      <link>https://blog.mo7.cc/Yao/tools/git/git_proxy.html</link>
-      <guid>https://blog.mo7.cc/Yao/tools/git/git_proxy.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">2.设置代理加速</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tools/git/git_proxy.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tools/git/git_proxy.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">2.设置代理加速</source>
       <description>2.设置代理加速 系统代理设置 参考文档 科学上网与本地代理教程 ssh 协议代理 如下面这种指令 这里是使用 ssh 协议进行 远程仓库访问的，这个时候 是不走 http 代理的 可以通过 ssh 跳板机 完成代理。 参考文档： ssh 跳板机 仅仅只是添加局部代理</description>
       <category>工具</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2196,9 +2244,9 @@ Git 与常用的版本控制工具 CVS, Subversion, SVN 等不同，它采用了
     </item>
     <item>
       <title>3.Git 常用命令</title>
-      <link>https://blog.mo7.cc/Yao/tools/git/git_command.html</link>
-      <guid>https://blog.mo7.cc/Yao/tools/git/git_command.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">3.Git 常用命令</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tools/git/git_command.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tools/git/git_command.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">3.Git 常用命令</source>
       <description>3.Git 常用命令 一般的工作流以及需要用到的命令：</description>
       <category>工具</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2263,9 +2311,9 @@ Git 与常用的版本控制工具 CVS, Subversion, SVN 等不同，它采用了
     </item>
     <item>
       <title>4.图像化客户端推荐</title>
-      <link>https://blog.mo7.cc/Yao/tools/git/git_client.html</link>
-      <guid>https://blog.mo7.cc/Yao/tools/git/git_client.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">4.图像化客户端推荐</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tools/git/git_client.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tools/git/git_client.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">4.图像化客户端推荐</source>
       <description>4.图像化客户端推荐 有一些工作流比较复杂，同时涉及到多条命令，除非是自动化工作流，否则使用命令不仅难以记忆，操作效率也会很慢。 而且 文件会改动对比 这种事情用 图形化展示也会比较好一点。 GitHub Desktop 由 GitHub 开发的完全免费且开源的可自定义的 GUI 客户端程序。提供 Windows 和 macOS 版本。界面非常简洁，功...</description>
       <category>工具</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2290,9 +2338,9 @@ Pro 版本收费。</p>
     </item>
     <item>
       <title>5.常用工作流</title>
-      <link>https://blog.mo7.cc/Yao/tools/git/git_flow.html</link>
-      <guid>https://blog.mo7.cc/Yao/tools/git/git_flow.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">5.常用工作流</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tools/git/git_flow.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tools/git/git_flow.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">5.常用工作流</source>
       <description>5.常用工作流 相关文档 四种常见的 Git 工作流 3.4 Git 分支 - 分支开发工作流 git-flow 的工作流程 Git 工作流程:阮一峰 下面这个是我在带领 OtterTrade 团队时制定的 Git 工作流 和 git 提交规范。 OtterTrade 团队 Git 协作工作流OtterTrade 团队 Git 协作工作流</description>
       <category>工具</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2308,9 +2356,9 @@ Pro 版本收费。</p>
     </item>
     <item>
       <title>Git</title>
-      <link>https://blog.mo7.cc/Yao/tools/git/</link>
-      <guid>https://blog.mo7.cc/Yao/tools/git/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">Git</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tools/git/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tools/git/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">Git</source>
       <description>Git</description>
       <category>工具</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2319,9 +2367,9 @@ Pro 版本收费。</p>
     </item>
     <item>
       <title>1.安装与基本设置</title>
-      <link>https://blog.mo7.cc/Yao/tools/vscode/vscode_ready.html</link>
-      <guid>https://blog.mo7.cc/Yao/tools/vscode/vscode_ready.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">1.安装与基本设置</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tools/vscode/vscode_ready.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tools/vscode/vscode_ready.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">1.安装与基本设置</source>
       <description>1.安装与基本设置 安装流程 可以参考这篇文章： Visual Studio Code 入门教程 基本设置 初次使用建议点开左下角设置浏览一下设置项都有哪些。 右键侧边栏可以控制显示哪些选项。勾选账户。 然后登录你的 Github 或者 Microsoft 账户，这样就可以在多台设备中同步你的设置以及插件了。 显示账户选项，然后登录Github显示账户...</description>
       <category>工具</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2407,9 +2455,9 @@ Pro 版本收费。</p>
     </item>
     <item>
       <title>2.通用插件推荐</title>
-      <link>https://blog.mo7.cc/Yao/tools/vscode/vscode_common_plug.html</link>
-      <guid>https://blog.mo7.cc/Yao/tools/vscode/vscode_common_plug.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">2.通用插件推荐</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tools/vscode/vscode_common_plug.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tools/vscode/vscode_common_plug.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">2.通用插件推荐</source>
       <description>2.通用插件推荐 以下标签直接点开链接然后安装即可 VSCode 的中文支持 Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-lang...</description>
       <category>工具</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2448,9 +2496,9 @@ Pro 版本收费。</p>
     </item>
     <item>
       <title>3.前端开发设置</title>
-      <link>https://blog.mo7.cc/Yao/tools/vscode/vscode_web_front_vue.html</link>
-      <guid>https://blog.mo7.cc/Yao/tools/vscode/vscode_web_front_vue.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">3.前端开发设置</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tools/vscode/vscode_web_front_vue.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tools/vscode/vscode_web_front_vue.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">3.前端开发设置</source>
       <description>3.前端开发设置 colorize VSCode 系统自带的颜色选择器会导致开发卡顿，而且容易误触。但是关闭颜色选择器又无法直观的看到颜色代码所代表的颜色了，这个插件很好的弥补了这点。 注意，如果想要支持更多语言，则需要单独进行配置。 https://marketplace.visualstudio.com/items?itemName=kamikil...</description>
       <category>工具</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2497,9 +2545,9 @@ ESLint 对于团队协作开发 js 或 ts 项目的风格统一十分有帮助�
     </item>
     <item>
       <title>4.go 开发设置</title>
-      <link>https://blog.mo7.cc/Yao/tools/vscode/vscode_golang.html</link>
-      <guid>https://blog.mo7.cc/Yao/tools/vscode/vscode_golang.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">4.go 开发设置</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tools/vscode/vscode_golang.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tools/vscode/vscode_golang.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">4.go 开发设置</source>
       <description>4.go 开发设置 Go go 语言支持，由 go 语言官方开发，好用！ https://marketplace.visualstudio.com/items?itemName=golang.Go Go Template Support go 语言模板文件高亮 https://marketplace.visualstudio.com/items?ite...</description>
       <category>工具</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2521,9 +2569,9 @@ go 语言不需要任何框架。但是是 go-zero 另辟蹊径给出了很多�
     </item>
     <item>
       <title>5.远程开发</title>
-      <link>https://blog.mo7.cc/Yao/tools/vscode/vscode_remote.html</link>
-      <guid>https://blog.mo7.cc/Yao/tools/vscode/vscode_remote.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">5.远程开发</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tools/vscode/vscode_remote.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tools/vscode/vscode_remote.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">5.远程开发</source>
       <description>5.远程开发 Remote Development 远程开发工具包包含四个插件， 加上 Remote Explorer 一共五个插件。 让你可以通过 VSCode 远程连接服务器进行开发作业，如果网络延迟足够低，感觉就跟本地开发没啥区别，体验丝滑。 包括 WSL 支持。 https://marketplace.visualstudio.com/item...</description>
       <category>工具</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2539,9 +2587,9 @@ go 语言不需要任何框架。但是是 go-zero 另辟蹊径给出了很多�
     </item>
     <item>
       <title>6.笔记的终极形态</title>
-      <link>https://blog.mo7.cc/Yao/tools/vscode/vscode_Draw.html</link>
-      <guid>https://blog.mo7.cc/Yao/tools/vscode/vscode_Draw.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">6.笔记的终极形态</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tools/vscode/vscode_Draw.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tools/vscode/vscode_Draw.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">6.笔记的终极形态</source>
       <description>6.笔记的终极形态 个人笔记的终极形态 Markdown 编写， Github 存储， VSCode 插件， 本地画图无缝插入。 本文重点 一共三个 VSCode 插件 SVG 可以在本地编辑 SVG ，进行画图作业。 vscode-mindmap 开源的思维导图工具。作者基于源码 fork 进行优化，支持直接以 *.km.svg 的形式进行直接编辑和...</description>
       <category>工具</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2626,9 +2674,9 @@ VSCode 插件，<br>
     </item>
     <item>
       <title>7.能力拓展</title>
-      <link>https://blog.mo7.cc/Yao/tools/vscode/vscode_nginx.html</link>
-      <guid>https://blog.mo7.cc/Yao/tools/vscode/vscode_nginx.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">7.能力拓展</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tools/vscode/vscode_nginx.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tools/vscode/vscode_nginx.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">7.能力拓展</source>
       <description>7.能力拓展 DotENV .env 文件支持 https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv NGINX Configuration Language Support nginx 配置文件高亮和语法提示 https://marketplace.visualstu...</description>
       <category>工具</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2657,9 +2705,9 @@ VSCode 插件，<br>
     </item>
     <item>
       <title>Visual Studio Code</title>
-      <link>https://blog.mo7.cc/Yao/tools/vscode/</link>
-      <guid>https://blog.mo7.cc/Yao/tools/vscode/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">Visual Studio Code</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tools/vscode/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tools/vscode/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">Visual Studio Code</source>
       <description>Visual Studio Code 什么是 VSCode Visual Studio Code 简称 VSCode 。 是一款跨平台的免费代码编辑器，由 Microsoft 开发并维护。它支持多种编程语言，包括 JavaScript、TypeScript、Python、C# 等，并提供了丰富的插件和调试工具，可用于开发 Web 应用程序、桌面应用程序...</description>
       <category>工具</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2679,9 +2727,9 @@ VSCode 插件，<br>
     </item>
     <item>
       <title>1.环境准备与项目启动</title>
-      <link>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_ready.html</link>
-      <guid>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_ready.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">1.环境准备与项目启动</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tutorial/vuepress-hope/step_ready.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tutorial/vuepress-hope/step_ready.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">1.环境准备与项目启动</source>
       <description>1.环境准备与项目启动 当前博客采用 vuepress-hope 搭建，这是一个免费开源的项目，是我用过的最强大和灵活的静态博客生成工具。 但是想要完全用好这款工具搭建出符合自己心意的博客，必须得具有一定的知识储备和掌握必要的工具。 必要的知识储备 墨七编写的 编程基础入门 相对路径，命令行，文件编码，开发工具，Git，Github 都需要具备一定的概...</description>
       <category>博客搭建教程</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -2782,9 +2830,9 @@ VSCode 插件，<br>
     </item>
     <item>
       <title>10.图片预览插件</title>
-      <link>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/img-preview.html</link>
-      <guid>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/img-preview.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">10.图片预览插件</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tutorial/vuepress-hope/img-preview.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tutorial/vuepress-hope/img-preview.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">10.图片预览插件</source>
       <description>10.图片预览插件 相关信息 觉得官方的图片预览插件点一下放大，点一下缩小太难用了，于是自己重新开发了一个图片预览插件。 【可完美适配移动端】 注意：得先在配置文件中禁用 vuepress 的图片预览。 plugins.photoSwipe: false 该插件在 VuePress 中使用的方式如下: 第一步： 导入插件源码 插件源码如下(可直接复制使...</description>
       <category>博客搭建教程</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -3199,9 +3247,9 @@ VSCode 插件，<br>
     </item>
     <item>
       <title>2.配置文件讲解</title>
-      <link>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_config.html</link>
-      <guid>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_config.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">2.配置文件讲解</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tutorial/vuepress-hope/step_config.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tutorial/vuepress-hope/step_config.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">2.配置文件讲解</source>
       <description>2.配置文件讲解 vuepress 的配置文件分为两类: 主配置文件： src/.vuepress/config.ts 文件内容 主题配置文件则是通过如下方式植入进来的。 一旦你使用了 vuepress-hope , 那么大部分的配置项都将在 src/.vuepress/theme.ts 中完成。 如果一个插件或者功能你在 config.ts 和 th...</description>
       <category>博客搭建教程</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -3225,15 +3273,15 @@ VSCode 插件，<br>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  dest</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'dist'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  host</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '0.0.0.0'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  port</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> 9451</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  base</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '/Yao/'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  base</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '/Yao/'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,  </span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">//部署站点的基础路径</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  temp</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '.vscode/.vp-temp'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  cache</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '.vscode/.vp-cache'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  locales</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> {</span></span>
 <span class="line"><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">    '/'</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> {</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">      lang</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'zh-CN'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">      title</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'YAO'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">      description</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '我欲修仙，快乐齐天'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">      lang</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'zh-CN'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">//语言选项</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">      title</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'YAO'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">//主页标题</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">      description</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '我欲修仙，快乐齐天'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">, </span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">//站点的描述</span></span>
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">    },</span></span>
 <span class="line"><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">    '/en/'</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> {</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">      lang</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'en-US'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
@@ -3264,9 +3312,9 @@ VSCode 插件，<br>
     </item>
     <item>
       <title>3.如何编写自定义组件</title>
-      <link>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_components.html</link>
-      <guid>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_components.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">3.如何编写自定义组件</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tutorial/vuepress-hope/step_components.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tutorial/vuepress-hope/step_components.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">3.如何编写自定义组件</source>
       <description>3.如何编写自定义组件 如何编写自定义组件啊，这个教程是真的很难写，会就是会，不会的话要学习的知识是很多的。但我还是尽力去讲解吧。 我这里用一个最简单的组件来举例子: src/.vuepress/components/PrintVersion.vue 他的引用方式如下: 在 src/.vuepress/client.ts 文件中 他干的事情很简单，就是...</description>
       <category>博客搭建教程</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -3346,9 +3394,9 @@ VSCode 插件，<br>
     </item>
     <item>
       <title>4.主题魔改说明</title>
-      <link>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_client.html</link>
-      <guid>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_client.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">4.主题魔改说明</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tutorial/vuepress-hope/step_client.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tutorial/vuepress-hope/step_client.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">4.主题魔改说明</source>
       <description>4.主题魔改说明 整个站站点的修改分为以下几个部分 插件式美化 src/.vuepress/client.ts 文件内容 插件源码都在 Github 上，可以自行查看： https://github.com/mo7cc/blog-source/tree/main/src/.vuepress/components 每个插件都代表了某一个部分的美化效果，每...</description>
       <category>博客搭建教程</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -3469,9 +3517,9 @@ VSCode 插件，<br>
     </item>
     <item>
       <title>5.在 md 中使用自定义组件</title>
-      <link>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_md_components.html</link>
-      <guid>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_md_components.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">5.在 md 中使用自定义组件</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tutorial/vuepress-hope/step_md_components.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tutorial/vuepress-hope/step_md_components.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">5.在 md 中使用自定义组件</source>
       <description>5.在 md 中使用自定义组件 上一个章节讲到的是使用全局组件来对主题和博客进行修改，其实本质上是通过 vue 组件的形式进行了全局的 js 和 css 的引入。和直接 &amp;lt;link href=&amp;quot;xxx&amp;quot; /&amp;gt; &amp;lt;script src=&amp;quot;xxx&amp;quot;&amp;gt; 的形式没啥区别。不过使用 vue 组件看起来比较优雅而已。 而且 vue 组件的代码内容一定会经过 vit...</description>
       <category>博客搭建教程</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -3508,9 +3556,9 @@ VSCode 插件，<br>
     </item>
     <item>
       <title>6.Klipse 插件的使用</title>
-      <link>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/klipse.html</link>
-      <guid>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/klipse.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">6.Klipse 插件的使用</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tutorial/vuepress-hope/klipse.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tutorial/vuepress-hope/klipse.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">6.Klipse 插件的使用</source>
       <description>6.Klipse 插件的使用 相关信息 Klipse 是一个 JavaScript 插件，用于在技术博客中嵌入交互式代码片段。从技术层面上讲，Klipse 是一小段 JavaScript 代码，用于评估浏览器中的代码片段，并且可以在任何网页上插入。 Github 仓库地址: https://github.com/viebel/klipse 该插件在 V...</description>
       <category>博客搭建教程</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -3633,9 +3681,9 @@ VSCode 插件，<br>
     </item>
     <item>
       <title>7.搭建评论系统</title>
-      <link>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_talk.html</link>
-      <guid>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_talk.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">7.搭建评论系统</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/tutorial/vuepress-hope/step_talk.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/tutorial/vuepress-hope/step_talk.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">7.搭建评论系统</source>
       <description>7.搭建评论系统 这里的评论系统使用了 https://waline.js.org 其实搭建起来很方便也很容易。跟着文档一步步走就可以了。 我因为有自己的服务器，所以是在自己的服务器上进行搭建的。 对于小白来说，这里面的难点可能在于 数据库 和 Nginx 部分。 部署流程 创建项目 编写入口文件 src/main.js 配置命令 然后就可以使用如下命...</description>
       <category>博客搭建教程</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -3791,93 +3839,6 @@ VSCode 插件，<br>
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">});</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>你没看错！使用的时候只需要填写 <code>https://talk.mo7.cc</code> 就可以了！ 不需要任何令牌和密码！你完全不需要部署过程是什么样的！</p>
 <p>也就是说，如果你信任我的话，也可以直接在自己的 博客 配置文件这么填写，评论服务一样可以生效。只不过评论时的邮件和数据全都会存放在我这里。哪天一不开心我也可以关停评论服务。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>8.自定义图标和导航栏</title>
-      <link>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_icon_nav.html</link>
-      <guid>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_icon_nav.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">8.自定义图标和导航栏</source>
-      <description>8.自定义图标和导航栏 这个篇章会讲解如何自定义自己的图标 这里我们会用到一个网站： https://www.iconfont.cn/ 如下图所示： iconfont 图示iconfont 图示 你可以挑选自己喜欢的图标并命名加入到你的项目中去，然后你可以获得 例如: icon-git icon-vscode icon-basic 这样的图标名称 ，和...</description>
-      <category>博客搭建教程</category>
-      <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
-      <content:encoded><![CDATA[
-<p>这个篇章会讲解如何自定义自己的图标</p>
-<p>这里我们会用到一个网站：<br>
-<a href="https://www.iconfont.cn/" target="_blank" rel="noopener noreferrer">https://www.iconfont.cn/</a></p>
-<p>如下图所示：</p>
-<figure><figcaption>iconfont 图示</figcaption></figure>
-<p>你可以挑选自己喜欢的图标并命名加入到你的项目中去，然后你可以获得 例如:<br>
-<code>icon-git</code><br>
-<code>icon-vscode</code><br>
-<code>icon-basic</code></p>
-<p>这样的图标名称 ，和一个 css 文件网络地址。</p>
-<h2>使用方式</h2>
-<p><code>src/.vuepress/theme.ts</code>文件中填入这个地址</p>
-<div class="language-js line-numbers-mode" data-highlighter="shiki" data-ext="js" data-title="js" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">import</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> { </span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">hopeTheme</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> } </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">from</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'vuepress-theme-hope'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">export</span><span style="--shiki-light:#E45649;--shiki-dark:#C678DD"> default</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> hopeTheme</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">({</span></span>
-<span class="line"><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">  // ...</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  iconAssets</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '//at.alicdn.com/t/c/font_3855310_agk3ojvaptw.css'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">  // ...</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">});</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>然后就可以在项目中使用它们了:<br>
-</p>
-<p>但是记住，没有前面的 <code>icon-</code> 部分，只有名字部分。</p>
-<h2>导航栏</h2>
-<p>这部分我觉得可以不用多讲，官方文档写的很清楚了。</p>
-<p><a href="https://theme-hope.vuejs.press/zh/guide/layout/navbar.html" target="_blank" rel="noopener noreferrer">https://theme-hope.vuejs.press/zh/guide/layout/navbar.html</a></p>
-<p><a href="https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html" target="_blank" rel="noopener noreferrer">https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html</a></p>
-<p>这里是我的导航栏源码:</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>9.部署和发布</title>
-      <link>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_deploy.html</link>
-      <guid>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/step_deploy.html</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">9.部署和发布</source>
-      <description>9.部署和发布 因为编译结果是一堆纯静态的 html 文件 和 js ，没有任何动态服务器生成的内容。 所以，一般的 html 文件如何部署，博客就是如何部署的。 官方文档 https://theme-hope.vuejs.press/zh/get-started/deploy.html 基本原理就是： pnpm run build 之后 会生成 di...</description>
-      <category>博客搭建教程</category>
-      <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
-      <content:encoded><![CDATA[
-<p>因为编译结果是一堆纯静态的 html 文件 和 js ，没有任何动态服务器生成的内容。</p>
-<p>所以，一般的 html 文件如何部署，博客就是如何部署的。</p>
-<p>官方文档<br>
-<a href="https://theme-hope.vuejs.press/zh/get-started/deploy.html" target="_blank" rel="noopener noreferrer">https://theme-hope.vuejs.press/zh/get-started/deploy.html</a></p>
-<p>基本原理就是：</p>
-<p><code>pnpm run build</code> 之后</p>
-<p>会生成 <code>dist</code> ，目录。</p>
-<p>然后你的域名访问 <code>dist</code> 目录的文件内容，然后浏览器加载并解析文件内容并渲染呈现。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>本博客搭建指南</title>
-      <link>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/</link>
-      <guid>https://blog.mo7.cc/Yao/tutorial/vuepress-hope/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">本博客搭建指南</source>
-      <description>本博客搭建指南 本网站搭建指南 记录本站搭建的全过程，适合小白阅读。</description>
-      <category>博客搭建教程</category>
-      <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
-      <content:encoded><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">本网站搭建指南</p>
-<p>记录本站搭建的全过程，适合小白阅读。</p>
-</div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>go-zero</title>
-      <link>https://blog.mo7.cc/Yao/developer/golang/go-zero/</link>
-      <guid>https://blog.mo7.cc/Yao/developer/golang/go-zero/</guid>
-      <source url="https://blog.mo7.cc/Yao/rss.xml">go-zero</source>
-      <description>go-zero go-zero 缩短需求到上线的距离 https://go-zero.dev/ https://www.bilibili.com/video/BV1Fg4y1W7Na ---·</description>
-      <category>Go</category>
-      <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
-      <content:encoded><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">go-zero 缩短需求到上线的距离</p>
-</div>
-<p><a href="https://go-zero.dev/" target="_blank" rel="noopener noreferrer">https://go-zero.dev/</a></p>
-<p><a href="https://www.bilibili.com/video/BV1Fg4y1W7Na" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1Fg4y1W7Na</a></p>
 ]]></content:encoded>
     </item>
   </channel>

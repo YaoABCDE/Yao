@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://blog.mo7.cc/Yao/en/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://yaoabcde.github.io/Yao/Yao/en/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://blog.mo7.cc/Yao/en/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://yaoabcde.github.io/Yao/Yao/en/rss.xml" rel="self" type="application/rss+xml"/>
     <title>Yao</title>
-    <link>https://blog.mo7.cc/Yao/en/</link>
+    <link>https://yaoabcde.github.io/Yao/Yao/en/</link>
     <description>Hello Yao</description>
     <language>en-US</language>
-    <pubDate>Tue, 08 Oct 2024 14:09:42 GMT</pubDate>
-    <lastBuildDate>Tue, 08 Oct 2024 14:09:42 GMT</lastBuildDate>
+    <pubDate>Tue, 08 Oct 2024 17:30:57 GMT</pubDate>
+    <lastBuildDate>Tue, 08 Oct 2024 17:30:57 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
       <title>Yao</title>
-      <url>https://blog.mo7.cc/Yao/YaoPhoto/png/logo2.png</url>
-      <link>https://blog.mo7.cc/Yao/en/</link>
+      <url>https://yaoabcde.github.io/Yao/Yao/YaoPhoto/png/logo2.png</url>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/</link>
     </image>
     <category>Guide</category>
     <category>Cherry</category>
@@ -25,9 +25,9 @@
     <category>Banana</category>
     <item>
       <title>Features Demo</title>
-      <link>https://blog.mo7.cc/Yao/en/demo/</link>
-      <guid>https://blog.mo7.cc/Yao/en/demo/</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Features Demo</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/demo/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/demo/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Features Demo</source>
       <description>Catalog</description>
       <category>Guide</category>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -47,9 +47,9 @@
     </item>
     <item>
       <title>Page Config</title>
-      <link>https://blog.mo7.cc/Yao/en/demo/page.html</link>
-      <guid>https://blog.mo7.cc/Yao/en/demo/page.html</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Page Config</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/demo/page.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/demo/page.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Page Config</source>
       <description>Content before more comment is regarded as page excerpt.</description>
       <category>Guide</category>
       <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
@@ -98,9 +98,9 @@
     </item>
     <item>
       <title>Intro Page</title>
-      <link>https://blog.mo7.cc/Yao/en/intro.html</link>
-      <guid>https://blog.mo7.cc/Yao/en/intro.html</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Intro Page</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/intro.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/intro.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Intro Page</source>
       <description>Intro Page Place your introduction and profile here.</description>
       <pubDate>Sun, 06 Oct 2024 15:47:47 GMT</pubDate>
       <content:encoded><![CDATA[
@@ -109,9 +109,9 @@
     </item>
     <item>
       <title>Disabling layout and features</title>
-      <link>https://blog.mo7.cc/Yao/en/demo/disable.html</link>
-      <guid>https://blog.mo7.cc/Yao/en/demo/disable.html</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Disabling layout and features</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/demo/disable.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/demo/disable.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Disabling layout and features</source>
       <description>You can disable some function and layout on the page by setting the Frontmatter of the page.</description>
       <category>Guide</category>
       <pubDate>Sun, 06 Oct 2024 15:47:47 GMT</pubDate>
@@ -135,9 +135,9 @@
     </item>
     <item>
       <title>Encryption Article</title>
-      <link>https://blog.mo7.cc/Yao/en/demo/encrypt.html</link>
-      <guid>https://blog.mo7.cc/Yao/en/demo/encrypt.html</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Encryption Article</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/demo/encrypt.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/demo/encrypt.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Encryption Article</source>
       <description>Encryption Article The actual article content. Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1...</description>
       <category>Guide</category>
       <pubDate>Sun, 06 Oct 2024 15:47:47 GMT</pubDate>
@@ -149,9 +149,9 @@
     </item>
     <item>
       <title>Cherry</title>
-      <link>https://blog.mo7.cc/Yao/en/posts/cherry.html</link>
-      <guid>https://blog.mo7.cc/Yao/en/posts/cherry.html</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Cherry</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/posts/cherry.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/posts/cherry.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Cherry</source>
       <description>Cherry Heading 2 Here is the content. Heading 3 Here is the content.</description>
       <category>Cherry</category>
       <pubDate>Sun, 09 Jan 2022 00:00:00 GMT</pubDate>
@@ -164,9 +164,9 @@
     </item>
     <item>
       <title>Dragon Fruit</title>
-      <link>https://blog.mo7.cc/Yao/en/posts/dragonfruit.html</link>
-      <guid>https://blog.mo7.cc/Yao/en/posts/dragonfruit.html</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Dragon Fruit</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/posts/dragonfruit.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/posts/dragonfruit.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Dragon Fruit</source>
       <description>Dragon Fruit Heading 2 Here is the content. Heading 3 Here is the content.</description>
       <category>Dragon Fruit</category>
       <category>Fruit</category>
@@ -180,9 +180,9 @@
     </item>
     <item>
       <title>Strawberry</title>
-      <link>https://blog.mo7.cc/Yao/en/posts/strawberry.html</link>
-      <guid>https://blog.mo7.cc/Yao/en/posts/strawberry.html</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Strawberry</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/posts/strawberry.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/posts/strawberry.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Strawberry</source>
       <description>Strawberry Heading 2 Here is the content. Heading 3 Here is the content.</description>
       <category>Fruit</category>
       <category>Strawberry</category>
@@ -196,9 +196,9 @@
     </item>
     <item>
       <title>Tomato</title>
-      <link>https://blog.mo7.cc/Yao/en/posts/tomato.html</link>
-      <guid>https://blog.mo7.cc/Yao/en/posts/tomato.html</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Tomato</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/posts/tomato.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/posts/tomato.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Tomato</source>
       <description>Tomato Heading 2 Here is the content. Heading 3 Here is the content.</description>
       <category>Vegetable</category>
       <pubDate>Wed, 12 Jan 2022 00:00:00 GMT</pubDate>
@@ -211,9 +211,9 @@
     </item>
     <item>
       <title>Apple 1</title>
-      <link>https://blog.mo7.cc/Yao/en/posts/apple/1.html</link>
-      <guid>https://blog.mo7.cc/Yao/en/posts/apple/1.html</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Apple 1</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/posts/apple/1.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/posts/apple/1.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Apple 1</source>
       <description>Apple 1 Heading 2 Here is the content. Heading 3 Here is the content.</description>
       <category>Apple</category>
       <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
@@ -226,9 +226,9 @@
     </item>
     <item>
       <title>Apple 2</title>
-      <link>https://blog.mo7.cc/Yao/en/posts/apple/2.html</link>
-      <guid>https://blog.mo7.cc/Yao/en/posts/apple/2.html</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Apple 2</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/posts/apple/2.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/posts/apple/2.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Apple 2</source>
       <description>A apple article being stared.</description>
       <category>Apple</category>
       <pubDate>Sun, 02 Jan 2022 00:00:00 GMT</pubDate>
@@ -243,9 +243,9 @@
     </item>
     <item>
       <title>Apple 3</title>
-      <link>https://blog.mo7.cc/Yao/en/posts/apple/3.html</link>
-      <guid>https://blog.mo7.cc/Yao/en/posts/apple/3.html</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Apple 3</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/posts/apple/3.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/posts/apple/3.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Apple 3</source>
       <description>Apple 3 Heading 2 Here is the content. Heading 3 Here is the content.</description>
       <category>Apple</category>
       <category>Fruit</category>
@@ -259,9 +259,9 @@
     </item>
     <item>
       <title>Apple 4</title>
-      <link>https://blog.mo7.cc/Yao/en/posts/apple/4.html</link>
-      <guid>https://blog.mo7.cc/Yao/en/posts/apple/4.html</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Apple 4</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/posts/apple/4.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/posts/apple/4.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Apple 4</source>
       <description>Apple 4 Heading 2 Here is the content. Heading 3 Here is the content.</description>
       <category>Apple</category>
       <category>Fruit</category>
@@ -275,9 +275,9 @@
     </item>
     <item>
       <title>Banana 1</title>
-      <link>https://blog.mo7.cc/Yao/en/posts/banana/1.html</link>
-      <guid>https://blog.mo7.cc/Yao/en/posts/banana/1.html</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Banana 1</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/posts/banana/1.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/posts/banana/1.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Banana 1</source>
       <description>Banana 1 Heading 2 Here is the content. Heading 3 Here is the content.</description>
       <category>Banana</category>
       <category>Fruit</category>
@@ -291,9 +291,9 @@
     </item>
     <item>
       <title>Banana 2</title>
-      <link>https://blog.mo7.cc/Yao/en/posts/banana/2.html</link>
-      <guid>https://blog.mo7.cc/Yao/en/posts/banana/2.html</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Banana 2</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/posts/banana/2.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/posts/banana/2.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Banana 2</source>
       <description>A banana article being stared with number 10.</description>
       <category>Banana</category>
       <category>Fruit</category>
@@ -309,9 +309,9 @@
     </item>
     <item>
       <title>Banana 3</title>
-      <link>https://blog.mo7.cc/Yao/en/posts/banana/3.html</link>
-      <guid>https://blog.mo7.cc/Yao/en/posts/banana/3.html</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Banana 3</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/posts/banana/3.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/posts/banana/3.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Banana 3</source>
       <description>Banana 3 Heading 2 Here is the content. Heading 3 Here is the content.</description>
       <category>Banana</category>
       <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
@@ -324,9 +324,9 @@
     </item>
     <item>
       <title>Banana 4</title>
-      <link>https://blog.mo7.cc/Yao/en/posts/banana/4.html</link>
-      <guid>https://blog.mo7.cc/Yao/en/posts/banana/4.html</guid>
-      <source url="https://blog.mo7.cc/Yao/en/rss.xml">Banana 4</source>
+      <link>https://yaoabcde.github.io/Yao/Yao/en/posts/banana/4.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/en/posts/banana/4.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/en/rss.xml">Banana 4</source>
       <description>Banana 4 Heading 2 Here is the content. Heading 3 Here is the content.</description>
       <category>Banana</category>
       <pubDate>Sat, 08 Jan 2022 00:00:00 GMT</pubDate>

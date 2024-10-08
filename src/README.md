@@ -3,12 +3,12 @@ home: true
 layout: BlogHome
 icon: home
 title: 首页
-heroImage: /pwa/144.png
+heroImage: /YaoPhoto/png/logo1.png
 bgImage: //file.mo7.cc/api/public/bz?idx=1
-heroText: 墨七
+heroText: YAO
 heroFullScreen: true
-tagline: 简单快乐，理应如此。
-description: 墨七,博客,记录,分享
+tagline: 该想的是如何做
+description: Yao,博客,记录,分享
 article: false
 index: false
 containerClass: mo7-blog-home

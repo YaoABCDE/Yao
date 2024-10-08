@@ -13,20 +13,20 @@ export default defineUserConfig({
   dest: 'dist',
   host: '0.0.0.0',
   port: 9451,
-  base: '/Yao',
+  base: '/Yao/',
   temp: '.vscode/.vp-temp',
   cache: '.vscode/.vp-cache',
 
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '墨七',
-      description: '墨七 - 简单快乐，理应如此。',
+      title: 'YAO',
+      description: '我欲修仙，快乐齐天',
     },
     '/en/': {
       lang: 'en-US',
-      title: 'Mo7',
-      description: 'Mo7 - Simple and happy, as it should be.',
+      title: 'Yao',
+      description: 'Hello Yao',
     },
   },
 

@@ -8,16 +8,16 @@ const __dirname = getDirname(import.meta.url);
 const footerICP_HTML = `
 <a class="footer-icp" href="https://beian.miit.gov.cn" target="_blank">
   <img src="//file.mo7.cc/static/img/beian.png">
-  陕ICP备2022011574号
+  滇ICP备20200520号
 </a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer-about" href="/about/website.html">关于本站</a>
 `;
 
 export default hopeTheme({
   hostname: 'https://blog.mo7.cc',
   author: {
-    name: '墨七',
-    url: 'https://mo7.cc',
-    email: 'mo7@mo7.cc',
+    name: 'Yao',
+    url: 'https://baidu.com',
+    email: '1964877312@qq.com',
   },
   darkmode: 'toggle',
   editLink: false,
@@ -41,12 +41,12 @@ export default hopeTheme({
   },
 
   iconAssets: '//at.alicdn.com/t/c/font_3855310_3p4qtirn5xz.css',
-  logo: '/pwa/144.png',
+  logo: '/YaoPhoto/png/logo3.png',
   docsDir: 'src',
   blog: {
-    name: '墨七',
+    name: 'Mr.Yao',
     avatar: '//file.mo7.cc/static/lxh_gif/lxh_71.gif',
-    description: '专心致志做事，大气温和待人。',
+    description: '改变世界从小事做起。',
     intro: 'https://blog.mo7.cc/about/me.html',
     medias: {
       Email: 'mailto:mo7@mo7.cc',
@@ -68,10 +68,10 @@ export default hopeTheme({
       navbar: zhNavbar,
       sidebar: zhSidebar,
       blog: {
-        name: '墨七',
-        description: '专心致志做事，大气温和待人。',
+        name: 'Yao',
+        description: '称霸世界',
         intro: '/about/me.html',
-        timeline: '简单快乐，理应如此。',
+        timeline: '颠倒黑白，明辨是非。',
       },
     },
 
@@ -79,7 +79,7 @@ export default hopeTheme({
       navbar: enNavbar,
       sidebar: enSidebar,
       blog: {
-        name: 'Mo7',
+        name: 'Yao',
         description: 'Simple and happy, as it should be.',
         intro: '/en/intro.html',
         timeline: 'Something wonderful is about to  happen.',
@@ -92,7 +92,7 @@ export default hopeTheme({
   //     '/en/demo/encrypt.html': [BlogPassword],
   //   },
   // },
-  
+
 
   // enable it to preview all changes in time
   hotReload: true,
@@ -118,8 +118,8 @@ export default hopeTheme({
       atom: true,
       json: true,
       rss: true,
-      image: '/pwa/72.png',
-      icon: '/pwa/512.png',
+      image: '/YaoPhoto/png/logo2.png',
+      icon: '/YaoPhoto/png/logo3.png',
     },
 
     searchPro: {

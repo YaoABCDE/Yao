@@ -6,8 +6,8 @@
     <link>https://blog.mo7.cc/Yao/</link>
     <description>我欲修仙，快乐齐天</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 08 Oct 2024 07:55:29 GMT</pubDate>
-    <lastBuildDate>Tue, 08 Oct 2024 07:55:29 GMT</lastBuildDate>
+    <pubDate>Tue, 08 Oct 2024 14:09:42 GMT</pubDate>
+    <lastBuildDate>Tue, 08 Oct 2024 14:09:42 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -1927,7 +1927,9 @@ go 在各个方面都达到了一种非常棒的平衡。<br>
       <description>网易云歌单</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="//music.163.com/outchain/player?type=0&amp;id=8056247134&amp;auto=0&amp;height=430"></iframe>
+<!--<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=550 src="//music.163.com/outchain/player?type=0&id=8056247134&auto=0&height=430"></iframe>
+-->
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="//music.163.com/outchain/player?type=0&amp;id=639419756&amp;auto=0&amp;height=430"></iframe>
 ]]></content:encoded>
     </item>
     <item>
@@ -3379,15 +3381,15 @@ VSCode 插件，<br>
 <span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">    onMounted</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(() </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">=&gt;</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> {});</span></span>
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">  },</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  rootComponents</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> [</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    TopNavBeautify</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    HeroBG</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    HeroHitokoto</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    NavMusic</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    PrintVersion</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    CommentHideBtn</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    BlogBeautify</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    BlogBg</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    PreviewImage</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    TopNavBeautify</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">//顶部导航栏相关的美化,包括透明导航栏</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    HeroBG</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">//博客首页的背景美化</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    HeroHitokoto</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">//博客首页一言的美化</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    NavMusic</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">//导航栏最右侧的音乐按钮</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    PrintVersion</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">//</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    CommentHideBtn</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">//评论区的显示和隐藏按钮</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    BlogBeautify</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">//文章分割线小汽车等</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    BlogBg</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">//背景美化，让整个博客可以添加自定义的背景</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">    PreviewImage</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">//</span></span>
 <span class="line"><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">    // ...</span></span>
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">  ],</span></span>
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">});</span></span></code></pre>

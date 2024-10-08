@@ -22,15 +22,15 @@ export default defineClientConfig({
     onMounted(() => {});
   },
   rootComponents: [
-    TopNavBeautify,
-    HeroBG,
-    HeroHitokoto,
-    NavMusic,
-    PrintVersion,
-    CommentHideBtn,
-    BlogBeautify,
-    BlogBg,
-    PreviewImage,
+    TopNavBeautify,//顶部导航栏相关的美化,包括透明导航栏
+    HeroBG,//博客首页的背景美化
+    HeroHitokoto,//博客首页一言的美化
+    NavMusic,//导航栏最右侧的音乐按钮
+    PrintVersion,//
+    CommentHideBtn,//评论区的显示和隐藏按钮
+    BlogBeautify,//文章分割线小汽车等
+    BlogBg,//背景美化，让整个博客可以添加自定义的背景
+    PreviewImage,//
     // ...
   ],
 });

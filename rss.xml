@@ -6,8 +6,8 @@
     <link>https://yaoabcde.github.io/Yao/Yao/</link>
     <description>我欲修仙，快乐齐天</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 09 Oct 2024 12:06:57 GMT</pubDate>
-    <lastBuildDate>Wed, 09 Oct 2024 12:06:57 GMT</lastBuildDate>
+    <pubDate>Wed, 09 Oct 2024 15:38:29 GMT</pubDate>
+    <lastBuildDate>Wed, 09 Oct 2024 15:38:29 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -16,22 +16,82 @@
       <link>https://yaoabcde.github.io/Yao/Yao/</link>
     </image>
     <item>
-      <title>关于本站 Yao测试</title>
-      <link>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/website.html</link>
-      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/website.html</guid>
-      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">关于本站 Yao测试</source>
-      <description>关于本站 Yao测试 前言</description>
+      <title>森海鹿工作室</title>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/SHL.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/SHL.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">森海鹿工作室</source>
+      <description>森海鹿工作室</description>
+      <pubDate>Wed, 09 Oct 2024 15:37:17 GMT</pubDate>
+      <content:encoded><![CDATA[
+]]></content:encoded>
+    </item>
+    <item>
+      <title>在线工具</title>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/web_tool.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/web_tool.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">在线工具</source>
+      <description>在线工具</description>
+      <pubDate>Wed, 09 Oct 2024 15:37:17 GMT</pubDate>
+      <content:encoded><![CDATA[
+]]></content:encoded>
+    </item>
+    <item>
+      <title>政府网站</title>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/web_ZF.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/web_ZF.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">政府网站</source>
+      <description>政府网站</description>
+      <pubDate>Wed, 09 Oct 2024 15:37:17 GMT</pubDate>
+      <content:encoded><![CDATA[
+]]></content:encoded>
+    </item>
+    <item>
+      <title>编程网站</title>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/web_BC.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/web_BC.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">编程网站</source>
+      <description>编程网站</description>
+      <pubDate>Wed, 09 Oct 2024 15:37:17 GMT</pubDate>
+      <content:encoded><![CDATA[
+]]></content:encoded>
+    </item>
+    <item>
+      <title>文字</title>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/word/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/word/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">文字</source>
+      <description>文字</description>
+      <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+]]></content:encoded>
+    </item>
+    <item>
+      <title>小说</title>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/word/word_XS.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/word/word_XS.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">小说</source>
+      <description>小说</description>
+      <pubDate>Wed, 09 Oct 2024 15:37:17 GMT</pubDate>
+      <content:encoded><![CDATA[
+]]></content:encoded>
+    </item>
+    <item>
+      <title>关于本站</title>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/web.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/web.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">关于本站</source>
+      <description>关于本站 前言</description>
       <pubDate>Wed, 09 Oct 2024 08:30:13 GMT</pubDate>
       <content:encoded><![CDATA[
 <h2>前言</h2>
 ]]></content:encoded>
     </item>
     <item>
-      <title>关于我 测试</title>
+      <title>自我介绍</title>
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/me.html</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/me.html</guid>
-      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">关于我 测试</source>
-      <description>关于我 测试</description>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">自我介绍</source>
+      <description>自我介绍</description>
       <pubDate>Tue, 08 Oct 2024 17:24:05 GMT</pubDate>
       <content:encoded><![CDATA[
 ]]></content:encoded>
@@ -50,16 +110,13 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>收藏</title>
+      <title>关于</title>
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/</guid>
-      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">收藏</source>
-      <description>收藏 有些记忆，弥足珍贵</description>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">关于</source>
+      <description>关于</description>
       <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">有些记忆，弥足珍贵</p>
-</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -76,75 +133,31 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>文档</title>
-      <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/document.html</link>
-      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/document.html</guid>
-      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">文档</source>
-      <description>文档 常用文档</description>
-      <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
-      <content:encoded><![CDATA[
-<div class="hint-container tip">
-<p class="hint-container-title">常用文档</p>
-</div>
-<h2></h2>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>友链</title>
-      <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/friend.html</link>
-      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/friend.html</guid>
-      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">友链</source>
-      <description>友链</description>
-      <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
-      <content:encoded><![CDATA[
-]]></content:encoded>
-    </item>
-    <item>
-      <title>在线工具</title>
-      <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/tools.html</link>
-      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/tools.html</guid>
-      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">在线工具</source>
-      <description>在线工具 好用的在线工具</description>
-      <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
-      <content:encoded><![CDATA[
-<div class="hint-container tip">
-<p class="hint-container-title">好用的在线工具</p>
-</div>
-<h2></h2>
-]]></content:encoded>
-    </item>
-    <item>
       <title>影视</title>
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/movies/</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/movies/</guid>
       <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">影视</source>
-      <description>影视 『 生活就像一盒巧克力 』</description>
+      <description>影视</description>
       <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">『 生活就像一盒巧克力 』</p>
-</div>
 ]]></content:encoded>
     </item>
     <item>
-      <title>阿甘正传</title>
-      <link>https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/ForrestGump.html</link>
-      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/ForrestGump.html</guid>
-      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">阿甘正传</source>
-      <description>阿甘正传 《阿甘正传》是由罗伯特·泽米吉斯执导的电影，由汤姆·汉克斯、罗宾·怀特等人主演，于 1994 年 7 月 6 日在美国上映。 电影改编自美国作家温斯顿·格鲁姆于 1986 年出版的同名小说，描绘了先天智障的小镇男孩福瑞斯特·甘自强不息，最终“傻人有傻福”地得到上天眷顾，在多个领域创造奇迹的励志故事 [1] 。电影上映后，于 1995 年获得奥...</description>
+      <title>电影网站</title>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/movies/movies_weblist.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/movies/movies_weblist.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">电影网站</source>
+      <description>电影网站</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
-<p>《阿甘正传》是由罗伯特·泽米吉斯执导的电影，由汤姆·汉克斯、罗宾·怀特等人主演，于 1994 年 7 月 6 日在美国上映。</p>
-<p>电影改编自美国作家温斯顿·格鲁姆于 1986 年出版的同名小说，描绘了先天智障的小镇男孩福瑞斯特·甘自强不息，最终“傻人有傻福”地得到上天眷顾，在多个领域创造奇迹的励志故事 [1] 。电影上映后，于 1995 年获得奥斯卡最佳影片奖、最佳男主角奖、最佳导演奖等 6 项大奖 。</p>
-<p>2014 年 9 月 5 日，在该片上映 20 周年之际，《阿甘正传》IMAX 版本开始在全美上映</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>网易云歌单2</title>
+      <title>QQ音乐歌单</title>
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/qq_music.html</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/qq_music.html</guid>
-      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">网易云歌单2</source>
-      <description>网易云歌单2</description>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">QQ音乐歌单</source>
+      <description>QQ音乐歌单</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
 <!--<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=550 src="//music.163.com/outchain/player?type=0&id=8056247134&auto=0&height=430"></iframe>
@@ -157,18 +170,15 @@
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/</guid>
       <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">音乐</source>
-      <description>音乐 单曲循环一整天</description>
+      <description>音乐</description>
       <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">单曲循环一整天</p>
-</div>
 ]]></content:encoded>
     </item>
     <item>
       <title>网易云歌单</title>
-      <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/music163_favorite.html</link>
-      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/music163_favorite.html</guid>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/wyy_music.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/wyy_music.html</guid>
       <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">网易云歌单</source>
       <description>网易云歌单</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
@@ -179,16 +189,29 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>酷狗歌单1</title>
+      <title>酷狗歌单</title>
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/kugou_music.html</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/kugou_music.html</guid>
-      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">酷狗歌单1</source>
-      <description>酷狗歌单1</description>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">酷狗歌单</source>
+      <description>酷狗歌单</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
 <!--<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=550 src="//music.163.com/outchain/player?type=0&id=8056247134&auto=0&height=430"></iframe>
 -->
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="//music.163.com/outchain/player?type=0&amp;id=639419756&amp;auto=0&amp;height=430"></iframe>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>相册</title>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/photos/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/photos/</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">相册</source>
+      <description>相册 唯愿此景与汝共</description>
+      <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">唯愿此景与汝共</p>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -231,19 +254,6 @@
 </div>
 ]]></content:encoded>
       <enclosure url="https://yaoabcde.github.io/Yao/Yao//file.mo7.cc/api/public/bz?idx=1" type="image/"/>
-    </item>
-    <item>
-      <title>相册</title>
-      <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/photos/</link>
-      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/photos/</guid>
-      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">相册</source>
-      <description>相册 唯愿此景与汝共</description>
-      <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">唯愿此景与汝共</p>
-</div>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

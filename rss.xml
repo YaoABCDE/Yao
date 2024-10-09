@@ -6,8 +6,8 @@
     <link>https://yaoabcde.github.io/Yao/Yao/</link>
     <description>我欲修仙，快乐齐天</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 08 Oct 2024 18:18:35 GMT</pubDate>
-    <lastBuildDate>Tue, 08 Oct 2024 18:18:35 GMT</lastBuildDate>
+    <pubDate>Wed, 09 Oct 2024 08:51:21 GMT</pubDate>
+    <lastBuildDate>Wed, 09 Oct 2024 08:51:21 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -27,6 +27,17 @@
     <category>Linux</category>
     <category>博客搭建教程</category>
     <item>
+      <title>关于本站 Yao测试</title>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/website.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/website.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">关于本站 Yao测试</source>
+      <description>关于本站 Yao测试 前言</description>
+      <pubDate>Wed, 09 Oct 2024 08:30:13 GMT</pubDate>
+      <content:encoded><![CDATA[
+<h2>前言</h2>
+]]></content:encoded>
+    </item>
+    <item>
       <title>关于我 测试</title>
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/me.html</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/me.html</guid>
@@ -34,19 +45,6 @@
       <description>关于我 测试</description>
       <pubDate>Tue, 08 Oct 2024 17:24:05 GMT</pubDate>
       <content:encoded><![CDATA[
-]]></content:encoded>
-    </item>
-    <item>
-      <title>收藏</title>
-      <link>https://yaoabcde.github.io/Yao/Yao/Yao/</link>
-      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/</guid>
-      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">收藏</source>
-      <description>收藏 有些记忆，弥足珍贵</description>
-      <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">有些记忆，弥足珍贵</p>
-</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -781,8 +779,8 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
     </item>
     <item>
       <title>收藏</title>
-      <link>https://yaoabcde.github.io/Yao/Yao/Yao/favorite/</link>
-      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/favorite/</guid>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/</guid>
       <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">收藏</source>
       <description>收藏 有些记忆，弥足珍贵</description>
       <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>

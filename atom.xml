@@ -5,7 +5,7 @@
   <subtitle>我欲修仙，快乐齐天</subtitle>
   <icon>https://yaoabcde.github.io/Yao/Yao/YaoPhoto/png/logo3.png</icon>
   <logo>https://yaoabcde.github.io/Yao/Yao/YaoPhoto/png/logo2.png</logo>
-  <updated>2024-10-08T18:18:35.687Z</updated>
+  <updated>2024-10-09T08:51:21.117Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://yaoabcde.github.io/Yao/Yao/atom.xml"/>
   <link rel="alternate" href="https://yaoabcde.github.io/Yao/Yao/"/>
@@ -21,6 +21,19 @@
   <category term="Linux"/>
   <category term="博客搭建教程"/>
   <entry>
+    <title type="text">关于本站 Yao测试</title>
+    <id>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/website.html</id>
+    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/myblog/website.html"/>
+    <updated>2024-10-09T08:30:13.000Z</updated>
+    <summary type="html"><![CDATA[
+<h2>前言</h2>
+]]></summary>
+    <content type="html"><![CDATA[
+<h2>前言</h2>
+]]></content>
+    <published>2024-10-09T08:30:13.000Z</published>
+  </entry>
+  <entry>
     <title type="text">关于我 测试</title>
     <id>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/me.html</id>
     <link href="https://yaoabcde.github.io/Yao/Yao/Yao/myblog/me.html"/>
@@ -30,24 +43,6 @@
     <content type="html"><![CDATA[
 ]]></content>
     <published>2024-10-08T17:24:05.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">收藏</title>
-    <id>https://yaoabcde.github.io/Yao/Yao/Yao/</id>
-    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/"/>
-    <updated>2024-10-08T17:13:28.000Z</updated>
-    <summary type="html"><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">有些记忆，弥足珍贵</p>
-</div>
-<hr>
-]]></summary>
-    <content type="html"><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">有些记忆，弥足珍贵</p>
-</div>
-]]></content>
-    <published>1993-02-13T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">关于</title>
@@ -897,9 +892,9 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
   </entry>
   <entry>
     <title type="text">收藏</title>
-    <id>https://yaoabcde.github.io/Yao/Yao/Yao/favorite/</id>
-    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/favorite/"/>
-    <updated>2024-10-08T17:13:28.000Z</updated>
+    <id>https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/</id>
+    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/"/>
+    <updated>2024-10-09T08:30:13.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">有些记忆，弥足珍贵</p>

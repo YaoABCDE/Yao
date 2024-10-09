@@ -8,6 +8,17 @@
   "favicon": "https://yaoabcde.github.io/Yao/Yao/YaoPhoto/png/logo3.png",
   "items": [
     {
+      "title": "关于本站 Yao测试",
+      "url": "https://yaoabcde.github.io/Yao/Yao/Yao/myblog/website.html",
+      "id": "https://yaoabcde.github.io/Yao/Yao/Yao/myblog/website.html",
+      "summary": "关于本站 Yao测试 前言",
+      "content_html": "\n<h2>前言</h2>\n",
+      "date_published": "2024-10-09T08:30:13.000Z",
+      "date_modified": "2024-10-09T08:30:13.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
       "title": "关于我 测试",
       "url": "https://yaoabcde.github.io/Yao/Yao/Yao/myblog/me.html",
       "id": "https://yaoabcde.github.io/Yao/Yao/Yao/myblog/me.html",
@@ -15,17 +26,6 @@
       "content_html": "\n",
       "date_published": "2024-10-08T17:24:05.000Z",
       "date_modified": "2024-10-08T17:24:05.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "收藏",
-      "url": "https://yaoabcde.github.io/Yao/Yao/Yao/",
-      "id": "https://yaoabcde.github.io/Yao/Yao/Yao/",
-      "summary": "收藏 有些记忆，弥足珍贵",
-      "content_html": "\n<div class=\"hint-container info\">\n<p class=\"hint-container-title\">有些记忆，弥足珍贵</p>\n</div>\n",
-      "date_published": "1993-02-13T00:00:00.000Z",
-      "date_modified": "2024-10-08T17:13:28.000Z",
       "authors": [],
       "tags": []
     },
@@ -281,12 +281,12 @@
     },
     {
       "title": "收藏",
-      "url": "https://yaoabcde.github.io/Yao/Yao/Yao/favorite/",
-      "id": "https://yaoabcde.github.io/Yao/Yao/Yao/favorite/",
+      "url": "https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/",
+      "id": "https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/",
       "summary": "收藏 有些记忆，弥足珍贵",
       "content_html": "\n<div class=\"hint-container info\">\n<p class=\"hint-container-title\">有些记忆，弥足珍贵</p>\n</div>\n",
       "date_published": "1993-02-13T00:00:00.000Z",
-      "date_modified": "2024-10-08T17:13:28.000Z",
+      "date_modified": "2024-10-09T08:30:13.000Z",
       "authors": [],
       "tags": []
     },

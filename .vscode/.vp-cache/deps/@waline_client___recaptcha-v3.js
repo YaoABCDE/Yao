@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "./chunk-HKJ2B2AA.js";
+} from "./chunk-BUSYA2B4.js";
 
 // node_modules/.pnpm/recaptcha-v3@1.11.3/node_modules/recaptcha-v3/dist/ReCaptchaInstance.js
 var require_ReCaptchaInstance = __commonJS({

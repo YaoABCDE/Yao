@@ -2,69 +2,51 @@
   "hash": "1a682e9e",
   "configHash": "303463ca",
   "lockfileHash": "b8e99410",
-  "browserHash": "ca4c645e",
+  "browserHash": "817a00ab",
   "optimized": {
     "@waline/client > autosize": {
       "src": "../../../node_modules/.pnpm/autosize@6.0.1/node_modules/autosize/dist/autosize.esm.js",
       "file": "@waline_client___autosize.js",
-      "fileHash": "716a84f7",
+      "fileHash": "f258d031",
       "needsInterop": false
     },
     "@waline/client > recaptcha-v3": {
       "src": "../../../node_modules/.pnpm/recaptcha-v3@1.11.3/node_modules/recaptcha-v3/dist/ReCaptcha.js",
       "file": "@waline_client___recaptcha-v3.js",
-      "fileHash": "e466c942",
+      "fileHash": "441da4e3",
       "needsInterop": true
     },
     "@vue/devtools-api": {
       "src": "../../../node_modules/.pnpm/@vue+devtools-api@7.4.6/node_modules/@vue/devtools-api/dist/index.js",
       "file": "@vue_devtools-api.js",
-      "fileHash": "cbab13c7",
+      "fileHash": "083bb9f0",
       "needsInterop": false
     },
     "@vuepress/shared": {
       "src": "../../../node_modules/.pnpm/@vuepress+shared@2.0.0-rc.17/node_modules/@vuepress/shared/dist/index.js",
       "file": "@vuepress_shared.js",
-      "fileHash": "8c924c37",
+      "fileHash": "24475ddd",
       "needsInterop": false
     },
     "vue": {
       "src": "../../../node_modules/.pnpm/vue@3.5.11/node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "0a4b5f15",
+      "fileHash": "e9ac6ecb",
       "needsInterop": false
     },
     "vue-router": {
       "src": "../../../node_modules/.pnpm/vue-router@4.4.5_vue@3.5.11/node_modules/vue-router/dist/vue-router.esm-bundler.js",
       "file": "vue-router.js",
-      "fileHash": "306f9f09",
+      "fileHash": "09f34811",
       "needsInterop": false
-    },
-    "axios": {
-      "src": "../../../node_modules/.pnpm/axios@1.7.7/node_modules/axios/index.js",
-      "file": "axios.js",
-      "fileHash": "f68aafb3",
-      "needsInterop": false
-    },
-    "aplayer": {
-      "src": "../../../node_modules/.pnpm/aplayer@1.10.1/node_modules/aplayer/dist/APlayer.min.js",
-      "file": "aplayer.js",
-      "fileHash": "05abc4a5",
-      "needsInterop": true
-    },
-    "store": {
-      "src": "../../../node_modules/.pnpm/store@2.0.12/node_modules/store/dist/store.legacy.js",
-      "file": "store.js",
-      "fileHash": "a48e6913",
-      "needsInterop": true
     }
   },
   "chunks": {
     "chunk-XIDTNVOX": {
       "file": "chunk-XIDTNVOX.js"
     },
-    "chunk-HKJ2B2AA": {
-      "file": "chunk-HKJ2B2AA.js"
+    "chunk-BUSYA2B4": {
+      "file": "chunk-BUSYA2B4.js"
     }
   }
 }

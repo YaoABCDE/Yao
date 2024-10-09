@@ -5,7 +5,7 @@
   <subtitle>我欲修仙，快乐齐天</subtitle>
   <icon>https://yaoabcde.github.io/Yao/Yao/YaoPhoto/png/logo3.png</icon>
   <logo>https://yaoabcde.github.io/Yao/Yao/YaoPhoto/png/logo2.png</logo>
-  <updated>2024-10-09T09:54:29.943Z</updated>
+  <updated>2024-10-09T12:06:57.036Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://yaoabcde.github.io/Yao/Yao/atom.xml"/>
   <link rel="alternate" href="https://yaoabcde.github.io/Yao/Yao/"/>
@@ -35,9 +35,9 @@
   </entry>
   <entry>
     <title type="text">收藏</title>
-    <id>https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/</id>
-    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/"/>
-    <updated>2024-10-09T08:30:13.000Z</updated>
+    <id>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/</id>
+    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/"/>
+    <updated>2024-10-09T11:44:17.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">有些记忆，弥足珍贵</p>
@@ -70,10 +70,77 @@
     <published>1993-02-13T00:00:00.000Z</published>
   </entry>
   <entry>
+    <title type="text">链接</title>
+    <id>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/</id>
+    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/"/>
+    <updated>2024-10-09T11:44:17.000Z</updated>
+    <summary type="html"><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">好的东西应该共享</p>
+</div>
+<hr>
+]]></summary>
+    <content type="html"><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">好的东西应该共享</p>
+</div>
+]]></content>
+    <published>1993-02-13T00:00:00.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">文档</title>
+    <id>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/document.html</id>
+    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/document.html"/>
+    <updated>2024-10-09T11:44:17.000Z</updated>
+    <summary type="html"><![CDATA[
+<div class="hint-container tip">
+<p class="hint-container-title">常用文档</p>
+</div>
+<h2></h2>
+]]></summary>
+    <content type="html"><![CDATA[
+<div class="hint-container tip">
+<p class="hint-container-title">常用文档</p>
+</div>
+<h2></h2>
+]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">友链</title>
+    <id>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/friend.html</id>
+    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/friend.html"/>
+    <updated>2024-10-09T11:44:17.000Z</updated>
+    <summary type="html"><![CDATA[
+]]></summary>
+    <content type="html"><![CDATA[
+]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">在线工具</title>
+    <id>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/tools.html</id>
+    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/tools.html"/>
+    <updated>2024-10-09T11:44:17.000Z</updated>
+    <summary type="html"><![CDATA[
+<div class="hint-container tip">
+<p class="hint-container-title">好用的在线工具</p>
+</div>
+<h2></h2>
+]]></summary>
+    <content type="html"><![CDATA[
+<div class="hint-container tip">
+<p class="hint-container-title">好用的在线工具</p>
+</div>
+<h2></h2>
+]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
+  </entry>
+  <entry>
     <title type="text">影视</title>
-    <id>https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/movies/</id>
-    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/movies/"/>
-    <updated>2024-10-09T08:30:13.000Z</updated>
+    <id>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/movies/</id>
+    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/movies/"/>
+    <updated>2024-10-09T11:44:17.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">『 生活就像一盒巧克力 』</p>
@@ -91,7 +158,7 @@
     <title type="text">阿甘正传</title>
     <id>https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/ForrestGump.html</id>
     <link href="https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/ForrestGump.html"/>
-    <updated>2024-10-09T08:30:13.000Z</updated>
+    <updated>2024-10-09T11:44:17.000Z</updated>
     <summary type="html"><![CDATA[
 <p>《阿甘正传》是由罗伯特·泽米吉斯执导的电影，由汤姆·汉克斯、罗宾·怀特等人主演，于 1994 年 7 月 6 日在美国上映。</p>
 <p>电影改编自美国作家温斯顿·格鲁姆于 1986 年出版的同名小说，描绘了先天智障的小镇男孩福瑞斯特·甘自强不息，最终“傻人有傻福”地得到上天眷顾，在多个领域创造奇迹的励志故事 [1] 。电影上映后，于 1995 年获得奥斯卡最佳影片奖、最佳男主角奖、最佳导演奖等 6 项大奖 。</p>
@@ -106,9 +173,9 @@
   </entry>
   <entry>
     <title type="text">网易云歌单2</title>
-    <id>https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/music/qq_music.html</id>
-    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/music/qq_music.html"/>
-    <updated>2024-10-09T08:30:13.000Z</updated>
+    <id>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/qq_music.html</id>
+    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/qq_music.html"/>
+    <updated>2024-10-09T11:44:17.000Z</updated>
     <summary type="html"><![CDATA[
 <!--<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=550 src="//music.163.com/outchain/player?type=0&id=8056247134&auto=0&height=430"></iframe>
 -->
@@ -122,9 +189,9 @@
   </entry>
   <entry>
     <title type="text">音乐</title>
-    <id>https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/music/</id>
-    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/music/"/>
-    <updated>2024-10-09T08:30:13.000Z</updated>
+    <id>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/</id>
+    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/"/>
+    <updated>2024-10-09T11:44:17.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container info">
 <p class="hint-container-title">单曲循环一整天</p>
@@ -140,9 +207,9 @@
   </entry>
   <entry>
     <title type="text">网易云歌单</title>
-    <id>https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/music/music163_favorite.html</id>
-    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/music/music163_favorite.html"/>
-    <updated>2024-10-09T08:30:13.000Z</updated>
+    <id>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/music163_favorite.html</id>
+    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/music163_favorite.html"/>
+    <updated>2024-10-09T11:44:17.000Z</updated>
     <summary type="html"><![CDATA[
 <!--<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=550 src="//music.163.com/outchain/player?type=0&id=8056247134&auto=0&height=430"></iframe>
 -->
@@ -156,9 +223,9 @@
   </entry>
   <entry>
     <title type="text">酷狗歌单1</title>
-    <id>https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/music/kugou_music.html</id>
-    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/Yaoa_zyk/music/kugou_music.html"/>
-    <updated>2024-10-09T08:30:13.000Z</updated>
+    <id>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/kugou_music.html</id>
+    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/kugou_music.html"/>
+    <updated>2024-10-09T11:44:17.000Z</updated>
     <summary type="html"><![CDATA[
 <!--<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=550 src="//music.163.com/outchain/player?type=0&id=8056247134&auto=0&height=430"></iframe>
 -->
@@ -169,5 +236,70 @@
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="//music.163.com/outchain/player?type=0&amp;id=639419756&amp;auto=0&amp;height=430"></iframe>
 ]]></content>
     <published>2024-10-07T14:29:24.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">必应每日壁纸 api</title>
+    <id>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/photos/bing_img_api.html</id>
+    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/photos/bing_img_api.html"/>
+    <updated>2024-10-09T11:44:17.000Z</updated>
+    <summary type="html"><![CDATA[
+<p>采用 golang 编写，每日定时爬取 <a href="https://cn.bing.com" target="_blank" rel="noopener noreferrer">https://cn.bing.com</a> 当日的 7 张壁纸，并将链接固定下来进行 302 重定向。 idx 参数分别对应 当日壁纸数组 的序号，<code>idx=1</code> 时则返回当天壁纸。</p>
+<p>支持 <code>http</code> 以及 <code>https</code> 。</p>
+<h2>HTML 和 Markdown 使用</h2>
+<div class="language-html line-numbers-mode" data-highlighter="shiki" data-ext="html" data-title="html" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">img</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> src</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">=</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"//file.mo7.cc/api/public/bz"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> /&gt;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">img</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> src</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">=</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"//file.mo7.cc/api/public/bz?idx=3"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> /&gt;</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[
+<p>采用 golang 编写，每日定时爬取 <a href="https://cn.bing.com" target="_blank" rel="noopener noreferrer">https://cn.bing.com</a> 当日的 7 张壁纸，并将链接固定下来进行 302 重定向。 idx 参数分别对应 当日壁纸数组 的序号，<code>idx=1</code> 时则返回当天壁纸。</p>
+<p>支持 <code>http</code> 以及 <code>https</code> 。</p>
+<h2>HTML 和 Markdown 使用</h2>
+<div class="language-html line-numbers-mode" data-highlighter="shiki" data-ext="html" data-title="html" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">img</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> src</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">=</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"//file.mo7.cc/api/public/bz"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> /&gt;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">img</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> src</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">=</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"//file.mo7.cc/api/public/bz?idx=3"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> /&gt;</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="language-markdown line-numbers-mode" data-highlighter="shiki" data-ext="markdown" data-title="markdown" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]</span><span style="--shiki-light:#A626A4;--shiki-dark:#E06C75">(</span><span style="--shiki-light:#A626A4;--shiki-light-text-decoration:inherit;--shiki-dark:#C678DD;--shiki-dark-text-decoration:underline">//file.mo7.cc/api/public/bz?idx=1</span><span style="--shiki-light:#A626A4;--shiki-dark:#E06C75">)</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]</span><span style="--shiki-light:#A626A4;--shiki-dark:#E06C75">(</span><span style="--shiki-light:#A626A4;--shiki-light-text-decoration:inherit;--shiki-dark:#C678DD;--shiki-dark-text-decoration:underline">//file.mo7.cc/api/public/bz?idx=3</span><span style="--shiki-light:#A626A4;--shiki-dark:#E06C75">)</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]</span><span style="--shiki-light:#A626A4;--shiki-dark:#E06C75">(</span><span style="--shiki-light:#A626A4;--shiki-light-text-decoration:inherit;--shiki-dark:#C678DD;--shiki-dark-text-decoration:underline">//file.mo7.cc/api/public/bz</span><span style="--shiki-light:#A626A4;--shiki-dark:#E06C75">)</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><img src="//file.mo7.cc/api/public/bz?idx=1" alt="" loading="lazy"><br>
+<img src="//file.mo7.cc/api/public/bz?idx=3" alt="" loading="lazy"><br>
+<img src="//file.mo7.cc/api/public/bz" alt="" loading="lazy"></p>
+<blockquote>
+<p>当 <code>idx</code> 参数小于 1 时，则会随机返回一张壁纸</p>
+</blockquote>
+<h2>api 接口返回当日 json 数据</h2>
+<div class="language-js line-numbers-mode" data-highlighter="shiki" data-ext="js" data-title="js" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">axios</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">({</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  method</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'get'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  url</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '//file.mo7.cc/api/public/url'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  params</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> {},</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">}).</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">then</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">((</span><span style="--shiki-light:#383A42;--shiki-light-font-style:inherit;--shiki-dark:#E06C75;--shiki-dark-font-style:italic">response</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">) </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">=&gt;</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> {</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">  const</span><span style="--shiki-light:#986801;--shiki-dark:#E5C07B"> imgList</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> =</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B"> response</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">data</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">Data</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">  console</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">log</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">imgList</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">});</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>API 完整地址:<br>
+<a href="https://file.mo7.cc/api/public/url" target="_blank" rel="noopener noreferrer">https://file.mo7.cc/api/public/url</a></p>
+<div class="hint-container info">
+<p class="hint-container-title">相关信息</p>
+<p>程序采用 golang 编写，采用 302 重定向返回图片，流量消耗可以忽略不计。程序定时爬取数据并缓存在内存中，因此可以支持极高的并发。欢迎食用 ~</p>
+</div>
+]]></content>
+    <published>2024-10-07T14:29:24.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">相册</title>
+    <id>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/photos/</id>
+    <link href="https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/photos/"/>
+    <updated>2024-10-09T11:44:17.000Z</updated>
+    <summary type="html"><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">唯愿此景与汝共</p>
+</div>
+<hr>
+]]></summary>
+    <content type="html"><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">唯愿此景与汝共</p>
+</div>
+]]></content>
+    <published>1993-02-13T00:00:00.000Z</published>
   </entry>
 </feed>

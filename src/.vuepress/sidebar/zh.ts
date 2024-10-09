@@ -3,26 +3,26 @@ import { sidebar } from 'vuepress-theme-hope';
 const back_posts = {
   text: '返回总目录',
   icon: 'sort',
-  link: '/posts/',
+  link: '/Yao/',
 };
 
-const back_developer = {
-  text: '返回Developer',
-  icon: 'developer',
-  link: '/developer/',
-};
+// const back_developer = {
+//   text: '返回Developer',
+//   icon: 'developer',
+//   link: '/developer/',
+// };
 
-const back_tutorial = {
-  text: '返回教程',
-  icon: 'bookone',
-  link: '/tutorial/',
-};
+// const back_tutorial = {
+//   text: '返回教程',
+//   icon: 'bookone',
+//   link: '/tutorial/',
+// };
 
-const back_tools = {
-  text: '返回工具',
-  icon: 'gongju',
-  link: '/tools/',
-};
+// const back_tools = {
+//   text: '返回工具',
+//   icon: 'gongju',
+//   link: '/tools/',
+// };
 
 export const zhSidebar = sidebar({
 

@@ -53,15 +53,15 @@
 <ol>
 <li>打开 <code v-pre>Microsoft Store</code> 搜索 <code v-pre>Watt Toolkit</code> 并安装。</li>
 </ol>
-<figure><img src="@source/developer/image/watt_1.png" alt="微软商店搜索并下载 Watt Toolkit" tabindex="0" loading="lazy"><figcaption>微软商店搜索并下载 Watt Toolkit</figcaption></figure>
+<figure><img src="@source/Yao_Pack/developer/image/watt_1.png" alt="微软商店搜索并下载 Watt Toolkit" tabindex="0" loading="lazy"><figcaption>微软商店搜索并下载 Watt Toolkit</figcaption></figure>
 <ol start="2">
 <li>启动 <code v-pre>Watt Toolkit</code> 并勾选 <code v-pre>Github</code></li>
 </ol>
-<figure><img src="@source/developer/image/waat_2.png" alt="勾选需要代理的服务并启用加速" tabindex="0" loading="lazy"><figcaption>勾选需要代理的服务并启用加速</figcaption></figure>
+<figure><img src="@source/Yao_Pack/developer/image/waat_2.png" alt="勾选需要代理的服务并启用加速" tabindex="0" loading="lazy"><figcaption>勾选需要代理的服务并启用加速</figcaption></figure>
 <ol start="3">
 <li>然后点击 <code v-pre>一键加速</code> 就可以正常访问 <a href="http://github.com" target="_blank" rel="noopener noreferrer">github.com</a> 了</li>
 </ol>
-<figure><img src="@source/developer/image/waat_3.png" alt="Watt Toolkit" tabindex="0" loading="lazy"><figcaption>Watt Toolkit</figcaption></figure>
+<figure><img src="@source/Yao_Pack/developer/image/waat_3.png" alt="Watt Toolkit" tabindex="0" loading="lazy"><figcaption>Watt Toolkit</figcaption></figure>
 <h2 id="科学上网" tabindex="-1"><a class="header-anchor" href="#科学上网"><span>科学上网</span></a></h2>
 <p>如果你想要使用 <code v-pre>Google</code>、 <code v-pre>ChartGPT</code> 或者想要获取国内外一手资讯等，还是得了解一下 <strong>科学上网</strong> 这件事情的。</p>
 <p><a href="https://blog.tsingjyujing.com/spam/gfw-history" target="_blank" rel="noopener noreferrer">中国网络防火长城简史</a></p>

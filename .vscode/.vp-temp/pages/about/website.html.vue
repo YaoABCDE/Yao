@@ -6,22 +6,22 @@
 <p>注: 本站并非开源，但是我写了一个同步脚本，会定期将博客的源码同步至上述公开仓库中。通过上述仓库中的源码可以顺畅编译出本博客的全部公开内容。</p>
 </blockquote>
 <blockquote>
-<p>本博客搭建的技术细节可以参考: <RouteLink to="/tutorial/vuepress-hope/">本博客搭建指南</RouteLink></p>
+<p>本博客搭建的技术细节可以参考: <RouteLink to="/Yao_Pack/tutorial/vuepress-hope/">本博客搭建指南</RouteLink></p>
 </blockquote>
 <h3 id="顶栏和音乐播放器" tabindex="-1"><a class="header-anchor" href="#顶栏和音乐播放器"><span>顶栏和音乐播放器</span></a></h3>
 <p>这是顶部的一些下拉菜单，其中画板下拉菜单可以更改主题和全屏浏览。</p>
 <p>我基于 <a href="https://aplayer.js.org" target="_blank" rel="noopener noreferrer">APlayer</a> 开发了一款全局的音乐播放器。可以通过顶部导航栏右上角的 <MyIcon name="music" /> 按钮打开。音源来自于各大免费的音乐平台(侵删~)。 如果好的音乐推荐可以在评论区留言。</p>
-<figure><img src="@source/about/image/顶部导航栏.png" alt="顶部菜单 和 播放器 " tabindex="0" loading="lazy"><figcaption>顶部菜单 和 播放器 </figcaption></figure>
+<figure><img src="@source/Yao_Pack/about/image/顶部导航栏.png" alt="顶部菜单 和 播放器 " tabindex="0" loading="lazy"><figcaption>顶部菜单 和 播放器 </figcaption></figure>
 <p>还做了一个站点地图页面，可以直接访问本站已经发布的所有文章列表。</p>
 <h3 id="宽屏兼容" tabindex="-1"><a class="header-anchor" href="#宽屏兼容"><span>宽屏兼容</span></a></h3>
-<figure><img src="@source/about/image/宽屏兼容.png" alt="宽屏兼容" tabindex="0" loading="lazy"><figcaption>宽屏兼容</figcaption></figure>
+<figure><img src="@source/Yao_Pack/about/image/宽屏兼容.png" alt="宽屏兼容" tabindex="0" loading="lazy"><figcaption>宽屏兼容</figcaption></figure>
 <p>因为家里的屏幕是 21:9 的，但是主题的内容部分却依然是 窄窄的 一长条，空白地方留了很多。也不太好看，所以自己做了一个内容部分的宽屏兼容，适配更大的分辨率。</p>
 <h3 id="夜晚模式" tabindex="-1"><a class="header-anchor" href="#夜晚模式"><span>夜晚模式</span></a></h3>
 <p>尝试了很多很多的背景，调色，这一版的夜晚模式我非常满意。在白天模式和夜晚模式使用了不同的动态背景。第一版背景切换非常消耗性能。现在做了优化，现在切换非常流畅，内存占用非常低。</p>
-<figure><img src="@source/about/image/夜晚模式.png" alt="夜晚模式" tabindex="0" loading="lazy"><figcaption>夜晚模式</figcaption></figure>
+<figure><img src="@source/Yao_Pack/about/image/夜晚模式.png" alt="夜晚模式" tabindex="0" loading="lazy"><figcaption>夜晚模式</figcaption></figure>
 <h3 id="评论区介绍" tabindex="-1"><a class="header-anchor" href="#评论区介绍"><span>评论区介绍</span></a></h3>
 <p>评论区设置了发布频率限制，允许不登录匿名留言，支持 Markdown 语法，支持图片上传，支持预览和 Emoji 表情。</p>
-<figure><img src="@source/about/image/common.png" alt="评论区截图" tabindex="0" loading="lazy"><figcaption>评论区截图</figcaption></figure>
+<figure><img src="@source/Yao_Pack/about/image/common.png" alt="评论区截图" tabindex="0" loading="lazy"><figcaption>评论区截图</figcaption></figure>
 <blockquote>
 <p>建议使用 Github 登录。</p>
 </blockquote>
@@ -38,7 +38,7 @@
 <li>如果你想让数据流动起来，你需要掌握一门服务器编程语言和最基本的数据库操作使用方法。</li>
 </ol>
 <blockquote>
-<p>查看<RouteLink to="/favorite/links/document.html">本站用到的相关技术</RouteLink>，除此之外，网站的运营还涉及到 SEO ，流量推广，PWA 等等知识。如果你在中国大陆，想让自己的站点稳定的运行，还得了解基本的法律法规和管理条例以及备案技巧。</p>
+<p>查看<RouteLink to="/Yao_Pack/favorite/links/document.html">本站用到的相关技术</RouteLink>，除此之外，网站的运营还涉及到 SEO ，流量推广，PWA 等等知识。如果你在中国大陆，想让自己的站点稳定的运行，还得了解基本的法律法规和管理条例以及备案技巧。</p>
 </blockquote>
 <p>如果你想让它变得内容变得更加丰富，界面变得更加生动，访问速度更快，或者功能性更强。<br>
 你还得深入掌握更多更加专业的知识或者技巧。如果想要让站点能够与时俱进，得保证技术的更迭和软件的维护。随着功能越来越多，所需要的各种专业知识也将更多。</p>
@@ -48,7 +48,7 @@
 <p>大到淘宝、Facebook，小到个人站点，他们所需要的最基本的技术和配置都差不多，只是所需要的深浅不太一样。随着技术大牛们的努力和开源世界的慷慨，这些事情越来越容易。</p>
 <h2 id="需求" tabindex="-1"><a class="header-anchor" href="#需求"><span>需求</span></a></h2>
 <p>在最初，我是采用下面这种方式去记录自己的日常工作和学习的:</p>
-<figure><img src="@source/about/image/weekly.jpg" alt="这是图片" tabindex="0" loading="lazy"><figcaption>这是图片</figcaption></figure>
+<figure><img src="@source/Yao_Pack/about/image/weekly.jpg" alt="这是图片" tabindex="0" loading="lazy"><figcaption>这是图片</figcaption></figure>
 <p>后来还用过飞书、Excel、各种 ToDo 软件等。还是觉得 <code v-pre>Vscode + Markdown</code> 的方式最好(吊打一切笔记软件)。方便阅读、方便修改、简单、兼容性好。一次编写可以很轻松的在各种格式下进行转换，属于文档当中的【基本单元】。不管是 Word、还是 Excel，如果没有特定的软件读取则无法访问，并且由于商业竞争，它们对其它软件的兼容性都很差强人意，格式转换时也会出现排版混乱等情况。但是 Markdown 则不同，它排版简单，使用方便，长什么样子完全取决于阅读器的主题，不同主题下可以可以拥有不同的观感，排版也不会混乱。包括我的个人资料，文件，文档，心得体会，和一些日常的小记录等我全都采用 md 去记录的。</p>
 <p><a href="https://markdown.com.cn" target="_blank" rel="noopener noreferrer">Markdown</a> 中图片的处理会比较麻烦，传统的例如 word 等文件格式它会将图片一起打包到文件中，但是在 md 当中图片更像是文档的<code v-pre>依赖文件</code>，是游离于文字之外的东西，除非你使用网络图片。我研究了各种图床，但是都存在各种限制。免费的图床很多，但是想要使用方便、免费、访问速度，稳定安全等因素兼得，实在是太难了。于是我最终选择了自己开发一个图床服务。</p>
 <h2 id="hexo" tabindex="-1"><a class="header-anchor" href="#hexo"><span>Hexo</span></a></h2>

@@ -5,9 +5,9 @@
 </div>
 <p>不知道你有没有遇到过，打开一个<code v-pre>.txt</code>文件却发现文件乱码了？这种时候往往是因为使用了不一样的编码格式去打开文件导致的。</p>
 <p>比如当前正在编写的这篇文章，如果采用 <a href="https://zh.wikipedia.org/wiki/%E6%B1%89%E5%AD%97%E5%86%85%E7%A0%81%E6%89%A9%E5%B1%95%E8%A7%84%E8%8C%83" target="_blank" rel="noopener noreferrer">GBK</a> 编码打开，就会变成一堆不认识的字符：</p>
-<figure><img src="@source/developer/image/gbk.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="@source/Yao_Pack/developer/image/gbk.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>但是同样的一篇文章采用 <a href="https://zh.wikipedia.org/wiki/UTF-8" target="_blank" rel="noopener noreferrer">UTF-8</a> 打开则可以正常阅读：</p>
-<figure><img src="@source/developer/image/utf8.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="@source/Yao_Pack/developer/image/utf8.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>因为这篇文章就是在 <code v-pre>UTF-8</code> 编码规则下编写的。 而<code v-pre>GBK</code>编码是 windows 系统早期的默认编码。</p>
 <div class="hint-container tip">
 <p class="hint-container-title">提示</p>

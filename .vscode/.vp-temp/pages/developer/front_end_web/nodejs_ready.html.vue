@@ -12,11 +12,11 @@
 <div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre v-pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">arch</span></span>
 <span class="line"><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic"># 会打印显示如:  arm64 或 x86_64 或其它</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div></div></div><details class="hint-container details"><summary>windows 下则是使用 sysyeminfo 命令</summary>
-<figure><img src="@source/developer/image/sysyeminfo.png" alt="sysyeminfo 命令示意图" tabindex="0" loading="lazy"><figcaption>sysyeminfo 命令示意图</figcaption></figure>
+<figure><img src="@source/Yao_Pack/developer/image/sysyeminfo.png" alt="sysyeminfo 命令示意图" tabindex="0" loading="lazy"><figcaption>sysyeminfo 命令示意图</figcaption></figure>
 </details>
 <h3 id="第二步-下载安装包" tabindex="-1"><a class="header-anchor" href="#第二步-下载安装包"><span>第二步，下载安装包</span></a></h3>
 <p><a href="https://nodejs.org/en/download/prebuilt-installer" target="_blank" rel="noopener noreferrer">https://nodejs.org/en/download/prebuilt-installer</a></p>
-<figure><img src="@source/developer/front_end_web/image/download_nodejs.png" alt="下载NodeJS" tabindex="0" loading="lazy"><figcaption>下载NodeJS</figcaption></figure>
+<figure><img src="@source/Yao_Pack/developer/front_end_web/image/download_nodejs.png" alt="下载NodeJS" tabindex="0" loading="lazy"><figcaption>下载NodeJS</figcaption></figure>
 <p>然后双击运行无脑下一步。</p>
 <h2 id="linux-下安装-nodejs" tabindex="-1"><a class="header-anchor" href="#linux-下安装-nodejs"><span>Linux 下安装 NodeJs</span></a></h2>
 <p>Github 文档:</p>
@@ -59,7 +59,7 @@
 <p>具体细节可参考文章 <a href="/tutorial/proxy_wall_ready.html" target="_blank" rel="noopener noreferrer">科学上网与本地代理</a></p>
 </blockquote>
 <p>如果你把代理关了，使用 npm 更新依赖时会有如下显示</p>
-<figure><img src="@source/developer/front_end_web/image/npm_local_propxy.png" alt="npm更新依赖报错" tabindex="0" loading="lazy"><figcaption>npm更新依赖报错</figcaption></figure>
+<figure><img src="@source/Yao_Pack/developer/front_end_web/image/npm_local_propxy.png" alt="npm更新依赖报错" tabindex="0" loading="lazy"><figcaption>npm更新依赖报错</figcaption></figure>
 <hr>
 <div class="hint-container info">
 <p class="hint-container-title">提示</p>
@@ -92,7 +92,7 @@
 <p>命令中的 <code v-pre>&quot;C:\\meichangliang\\Git\\bin\\bash.exe&quot;</code> 地址需要更换为你 windows 系统中 Git 的安装目录。</p>
 <p>地址里面 <code v-pre>\\</code> 中的第一个 <code v-pre>\</code> 实为转义符。</p>
 </div>
-<p>详细可 参考 <RouteLink to="/tools/git/">Git 的基本安装和使用</RouteLink></p>
+<p>详细可 参考 <RouteLink to="/Yao_Pack/tools/git/">Git 的基本安装和使用</RouteLink></p>
 <h2 id="环境安装结果的验证" tabindex="-1"><a class="header-anchor" href="#环境安装结果的验证"><span>环境安装结果的验证</span></a></h2>
 <p>打开命令行工具，依次验证如下命令</p>
 <div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre v-pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">node</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -v</span></span>

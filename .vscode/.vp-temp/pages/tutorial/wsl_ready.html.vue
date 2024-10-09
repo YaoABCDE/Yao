@@ -21,10 +21,10 @@
 <p>当然，以下步骤需要将 Windows 系统更新为最新版本。</p>
 </blockquote>
 <h3 id="第一步-启用-linux-子系统" tabindex="-1"><a class="header-anchor" href="#第一步-启用-linux-子系统"><span>第一步 ：启用 Linux 子系统</span></a></h3>
-<figure><img src="@source/tutorial/image/win_wsl_setting.png" alt="打开功能 并勾选 Linux 子系统" tabindex="0" loading="lazy"><figcaption>打开功能 并勾选 Linux 子系统</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tutorial/image/win_wsl_setting.png" alt="打开功能 并勾选 Linux 子系统" tabindex="0" loading="lazy"><figcaption>打开功能 并勾选 Linux 子系统</figcaption></figure>
 <h3 id="第二步骤-打开-microsoft-store-并搜索-linux" tabindex="-1"><a class="header-anchor" href="#第二步骤-打开-microsoft-store-并搜索-linux"><span>第二步骤：打开 <code v-pre>Microsoft Store</code> 并搜索 <code v-pre>Linux</code></span></a></h3>
 <p>打开 <code v-pre>Microsoft Store</code> 并搜索 <code v-pre>Linux</code>，然后安装。</p>
-<figure><img src="@source/tutorial/image/install_wsl.png" alt="安装WSL" tabindex="0" loading="lazy"><figcaption>安装WSL</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tutorial/image/install_wsl.png" alt="安装WSL" tabindex="0" loading="lazy"><figcaption>安装WSL</figcaption></figure>
 <p>简单来说就是:</p>
 <ol>
 <li>找到并打开 <code v-pre>Microsoft Store</code></li>
@@ -55,7 +55,7 @@
 <span class="line"><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">## 输入以下指令可以用 wsl 进入当前目录</span></span>
 <span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">wsl</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>效果如图:</p>
-<figure><img src="@source/tutorial/image/config_wsl.png" alt="wsl基本设置" tabindex="0" loading="lazy"><figcaption>wsl基本设置</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tutorial/image/config_wsl.png" alt="wsl基本设置" tabindex="0" loading="lazy"><figcaption>wsl基本设置</figcaption></figure>
 <blockquote>
 <p>到了这一步之后，就可以当做普通的 <code v-pre>Linux Debian</code> 去使用了。</p>
 </blockquote>

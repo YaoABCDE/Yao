@@ -6,10 +6,10 @@
 <p>初次使用建议点开左下角设置浏览一下设置项都有哪些。</p>
 <p>右键侧边栏可以控制显示哪些选项。勾选账户。<br>
 然后登录你的 Github 或者 Microsoft 账户，这样就可以在多台设备中同步你的设置以及插件了。</p>
-<figure><img src="@source/tools/vscode/image/login.png" alt="显示账户选项，然后登录Github" tabindex="0" loading="lazy"><figcaption>显示账户选项，然后登录Github</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tools/vscode/image/login.png" alt="显示账户选项，然后登录Github" tabindex="0" loading="lazy"><figcaption>显示账户选项，然后登录Github</figcaption></figure>
 <h2 id="一些基本的设置项" tabindex="-1"><a class="header-anchor" href="#一些基本的设置项"><span>一些基本的设置项</span></a></h2>
-<figure><img src="@source/tools/vscode/image/setting.png" alt="打开设置界面，右上角可以打开 json 格式的配置文件 " tabindex="0" loading="lazy"><figcaption>打开设置界面，右上角可以打开 json 格式的配置文件 </figcaption></figure>
-<figure><img src="@source/tools/vscode/image/settingjson.png" alt="鼠标移动到对应的设置项会显示说明" tabindex="0" loading="lazy"><figcaption>鼠标移动到对应的设置项会显示说明</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tools/vscode/image/setting.png" alt="打开设置界面，右上角可以打开 json 格式的配置文件 " tabindex="0" loading="lazy"><figcaption>打开设置界面，右上角可以打开 json 格式的配置文件 </figcaption></figure>
+<figure><img src="@source/Yao_Pack/tools/vscode/image/settingjson.png" alt="鼠标移动到对应的设置项会显示说明" tabindex="0" loading="lazy"><figcaption>鼠标移动到对应的设置项会显示说明</figcaption></figure>
 <p>下面是我个人的一些设置项</p>
 <div class="language-json line-numbers-mode" data-highlighter="shiki" data-ext="json" data-title="json" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre v-pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">{</span></span>
 <span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  "css.lint.duplicateProperties"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">: </span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"warning"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>

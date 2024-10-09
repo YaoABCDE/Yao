@@ -2,7 +2,7 @@
 <p>为了学习目的，诸如国外的一些优秀网站访问速度会很慢，甚至是无法访问，导致一些依赖的下载和软件的更新无法完成，资料都无法查阅。<br>
 这个时候可能需要一些使用一些代理手段。</p>
 <p>我之前使用过的方案是 <a href="https://cn.bing.com/search?q=ByWave" target="_blank" rel="noopener noreferrer">ByWave</a> ，实测还蛮好用的，一年也就一百来块挺实惠。<br>
-<img src="@source/developer/image/bywave.png" alt="ByWave" loading="lazy"></p>
+<img src="@source/Yao_Pack/developer/image/bywave.png" alt="ByWave" loading="lazy"></p>
 <blockquote>
 <p>点进去之后，直接注册/登录，然后购买对应的服务，然后下载安装即可。</p>
 </blockquote>
@@ -91,7 +91,7 @@
 </details>
 <h2 id="设置命令行代理" tabindex="-1"><a class="header-anchor" href="#设置命令行代理"><span>设置命令行代理</span></a></h2>
 <p>第一步，如下图所示，打开代理软件(这里用的是 V2rayU)，设置好 http 端口，确认系统代理已生效</p>
-<figure><img src="@source/tutorial/image/proxy_terminal.png" alt="确认 macOS 系统代理已生效" tabindex="0" loading="lazy"><figcaption>确认 macOS 系统代理已生效</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tutorial/image/proxy_terminal.png" alt="确认 macOS 系统代理已生效" tabindex="0" loading="lazy"><figcaption>确认 macOS 系统代理已生效</figcaption></figure>
 <p>第二步，设置如下环境变量。</p>
 <div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre v-pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">#  ~/.zshenv 或 ~/.bashrc 文件中:</span></span>
 <span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">export</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"> http_proxy</span><span style="--shiki-light:#383A42;--shiki-dark:#56B6C2">=</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">http</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">://</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">127</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">0</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">0</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">1</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">10809</span></span>
@@ -108,10 +108,10 @@
 <span class="line"><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">#  我的电脑->属性->更改设置->高级->环境变量，添加环境变量</span></span>
 <span class="line"><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">#  变量名  ALL_PROXY</span></span>
 <span class="line"><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">#  变量值  http://127.0.0.1:10809</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="@source/tutorial/image/powershell-proxy.png" alt="PowerShell 命令行访问 Google" tabindex="0" loading="lazy"><figcaption>PowerShell 命令行访问 Google</figcaption></figure>
-<figure><img src="@source/tutorial/image/v2rayn.png" alt="Windows 下 v2rayN 使用截图" tabindex="0" loading="lazy"><figcaption>Windows 下 v2rayN 使用截图</figcaption></figure>
-<figure><img src="@source/tutorial/image/windows-proxy.png" alt="检查Windows 系统代理是否顺利开启" tabindex="0" loading="lazy"><figcaption>检查Windows 系统代理是否顺利开启</figcaption></figure>
-<figure><img src="@source/tutorial/image/android-v2rayn.png" alt="安卓系统使用 v2rayNG 访问 google play 和 google.com" tabindex="0" loading="lazy"><figcaption>安卓系统使用 v2rayNG 访问 google play 和 <a href="http://google.com" target="_blank" rel="noopener noreferrer">google.com</a></figcaption></figure>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="@source/Yao_Pack/tutorial/image/powershell-proxy.png" alt="PowerShell 命令行访问 Google" tabindex="0" loading="lazy"><figcaption>PowerShell 命令行访问 Google</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tutorial/image/v2rayn.png" alt="Windows 下 v2rayN 使用截图" tabindex="0" loading="lazy"><figcaption>Windows 下 v2rayN 使用截图</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tutorial/image/windows-proxy.png" alt="检查Windows 系统代理是否顺利开启" tabindex="0" loading="lazy"><figcaption>检查Windows 系统代理是否顺利开启</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tutorial/image/android-v2rayn.png" alt="安卓系统使用 v2rayNG 访问 google play 和 google.com" tabindex="0" loading="lazy"><figcaption>安卓系统使用 v2rayNG 访问 google play 和 <a href="http://google.com" target="_blank" rel="noopener noreferrer">google.com</a></figcaption></figure>
 <h2 id="v2rayu-的卸载" tabindex="-1"><a class="header-anchor" href="#v2rayu-的卸载"><span>v2rayU 的卸载</span></a></h2>
 <p>在 macOS 下，正常移入回收站是无法干净的删除 v2rayU 的，还需要使用如下命令彻底删除:</p>
 <div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre v-pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">cd</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> ~/Library/LaunchAgents/</span></span>

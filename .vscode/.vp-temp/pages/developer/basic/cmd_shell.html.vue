@@ -18,7 +18,7 @@ Windows 下默认为 <a href="https://zh.wikipedia.org/wiki/PowerShell" target="
 <p><a href="https://blog.csdn.net/WQY867047910/article/details/134788517" target="_blank" rel="noopener noreferrer">80 个常用 shell 命令及简单用法</a></p>
 </div>
 <p>命令行使用的示例：</p>
-<figure><img src="@source/developer/image/terminal.png" alt="ls、pwd、cd 命令演示" tabindex="0" loading="lazy"><figcaption>ls、pwd、cd 命令演示</figcaption></figure>
+<figure><img src="@source/Yao_Pack/developer/image/terminal.png" alt="ls、pwd、cd 命令演示" tabindex="0" loading="lazy"><figcaption>ls、pwd、cd 命令演示</figcaption></figure>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
 <p><code v-pre>PowerShell</code> 的语法和 <code v-pre>Bash shell</code> 并不相同，但是在编程领域，<code v-pre>Bash shell</code> 无疑是占据领导地位的，在很多场景下都可以开箱即用，所以十分建议专门学习一下 <code v-pre>Bash shell</code>。</p>

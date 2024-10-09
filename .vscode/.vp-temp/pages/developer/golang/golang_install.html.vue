@@ -47,7 +47,7 @@
 <div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre v-pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">arch</span></span>
 <span class="line"><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic"># 会打印显示:  arm64 或 x86_64 或其它</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div></div></div><details class="hint-container details"><summary>windows 下则是使用 sysyeminfo 命令</summary>
-<figure><img src="@source/developer/image/sysyeminfo.png" alt="sysyeminfo 命令示意图" tabindex="0" loading="lazy"><figcaption>sysyeminfo 命令示意图</figcaption></figure>
+<figure><img src="@source/Yao_Pack/developer/image/sysyeminfo.png" alt="sysyeminfo 命令示意图" tabindex="0" loading="lazy"><figcaption>sysyeminfo 命令示意图</figcaption></figure>
 </details>
 <p>第二步，下载对应的安装包</p>
 <p>官网安装包下载地址：<br>
@@ -57,7 +57,7 @@
 <blockquote>
 <p>这利推荐使用官网的下载地址，实测国内镜像存在版本落后问题。</p>
 </blockquote>
-<figure><img src="@source/developer/golang/image/download-go.png" alt="下载go安装包" tabindex="0" loading="lazy"><figcaption>下载go安装包</figcaption></figure>
+<figure><img src="@source/Yao_Pack/developer/golang/image/download-go.png" alt="下载go安装包" tabindex="0" loading="lazy"><figcaption>下载go安装包</figcaption></figure>
 <p>Windows 下载 <code v-pre>.mis</code> 文件，无脑下一步<br>
 MacOS 下载 <code v-pre>.pkg</code> 文件，无脑下一步</p>
 <h2 id="检查安装结果" tabindex="-1"><a class="header-anchor" href="#检查安装结果"><span>检查安装结果</span></a></h2>

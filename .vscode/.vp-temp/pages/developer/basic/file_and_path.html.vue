@@ -115,15 +115,15 @@ Linux 系统则是 <code v-pre>/home/mo7cc/image</code><br>
 当前用户为一般用户且用户名为 <code v-pre>mo7cc</code> 用户，则 <code v-pre>~/</code> 等价于 <code v-pre>/home/mo7cc/</code></p>
 <p>如下图，使用命令 <code v-pre>cd ~</code> 进入 <code v-pre>~</code> 目录之后，打印绝对路径结果为 <code v-pre>/root</code>,<br>
 <code v-pre>cd ~/handy-golang</code> 等价于 <code v-pre>cd /root/handy-golang</code></p>
-<figure><img src="@source/developer/front_end_web/image/linux_path_alias.png" alt="用户目录演示" tabindex="0" loading="lazy"><figcaption>用户目录演示</figcaption></figure>
+<figure><img src="@source/Yao_Pack/developer/front_end_web/image/linux_path_alias.png" alt="用户目录演示" tabindex="0" loading="lazy"><figcaption>用户目录演示</figcaption></figure>
 <h2 id="显示文件后缀名" tabindex="-1"><a class="header-anchor" href="#显示文件后缀名"><span>显示文件后缀名</span></a></h2>
 <p><strong>macOS</strong></p>
 <p><a href="https://support.apple.com/zh-cn/guide/mac-help/mchlp2304/mac" target="_blank" rel="noopener noreferrer">在 Mac 上显示或隐藏文件扩展名</a></p>
 <p><strong>Linux</strong></p>
 <div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre v-pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">ls</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -a</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p><strong>windows</strong></p>
-<figure><img src="@source/developer/image/资源管理器.png" alt="方法一：通过资源管理器设置" tabindex="0" loading="lazy"><figcaption>方法一：通过资源管理器设置</figcaption></figure>
-<figure><img src="@source/developer/image/系统设置.png" alt=" 方法二：在开发者选项中设置" tabindex="0" loading="lazy"><figcaption> 方法二：在开发者选项中设置</figcaption></figure>
+<figure><img src="@source/Yao_Pack/developer/image/资源管理器.png" alt="方法一：通过资源管理器设置" tabindex="0" loading="lazy"><figcaption>方法一：通过资源管理器设置</figcaption></figure>
+<figure><img src="@source/Yao_Pack/developer/image/系统设置.png" alt=" 方法二：在开发者选项中设置" tabindex="0" loading="lazy"><figcaption> 方法二：在开发者选项中设置</figcaption></figure>
 </div></template>
 
 

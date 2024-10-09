@@ -27,15 +27,15 @@ const back_posts = {
 export const zhSidebar = sidebar({
 
   // 关于
-  '/about/': [
-    back_posts,
-    {
-      text: '关于',
-      icon: 'info',
-      link: '/about/',
-      children: 'structure',
-    },
-  ],
+  // '/about/': [
+  //   back_posts,
+  //   {
+  //     text: '关于',
+  //     icon: 'info',
+  //     link: '/about/',
+  //     children: 'structure',
+  //   },
+  // ],
 
     // Yao测试
   '/Yao/myblog/': [
@@ -274,13 +274,13 @@ export const zhSidebar = sidebar({
     //   children: 'structure',
     // },
 
-    {
-      text: '关于',
-      icon: 'info',
-      prefix: 'about/',
-      link: '/about/',
-      children: 'structure',
-    },
+    // {
+    //   text: '关于',
+    //   icon: 'info',
+    //   prefix: 'about/',
+    //   link: '/about/',
+    //   children: 'structure',
+    // },
   //侧边栏目
     {
       text: 'Yao测试-我的博客',

@@ -17,7 +17,7 @@
 <h2 id="官方文档说明" tabindex="-1"><a class="header-anchor" href="#官方文档说明"><span>官方文档说明</span></a></h2>
 <p>打开 <a href="https://theme-hope.vuejs.press/zh/" target="_blank" rel="noopener noreferrer">vuepress-hope 官网</a></p>
 <p>它的文档结构长这样：</p>
-<figure><img src="@source/tutorial/vuepress-hope/img/vuepress-hope网站说明.png" alt="vuepress-hope 网站结构" tabindex="0" loading="lazy"><figcaption>vuepress-hope 网站结构</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tutorial/vuepress-hope/img/vuepress-hope网站说明.png" alt="vuepress-hope 网站结构" tabindex="0" loading="lazy"><figcaption>vuepress-hope 网站结构</figcaption></figure>
 <p>一般来说，按照顺序一步步走下去就可以把项目成功启动起来。</p>
 <h2 id="开始" tabindex="-1"><a class="header-anchor" href="#开始"><span>开始</span></a></h2>
 <p>如果准备工作妥当，我们这里直接开始。</p>
@@ -30,9 +30,9 @@
 <code v-pre>my-docs</code>: 这个是项目名称，你完全可以自定义这部分改成自己喜欢的名字。建议使用英文字母、下划线以及中短杠</p>
 </details>
 <p>执行完命令之后会有一些问题需要你回答一下:<br>
-<img src="@source/tutorial/vuepress-hope/img/project_init.png" alt="命令执行演示" loading="lazy"></p>
+<img src="@source/Yao_Pack/tutorial/vuepress-hope/img/project_init.png" alt="命令执行演示" loading="lazy"></p>
 <p>完成之后当前目录就会创建一个项目目录，我们用 vscode 打开这个项目：</p>
-<figure><img src="@source/tutorial/vuepress-hope/img/project目录结构.png" alt="vuepress-hope 目录结构说明" tabindex="0" loading="lazy"><figcaption>vuepress-hope 目录结构说明</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tutorial/vuepress-hope/img/project目录结构.png" alt="vuepress-hope 目录结构说明" tabindex="0" loading="lazy"><figcaption>vuepress-hope 目录结构说明</figcaption></figure>
 <p>其中 博客的程序和配置部分全部都会存放在 <code v-pre>src/.vuepress</code> 目录下。<br>
 <code v-pre>src/</code> 目录下除开 <code v-pre>.vuepress</code> 目录之外的目录和文件都会被视作文档。</p>
 <p><code v-pre>node_modules</code> 是依赖存放的目录，一般不需要去管它。</p>
@@ -64,9 +64,9 @@
 <p>我当前的博客源码已经在 <code v-pre>github</code> 中开源了，地址为<br>
 <a href="https://github.com/mo7cc/blog-source" target="_blank" rel="noopener noreferrer">https://github.com/mo7cc/blog-source</a></p>
 <p>你可以直接点击下载并解压。</p>
-<figure><img src="@source/tutorial/vuepress-hope/img/download_source_code.png" alt="直接下载源码" tabindex="0" loading="lazy"><figcaption>直接下载源码</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tutorial/vuepress-hope/img/download_source_code.png" alt="直接下载源码" tabindex="0" loading="lazy"><figcaption>直接下载源码</figcaption></figure>
 <p>项目结构说明如下:</p>
-<figure><img src="@source/tutorial/vuepress-hope/img/mo7-blog项目结构.png" alt="mo7-blog 的 项目结构" tabindex="0" loading="lazy"><figcaption>mo7-blog 的 项目结构</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tutorial/vuepress-hope/img/mo7-blog项目结构.png" alt="mo7-blog 的 项目结构" tabindex="0" loading="lazy"><figcaption>mo7-blog 的 项目结构</figcaption></figure>
 <p>也就是说，我的博客项目 命令如下:</p>
 <div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre v-pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic"># 安装依赖</span></span>
 <span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">pnpm</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> install</span></span>

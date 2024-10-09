@@ -14,13 +14,13 @@
 <p>有道词典设置快捷键，直接像截图一样去识别屏幕上的英文语句，然后直接显示翻译结果，极大地提高了我的学习和工作效率。</p>
 <p>但是！Mac 下没有这个功能。。。。</p>
 <p>Mac 下我用的是这个玩意儿</p>
-<p><img src="@source/tools/image/bob.png" alt="" class="img-center" height="320" loading="lazy"></p>
+<p><img src="@source/Yao_Pack/tools/image/bob.png" alt="" class="img-center" height="320" loading="lazy"></p>
 <p>还特么花了我 50 大洋，现在想一想，自己真是个大怨种。</p>
 <p>嗯，这货号称 Mac 下最好的截屏翻译工具，也确实好用。但是，它采用的是 Mac 系统<code v-pre>快捷指令</code>实现的截屏翻译功能。但是 Mac 的 api 是不允许代理方问的。每次使用我都得关闭代理。。天呐，烦透了，但是没办法。配置其它的访问 api 都存在一定的限制或者费用。但是将就将就又不是不行。</p>
 <p>然后前段时间 B 站发现了一个 UP 主推荐了 <code v-pre>uTolls</code>，好奇心驱使下就去下载体验了一下。</p>
-<p><img src="@source/tools/image/utools1.jpeg" alt="" class="img-center" height="320" loading="lazy"></p>
-<p><img src="@source/tools/image/utools3.png" alt="" class="img-center" height="320" loading="lazy"></p>
-<p><img src="@source/tools/image/utools4.jpg" alt="" class="img-center" height="320" loading="lazy"></p>
+<p><img src="@source/Yao_Pack/tools/image/utools1.jpeg" alt="" class="img-center" height="320" loading="lazy"></p>
+<p><img src="@source/Yao_Pack/tools/image/utools3.png" alt="" class="img-center" height="320" loading="lazy"></p>
+<p><img src="@source/Yao_Pack/tools/image/utools4.jpg" alt="" class="img-center" height="320" loading="lazy"></p>
 <blockquote>
 <p>注：Mac 和 Windows 体验完全一致</p>
 </blockquote>
@@ -47,32 +47,32 @@ uTools 的插件语言，也是 Javascript。开发一个插件快捷而迅速�
 <ol>
 <li>
 <p>搜索框<br>
-<img src="@source/tools/image/utools1.jpeg" alt="" class="img-center" loading="lazy"><br>
+<img src="@source/Yao_Pack/tools/image/utools1.jpeg" alt="" class="img-center" loading="lazy"><br>
 设置好快捷键之后，在任何地方都可以使用快捷键唤醒这个搜索框，在里面输入关键字或者词语，就可以调出对应的插件，或者搜索自己想要的东西，包括，网址，本地文件，最近使用的文件等等等.....</p>
 </li>
 <li>
 <p>【超级面板】<br>
-<img src="@source/tools/image/utools3.png" alt="" class="img-center" loading="lazy"><br>
+<img src="@source/Yao_Pack/tools/image/utools3.png" alt="" class="img-center" loading="lazy"><br>
 在 windows 下按下鼠标中键，Mac 下双指长按(右键长按，可自定义时长)，任何屏幕都可以快捷唤醒超级面板，超级面板中的元素可以任意调整位置和增删</p>
 </li>
 <li>
 <p>关键字设置<br>
-<img src="@source/tools/image/guanjianzi.png" alt="" class="img-center" loading="lazy"><br>
+<img src="@source/Yao_Pack/tools/image/guanjianzi.png" alt="" class="img-center" loading="lazy"><br>
 鼠标左键点取对应的关键字即可设置到【超级面板】中，或者禁用，以及测试运行，关键字前面带有特殊符号的。表示如果当前选中某个文件或者文字，超级面板中也可以触发唤醒选项。</p>
 </li>
 </ol>
 <p><a href="https://u.tools/docs/guide/about-uTools.html" target="_blank" rel="noopener noreferrer">更多技巧</a></p>
 <p>uTools 的一个关键字，就相当于一个小功能！</p>
 <h2 id="内存占用" tabindex="-1"><a class="header-anchor" href="#内存占用"><span>内存占用</span></a></h2>
-<p><img src="@source/tools/image/neicun.png" alt="" class="img-center" height="400" loading="lazy"></p>
+<p><img src="@source/Yao_Pack/tools/image/neicun.png" alt="" class="img-center" height="400" loading="lazy"></p>
 <p>内存占用目测是取决于当前正在运行插件。基于 node，这个内存占用算是相当优秀了，可以看得出开发团队具有相当的水准。<br>
 但是，因为 uTools ，可以把一大票工具都卸载掉，我的笔记本减负了不少。<br>
 更别提 Mac 和 Win 完全一致的体验是多么难能可贵了！</p>
 <h2 id="常用插件" tabindex="-1"><a class="header-anchor" href="#常用插件"><span>常用插件</span></a></h2>
 <p>因为其良好的代码结构设计以及背靠 Javascript，使得其插件生态非常丰富。uTools 拥有一个插件市场，可以任意组合和下载使用各类插件，不用的插件之间还可以任意搭配。<br>
 下面是我常用的一些插件：</p>
-<p><img src="@source/tools/image/chajian.jpg" alt="" width="50%" loading="lazy"><br>
-<img src="@source/tools/image/chajian2.jpg" alt="" width="50%" loading="lazy"></p>
+<p><img src="@source/Yao_Pack/tools/image/chajian.jpg" alt="" width="50%" loading="lazy"><br>
+<img src="@source/Yao_Pack/tools/image/chajian2.jpg" alt="" width="50%" loading="lazy"></p>
 <blockquote>
 <p>uTools 所有关键字的唤醒快捷键都是可以自定义的，换句话说，<strong>你可以通过插件以及快捷键组合搭配出任意的快捷功能</strong>。</p>
 </blockquote>

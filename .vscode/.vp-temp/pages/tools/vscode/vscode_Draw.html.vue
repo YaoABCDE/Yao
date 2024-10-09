@@ -22,7 +22,7 @@ VSCode 插件，<br>
 </blockquote>
 <p>上面这三个插件有一个非常牛逼的共同点，都可以直接基于 SVG 进行编辑和保存，不需要任何导出步骤。<br>
 于是可以达到如下效果:</p>
-<figure><img src="@source/tools/vscode/image/drawio.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="@source/Yao_Pack/tools/vscode/image/drawio.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <blockquote>
 <p>爽翻了有木有！ 直接补齐了 Markdown 无法画图的 唯一的短板！解决了笔记中插入图画的问题。</p>
 </blockquote>
@@ -108,9 +108,9 @@ VSCode 插件，<br>
 <p>只是共同编辑的门槛稍微会高一丢丢，非程序员可能会很难参与进来。</p>
 <p>虽然很多基于 md 的渲染器都内置了 流程图 和 思维导图的解析语法，但是学习成本依然很高，并且创作的时候非常不直观。。</p>
 <p>不过基于 VSCode 和其插件生态可以完美的解决这个问题。编写好的 Md 也可以通过 VuePress 一键部署到个人博客。并且很多步骤都可以脚本实现自动化。熟练之后，使用体验丝毫不亚于各种在线文档。</p>
-<figure><img src="@source/tools/vscode/image/drawio.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="@source/Yao_Pack/tools/vscode/image/drawio.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>最主要的是：<strong>我写的文档，它只属于我~！</strong></p>
-<figure><img src="@source/tools/vscode/image/drawio2.png" alt="alt text" tabindex="0" loading="lazy"><figcaption>alt text</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tools/vscode/image/drawio2.png" alt="alt text" tabindex="0" loading="lazy"><figcaption>alt text</figcaption></figure>
 <hr>
 <p>VSCode + Markdown 基本吊打所有的本地笔记软件。<br>
 代码级别文本查询和处理精度用来管理文本简直太 Easy 了。</p>

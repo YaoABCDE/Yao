@@ -37,9 +37,9 @@
 <span class="line"><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic"># 用 Vscode 打开</span></span>
 <span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">code</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> ./doc-otter-trade</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>然后你就获得了如下界面</p>
-<figure><img src="@source/posts/img/OtterTrade文档站项目目录结构.png" alt="OtterTrade文档站项目目录结构" tabindex="0" loading="lazy"><figcaption>OtterTrade文档站项目目录结构</figcaption></figure>
+<figure><img src="@source/Yao_Pack/posts/img/OtterTrade文档站项目目录结构.png" alt="OtterTrade文档站项目目录结构" tabindex="0" loading="lazy"><figcaption>OtterTrade文档站项目目录结构</figcaption></figure>
 <p>除此之外你可能还需要安装如下插件</p>
-<figure><img src="@source/tutorial/vuepress-hope/img/vuepress需要安装的基础插件.png" alt="提升编写体验的基础插件" tabindex="0" loading="lazy"><figcaption>提升编写体验的基础插件</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tutorial/vuepress-hope/img/vuepress需要安装的基础插件.png" alt="提升编写体验的基础插件" tabindex="0" loading="lazy"><figcaption>提升编写体验的基础插件</figcaption></figure>
 <p>然后你就可以愉快的开始编写文档了！</p>
 <h2 id="命令介绍" tabindex="-1"><a class="header-anchor" href="#命令介绍"><span>命令介绍</span></a></h2>
 <p>在项目目录的 <code v-pre>./package.json</code> 文件中我提前编写了如下指令</p>
@@ -79,8 +79,8 @@
 <p>如果你想让文档具有更多功能可以学习如下教程<br>
 <a href="https://theme-hope.vuejs.press/zh/guide/component/built-in.html" target="_blank" rel="noopener noreferrer">https://theme-hope.vuejs.press/zh/guide/component/built-in.html</a></p>
 <h2 id="另外一种更新文档的方式" tabindex="-1"><a class="header-anchor" href="#另外一种更新文档的方式"><span>另外一种更新文档的方式</span></a></h2>
-<figure><img src="@source/posts/img/直接使用github编辑1.png" alt="打开文档站，并点击 编辑此页" tabindex="0" loading="lazy"><figcaption>打开文档站，并点击 编辑此页</figcaption></figure>
-<figure><img src="@source/posts/img/直接使用github编辑2.png" alt="在github中提交改动" tabindex="0" loading="lazy"><figcaption>在github中提交改动</figcaption></figure>
+<figure><img src="@source/Yao_Pack/posts/img/直接使用github编辑1.png" alt="打开文档站，并点击 编辑此页" tabindex="0" loading="lazy"><figcaption>打开文档站，并点击 编辑此页</figcaption></figure>
+<figure><img src="@source/Yao_Pack/posts/img/直接使用github编辑2.png" alt="在github中提交改动" tabindex="0" loading="lazy"><figcaption>在github中提交改动</figcaption></figure>
 <hr>
 </div></template>
 

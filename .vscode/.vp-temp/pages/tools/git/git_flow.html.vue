@@ -5,7 +5,7 @@
 <p><a href="https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow" target="_blank" rel="noopener noreferrer">git-flow 的工作流程</a></p>
 <p><a href="https://www.ruanyifeng.com/blog/2015/12/git-workflow.html" target="_blank" rel="noopener noreferrer">Git 工作流程:阮一峰</a></p>
 <p>下面这个是我在带领 OtterTrade 团队时制定的 Git 工作流 和 git 提交规范。</p>
-<figure><img src="@source/tools/git/image/git_flow.drawio.svg" alt="OtterTrade 团队 Git 协作工作流" tabindex="0" loading="lazy"><figcaption>OtterTrade 团队 Git 协作工作流</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tools/git/image/git_flow.drawio.svg" alt="OtterTrade 团队 Git 协作工作流" tabindex="0" loading="lazy"><figcaption>OtterTrade 团队 Git 协作工作流</figcaption></figure>
 </div></template>
 
 

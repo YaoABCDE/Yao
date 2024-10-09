@@ -18,9 +18,9 @@
 <p>本站采用<br>
 <a href="https://v2.vuepress.vuejs.org" target="_blank" rel="noopener noreferrer">VuePress</a> 搭建，<br>
 基于主题 <a href="https://theme-hope.vuejs.press" target="_blank" rel="noopener noreferrer">ThemeHope</a> 由个人魔改而成。</p>
-<p>关于更多信息可阅读 <RouteLink to="/about/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99.html">关于本站</RouteLink></p>
+<p>关于更多信息可阅读 <RouteLink to="/Yao_Pack/about/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99.html">关于本站</RouteLink></p>
 <p>在日常的工作和学习当中我积累了大量的经验、知识和技巧，他们被我用 md 记录了下来存储在 Github 的私人仓库之上。</p>
-<figure><img src="@source/about/image/intro.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="@source/Yao_Pack/about/image/intro.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 <p>并且还有一些想法，想要表达的思想和观点等。我不太愿意将这些东西公布在各种公众平台之上，因为当我的知识变成了数据，那么这些数据的安全和版权应当由我自己负责，</p>
 <p>写博客，并不仅仅只是为了表达，更是一种<code v-pre>记忆</code>和<code v-pre>修身养性</code>的方式，让自己浮躁的生活跟心情沉淀下来的一种手段。我希望过个七年八年的，再回首打开这个站点的时候，它能变成一种财富和寄托。</p>
 <hr>

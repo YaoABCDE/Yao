@@ -25,9 +25,9 @@
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">  }</span></span>
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">&#x3C;/</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">script</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">></span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>保存后 浏览器打开会显示以下内容：</p>
-<figure><img src="@source/developer/front_end_web/image/html-demo.png" alt="demo.html 内容" tabindex="0" loading="lazy"><figcaption>demo.html 内容</figcaption></figure>
+<figure><img src="@source/Yao_Pack/developer/front_end_web/image/html-demo.png" alt="demo.html 内容" tabindex="0" loading="lazy"><figcaption>demo.html 内容</figcaption></figure>
 <h2 id="html-结构说明" tabindex="-1"><a class="header-anchor" href="#html-结构说明"><span>html 结构说明</span></a></h2>
-<figure><img src="@source/developer/front_end_web/image/html-demo-code.png" alt="demo.html 结构说明" tabindex="0" loading="lazy"><figcaption>demo.html 结构说明</figcaption></figure>
+<figure><img src="@source/Yao_Pack/developer/front_end_web/image/html-demo-code.png" alt="demo.html 结构说明" tabindex="0" loading="lazy"><figcaption>demo.html 结构说明</figcaption></figure>
 <p>一般来说，一个 html 文件的基本结构如下：</p>
 <ol>
 <li>一个基本的文档类型声明</li>

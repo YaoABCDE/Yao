@@ -14,7 +14,7 @@
 <p class="hint-container-title">注意</p>
 <p>本地代理客户端必须要勾选 <code v-pre>允许来自局域网的连接</code>，也就是说，如果关闭代理客户端，<code v-pre>WSL2</code> 就等于处在断网状态。</p>
 </div>
-<figure><img src="@source/tutorial/image/wsl_proxy.png" alt="WSL代理设置" tabindex="0" loading="lazy"><figcaption>WSL代理设置</figcaption></figure>
+<figure><img src="@source/Yao_Pack/tutorial/image/wsl_proxy.png" alt="WSL代理设置" tabindex="0" loading="lazy"><figcaption>WSL代理设置</figcaption></figure>
 <p>简单来说是以下几步</p>
 <ol>
 <li>打开本地的代理工具，设置好 windows 端口如 10809</li>

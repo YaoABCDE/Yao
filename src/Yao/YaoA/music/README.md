@@ -4,7 +4,7 @@ icon: music
 pageInfo: ['Author', 'PageView']
 date: 1993-02-13
 index: false
-permalink: /Yao/Yaoa_zyk/music/
+permalink: /Yao/YaoA/music/
 ---
 
 # 音乐
@@ -15,6 +15,6 @@ permalink: /Yao/Yaoa_zyk/music/
 
 ---
 
-<Catalog base='/Yao/Yaoa_zyk/music/' />
+<Catalog base='/Yao/YaoA/music/' />
 
 ---

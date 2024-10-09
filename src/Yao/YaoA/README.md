@@ -4,7 +4,7 @@ icon: favoritea
 pageInfo: ['Author', 'PageView']
 date: 1993-02-13
 index: false
-permalink: /Yao/Yaoa_zyk/
+permalink: /Yao/YaoA/
 ---
 
 # 收藏
@@ -15,6 +15,6 @@ permalink: /Yao/Yaoa_zyk/
 
 ---
 
-<Catalog base='/Yao/Yaoa_zyk' />
+<Catalog base='/Yao/YaoA' />
 
 ---

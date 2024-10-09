@@ -293,8 +293,8 @@ export const zhSidebar = sidebar({
     {
       text: 'Yao测试—资源库',
       icon: 'info',
-      prefix: 'Yao/Yaoa_zyk/',
-      link: '/Yao/Yaoa_zyk/',
+      prefix: 'Yao/YaoA/',
+      link: '/Yao/YaoA/',
       children: 'structure',
     },
 

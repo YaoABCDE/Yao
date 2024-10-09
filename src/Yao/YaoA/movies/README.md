@@ -4,7 +4,7 @@ icon: movie
 pageInfo: ['Author', 'PageView']
 date: 1993-02-13
 index: false
-permalink: /Yao/Yaoa_zyk/movies/
+permalink: /Yao/YaoA/movies/
 ---
 
 # 影视
@@ -15,6 +15,6 @@ permalink: /Yao/Yaoa_zyk/movies/
 
 ---
 
-<Catalog base='/Yao/Yaoa_zyk/movies/' />
+<Catalog base='/Yao/YaoA/movies/' />
 
 ---

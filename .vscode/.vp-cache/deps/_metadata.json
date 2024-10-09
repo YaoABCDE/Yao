@@ -1,61 +1,61 @@
 {
-  "hash": "1a682e9e",
-  "configHash": "303463ca",
+  "hash": "1d393b81",
+  "configHash": "b39e6976",
   "lockfileHash": "b8e99410",
-  "browserHash": "ca4c645e",
+  "browserHash": "2a11e641",
   "optimized": {
     "@waline/client > autosize": {
       "src": "../../../node_modules/.pnpm/autosize@6.0.1/node_modules/autosize/dist/autosize.esm.js",
       "file": "@waline_client___autosize.js",
-      "fileHash": "6e577102",
+      "fileHash": "de0ef36b",
       "needsInterop": false
     },
     "@waline/client > recaptcha-v3": {
       "src": "../../../node_modules/.pnpm/recaptcha-v3@1.11.3/node_modules/recaptcha-v3/dist/ReCaptcha.js",
       "file": "@waline_client___recaptcha-v3.js",
-      "fileHash": "db6b552b",
+      "fileHash": "4779c093",
       "needsInterop": true
     },
     "@vue/devtools-api": {
       "src": "../../../node_modules/.pnpm/@vue+devtools-api@7.4.6/node_modules/@vue/devtools-api/dist/index.js",
       "file": "@vue_devtools-api.js",
-      "fileHash": "0c9fe1fb",
+      "fileHash": "f539efcf",
       "needsInterop": false
     },
     "@vuepress/shared": {
       "src": "../../../node_modules/.pnpm/@vuepress+shared@2.0.0-rc.17/node_modules/@vuepress/shared/dist/index.js",
       "file": "@vuepress_shared.js",
-      "fileHash": "8718f26f",
+      "fileHash": "e5d6e65c",
       "needsInterop": false
     },
     "vue": {
       "src": "../../../node_modules/.pnpm/vue@3.5.11/node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "1470c679",
+      "fileHash": "ecb326af",
       "needsInterop": false
     },
     "vue-router": {
       "src": "../../../node_modules/.pnpm/vue-router@4.4.5_vue@3.5.11/node_modules/vue-router/dist/vue-router.esm-bundler.js",
       "file": "vue-router.js",
-      "fileHash": "0e9f2a97",
+      "fileHash": "eee70ade",
       "needsInterop": false
     },
     "axios": {
       "src": "../../../node_modules/.pnpm/axios@1.7.7/node_modules/axios/index.js",
       "file": "axios.js",
-      "fileHash": "ee146e1f",
+      "fileHash": "86fcd444",
       "needsInterop": false
     },
     "aplayer": {
       "src": "../../../node_modules/.pnpm/aplayer@1.10.1/node_modules/aplayer/dist/APlayer.min.js",
       "file": "aplayer.js",
-      "fileHash": "6d060974",
+      "fileHash": "1eaa76bc",
       "needsInterop": true
     },
     "store": {
       "src": "../../../node_modules/.pnpm/store@2.0.12/node_modules/store/dist/store.legacy.js",
       "file": "store.js",
-      "fileHash": "afd0df8e",
+      "fileHash": "d25f2957",
       "needsInterop": true
     }
   },

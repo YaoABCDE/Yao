@@ -37,24 +37,24 @@ export const zhSidebar = sidebar({
   //   },
   // ],
 
-    // Yao测试
+  // 侧边栏1
   '/Yao/myblog/': [
       back_posts,
       {
-        text: 'Yao测试2-我的博客',
+        text: '我的博客',
         icon: 'info',
         link: '/Yao/myblog/',
         children: 'structure',
       },
     ],
 
-        // Yao测试
-  '/Yao/Yaoa_Zyk/': [
+   // 侧边栏2
+  '/Yao/YaoA/': [
     back_posts,
     {
-      text: 'Yao测试3-资源库',
+      text: '资源库',
       icon: 'info',
-      link: '/Yao/Yaoa_Zyk/',
+      link: '/Yao/YaoA/',
       children: 'structure',
     },
   ],
@@ -283,7 +283,7 @@ export const zhSidebar = sidebar({
     // },
   //侧边栏目
     {
-      text: 'Yao测试-我的博客',
+      text: '我的博客',
       icon: 'info',
       prefix: 'Yao/myblog/',
       link: '/Yao/myblog/',
@@ -291,7 +291,7 @@ export const zhSidebar = sidebar({
     },
     //侧边栏目
     {
-      text: 'Yao测试—资源库',
+      text: '资源库',
       icon: 'info',
       prefix: 'Yao/YaoA/',
       link: '/Yao/YaoA/',

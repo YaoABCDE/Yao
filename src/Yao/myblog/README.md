@@ -7,11 +7,7 @@ index: false
 permalink: /Yao/myblog/
 ---
 
-# 收藏
-
-::: info 有些记忆，弥足珍贵
-
-:::
+# 关于
 
 ---
 

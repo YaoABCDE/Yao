@@ -105,8 +105,9 @@ onMounted(() => {
 }
 
 @mixin bgStyle_light {
-  // background-color: rgba(255, 255, 255, 1); // 原色
-  background-image: linear-gradient(50deg, #fbc2eb 70%, #a6c1ee 30%);
+    background-color: rgba(255, 255, 255, 1); // 原色
+  //background-image: linear-gradient(50deg, #fbc2eb 70%, #a6c1ee 30%);//70粉色30蓝色
+  //background-image: "/YaoPhoto/jpg/tp1.jpg"; //设置背景图片
 }
 
 @mixin bgStyle_dark {

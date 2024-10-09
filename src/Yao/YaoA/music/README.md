@@ -9,12 +9,6 @@ permalink: /Yao/YaoA/music/
 
 # 音乐
 
-::: info 单曲循环一整天
-
-:::
-
----
-
 <Catalog base='/Yao/YaoA/music/' />
 
 ---

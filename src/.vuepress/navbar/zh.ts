@@ -60,33 +60,43 @@ export const zhNavbar = navbar([
     text: '收藏',//标题
     icon: 'start',//图标
     link: '/Yao', //w位置
-    children: ['/Yao/YaoA/music/','/Yao/YaoA/movies/','/Yao/YaoA/photos/','/Yao/YaoA/links/'],
+    children: ['/Yao/YaoA/music/','/Yao/YaoA/movies/','/Yao/YaoA/photos/','/Yao/YaoA/links/','/Yao/YaoA/word/'],
   },
 
   //标题
   {
     text: "网站",
-    icon: "pen-to-square",
+    icon: "start",
     prefix: "/Yao",
     children: [
       {
-        text: "官网",icon: "pen-to-square",//prefix: "apple/",
+        text: "基本网站",icon: "pen-to-square",//prefix: "apple/",
         children: [
-          { text: "百度", icon: "pen-to-square", link: "https://baidu.com" },
-          { text: "小米", icon: "pen-to-square", link: "https://mi.com" },
-          { text: "百度", icon: "pen-to-square", link: "https://baidu.com" },
-          { text: "小米", icon: "pen-to-square", link: "https://mi.com" },
-          { text: "百度", icon: "pen-to-square", link: "https://baidu.com" },
+          { text: "爱听音乐", icon: "jiansuo", link: "http://www.2t58.com/" },
+          { text: "立创开源", icon: "jiansuo", link: "https://oshwhub.com/" },
+          { text: "堆糖头像", icon: "jiansuo", link: "https://www.duitang.com/" },
+          { text: "票房数据", icon: "jiansuo", link: "https://ys.endata.cn/DataMarket/Index" },
+          { text: "TIOBE编程", icon: "jiansuo", link: "https://www.tiobe.com/tiobe-index/" },
         ],
       },
       {
-        text: "网页",icon: "pen-to-square",//prefix: "apple/",
+        text: "在线工具",icon: "pen-to-square",//prefix: "apple/",
         children: [
-          { text: "百度", icon: "pen-to-square", link: "https://baidu.com" },
-          { text: "小米", icon: "pen-to-square", link: "https://mi.com" },
-          { text: "百度", icon: "pen-to-square", link: "https://baidu.com" },
-          { text: "小米", icon: "pen-to-square", link: "https://mi.com" },
-          { text: "百度", icon: "pen-to-square", link: "https://baidu.com" },
+          { text: "琴艺谱", icon: "jiansuo", link: "https://www.qinyipu.com/" },
+          { text: "大白菜装机", icon: "jiansuo", link: "https://www.dabaicai.com/" },
+          { text: "文件转换", icon: "jiansuo", link: "https://onlineconvertfree.com/zh/" },
+          { text: "草料二维码", icon: "jiansuo", link: "https://cli.im/" },
+          { text: "wallspic壁纸", icon: "jiansuo", link: "https://wallspic.com/cn" },
+        ],
+      },
+      {
+        text: "官方网站",icon: "pen-to-square",//prefix: "apple/",
+        children: [
+          { text: "Yandex", icon: "jiansuo", link: "https://yandex.com" },
+          { text: "胡润百富", icon: "jiansuo", link: "https://hurun.net/" },
+          { text: "中国招标", icon: "jiansuo", link: "http://cebpubservice.cn/" },
+          { text: "中国统计局", icon: "jiansuo", link: "https://data.stats.gov.cn/" },
+          { text: "领导留言板", icon: "jiansuo", link: "https://liuyan.people.com.cn/home/" },
         ],
       },
     ]
@@ -97,7 +107,7 @@ export const zhNavbar = navbar([
     text: '关于',//标题
     icon: 'start',//图标
     link: '/Yao', //w位置
-    children: ['/Yao/myblog/me.html','/Yao/myblog/me.html','/Yao/myblog/me.html'],
+    children: ['/Yao/myblog/me.html','/Yao/myblog/web.html','/Yao/myblog/SHL.html'],
   },
 
 ]);

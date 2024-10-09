@@ -9,10 +9,6 @@ permalink: /Yao/YaoA/movies/
 
 # 影视
 
-::: info 『 生活就像一盒巧克力 』
-
-:::
-
 ---
 
 <Catalog base='/Yao/YaoA/movies/' />

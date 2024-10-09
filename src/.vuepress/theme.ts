@@ -10,7 +10,7 @@ const footerICP_HTML = `
 <a class="footer-icp" href="https://beian.miit.gov.cn" target="_blank">
   <img src="//file.mo7.cc/static/img/beian.png">
   滇ICP备20200520号
-</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer-about" href="/about/website.html">关于本站</a>
+</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer-about" href="/Yao/myblog/web.html">关于本站</a>
 `;
 
 export default hopeTheme({

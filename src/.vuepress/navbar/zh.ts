@@ -33,7 +33,7 @@ export const zhNavbar = navbar([
     text: 'Yao测试一',//标题
     icon: 'start',//图标
     link: '/Yao', //w位置
-    children: ['/Yao/favorite/music/'],
+    children: ['/Yao/Yaoa_zyk/music/'],
   },
 
 ]);

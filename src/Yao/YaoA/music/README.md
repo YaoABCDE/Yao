@@ -1,6 +1,5 @@
 ---
 icon: music
-
 pageInfo: ['Author', 'PageView']
 date: 1993-02-13
 index: false

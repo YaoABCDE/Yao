@@ -35,15 +35,18 @@ export default hopeTheme({
     'PageView',
     //..
   ],
+  //导航栏图标
   navbarLayout: {
     start: ['Brand'],
     center: [],
-    end: ['Search', 'Links', 'Language', 'Outlook'],
+    end: ['Search', 'Links', 'Language', 'Outlook'], //右上角搜索框、导航栏链接、语言切换、外观弹窗、Repo项目仓库
   },
 
   iconAssets: '//at.alicdn.com/t/c/font_3855310_3p4qtirn5xz.css',
   logo: '/YaoPhoto/png/logo3.png',//左上角图标
-  docsDir: 'src',
+  docsDir: 'src', // 文档存放路径
+
+  //博客相关
   blog: {
     name: 'Mr.Yao',
     //avatar: '//file.mo7.cc/static/lxh_gif/lxh_71.gif',
@@ -61,6 +64,7 @@ export default hopeTheme({
       // Zhihu: 'https://www.zhihu.com/people/meichangliang',
       // BiliBili: 'https://space.bilibili.com/24452567',
       // Rss: 'https://blog.mo7.cc/atom.xml',
+      //少数派: { icon: "https://newzone.top/icons/sspai.svg", link: "https://sspai.com/u/zqj05i4v/posts" },
     },
   },
 
@@ -72,10 +76,10 @@ export default hopeTheme({
       sidebar: zhSidebar,
       blog: {
         name: 'Yao',//博客名称
-        description: '称霸世界', //博客介绍
+        description: 'C/C++，MFC/QT，Matlab，SQL，Web，小程序，嵌入式开发，硬件开发，3D设计', //博客介绍
         intro: '/Yao/myblog/me.html',//点击主页跳到自我介绍
         //intro: '/about/me.html',//点击主页跳到自我介绍
-        timeline: '颠倒黑白，明辨是非。',
+        timeline: '宇宙之浩渺，时空之无限',//时间轴介绍
       },
     },
 
@@ -106,14 +110,15 @@ export default hopeTheme({
     blog: true,
     photoSwipe: false, // 这个插件难用的 一 B
 
-    //留言板
-    comment: {
-      provider: 'Waline',
-      serverURL: 'https://talk.mo7.cc',
-      copyright: false,
-      reaction: true,
-    },
+    //留言评论板
+    // comment: {
+    //   provider: 'Waline',
+    //   serverURL: 'https://talk.mo7.cc',
+    //   copyright: false,
+    //   reaction: true,
+    // },
 
+// 组件库
     components: {
       components: ['Badge', 'VPCard', 'BiliBili', 'PDF'],
     },
@@ -200,11 +205,11 @@ export default hopeTheme({
       cacheImage: true,
       appendBase: true,
       apple: {
-        icon: '/YaoPhoto/logopng/144.png',
+        icon: '/YaoPhoto/logopng/64.png',
         statusBarColor: 'black',
       },
       msTile: {
-        image: '/YaoPhoto/logopng/144.png',
+        image: '/YaoPhoto/logopng/64.png',
         color: '#000',
       },
       manifest: {

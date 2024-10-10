@@ -45,12 +45,12 @@ export const zhNavbar = navbar([
     link: '/Yao', //w位置
     children: [
       {
-        text: "[01]彩虹尺子",icon: "pen-to-square",
-        link: "https://www.yuque.com/larryleung/qvs3g3?# 《森海鹿(Sovereign Hart)工作室》", //语雀
+        text: "一、茉莉园艺",icon: "pen-to-square",
+        link: "https://www.yuque.com/yaox/mlyy?# 《005-茉莉园艺》", //语雀
       },
       {
-        text: "[02]五件套尺子",icon: "pen-to-square",
-        link: "https://www.yuque.com/yaos/cyuah8/gbcsz0qlpbzl5kp3?singleDoc# 《网站基本》", //语雀
+        text: "二、森海鹿电子",icon: "pen-to-square",
+        link: "https://www.yuque.com/yaox/shl?# 《003-森海鹿电子》", //语雀
       },
     ]
   },
@@ -107,7 +107,7 @@ export const zhNavbar = navbar([
     text: '关于',//标题
     icon: 'start',//图标
     link: '/Yao', //w位置
-    children: ['/Yao/myblog/me.html','/Yao/myblog/web.html','/Yao/myblog/SHL.html'],
+    children: ['/Yao/myblog/web.html','/Yao/myblog/me.html','/Yao/myblog/SHL.html'],
   },
 
 ]);

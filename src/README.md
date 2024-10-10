@@ -4,7 +4,8 @@ layout: BlogHome
 icon: home
 title: 首页
 heroImage: /YaoPhoto/png/logo3.png  #首页图标
-bgImage: /YaoPhoto/jpg/11.jpg  #首页图片
+bgImage: /YaoPhoto/jpg/12.jpg  #白天-首页图片
+bgImageDark: /YaoPhoto/jpg/11.jpg  #黑夜首页图片
 #bgImage: //file.mo7.cc/api/public/bz?idx=1 #首页图片
 heroText: YAO  #首页名称
 heroFullScreen: true
@@ -12,7 +13,7 @@ tagline: 该想的是如何做  #首页格言
 description: Yao,博客,记录,分享
 article: false
 index: false
-containerClass: mo7-blog-home
+#containerClass: mo7-blog-home
 projects:
   - icon: tips
     name: 淘宝店铺

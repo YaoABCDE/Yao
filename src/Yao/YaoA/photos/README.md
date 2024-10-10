@@ -2,14 +2,14 @@
 icon: bing
 
 pageInfo: ['Author', 'PageView']
-date: 1993-02-13
+date: 2024-10-10
 index: false
 permalink: /Yao/YaoA/photos/
 ---
 
 # 相册
 
-::: info 唯愿此景与汝共
+::: info 照片让一瞬间变得永恒！
 
 :::
 

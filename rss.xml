@@ -6,8 +6,8 @@
     <link>https://yaoabcde.github.io/Yao/Yao/</link>
     <description>我欲修仙，快乐齐天</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 09 Oct 2024 15:38:29 GMT</pubDate>
-    <lastBuildDate>Wed, 09 Oct 2024 15:38:29 GMT</lastBuildDate>
+    <pubDate>Thu, 10 Oct 2024 15:05:29 GMT</pubDate>
+    <lastBuildDate>Thu, 10 Oct 2024 15:05:29 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -16,13 +16,31 @@
       <link>https://yaoabcde.github.io/Yao/Yao/</link>
     </image>
     <item>
+      <title>电影网站</title>
+      <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/movies/movies_weblist.html</link>
+      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/movies/movies_weblist.html</guid>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">电影网站</source>
+      <description>电影网站</description>
+      <pubDate>Thu, 10 Oct 2024 14:59:09 GMT</pubDate>
+      <content:encoded><![CDATA[
+]]></content:encoded>
+    </item>
+    <item>
       <title>森海鹿工作室</title>
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/SHL.html</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/SHL.html</guid>
       <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">森海鹿工作室</source>
-      <description>森海鹿工作室</description>
+      <description>森海鹿工作室 一、工作室基本 英文名：Senhai Deer 成立时间：2023-08-08 理念：就做不一样 二、做什么 软件开发、电路设计、3D设计等 三、定制内容 您能看到的任何东西我们都支持定制</description>
       <pubDate>Wed, 09 Oct 2024 15:37:17 GMT</pubDate>
       <content:encoded><![CDATA[
+<h2>一、工作室基本</h2>
+<p>英文名：Senhai Deer<br>
+成立时间：2023-08-08<br>
+理念：就做不一样</p>
+<h2>二、做什么</h2>
+<p>软件开发、电路设计、3D设计等</p>
+<h2>三、定制内容</h2>
+<p>您能看到的任何东西我们都支持定制</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -46,11 +64,11 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>编程网站</title>
+      <title>编程工具</title>
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/web_BC.html</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/web_BC.html</guid>
-      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">编程网站</source>
-      <description>编程网站</description>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">编程工具</source>
+      <description>编程工具</description>
       <pubDate>Wed, 09 Oct 2024 15:37:17 GMT</pubDate>
       <content:encoded><![CDATA[
 ]]></content:encoded>
@@ -66,11 +84,11 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>小说</title>
+      <title>诗词小说</title>
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/word/word_XS.html</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/word/word_XS.html</guid>
-      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">小说</source>
-      <description>小说</description>
+      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">诗词小说</source>
+      <description>诗词小说</description>
       <pubDate>Wed, 09 Oct 2024 15:37:17 GMT</pubDate>
       <content:encoded><![CDATA[
 ]]></content:encoded>
@@ -80,10 +98,73 @@
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/web.html</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/web.html</guid>
       <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">关于本站</source>
-      <description>关于本站 前言</description>
+      <description>关于本站 1、项目基本 使用框架：VuePress2.0.0 R17 开发软件：Vs Code 1.94.1 指令版本：npm 10.8.2、pnpm 9.11.0 2、指令相关 2.1-创建VuePress命令： 2.2-更改目录：Github/deploy_docs.yml 2.3-更改目录：Src/config.ts 2.4-git上传命令： 2...</description>
       <pubDate>Wed, 09 Oct 2024 08:30:13 GMT</pubDate>
       <content:encoded><![CDATA[
-<h2>前言</h2>
+<h2>1、项目基本</h2>
+<p>使用框架：VuePress2.0.0 R17<br>
+开发软件：Vs Code 1.94.1<br>
+指令版本：npm 10.8.2、pnpm 9.11.0</p>
+<h2>2、指令相关</h2>
+<h3>2.1-创建VuePress命令：</h3>
+<div class="language-markdown line-numbers-mode" data-highlighter="shiki" data-ext="markdown" data-title="markdown" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]npm init vuepress-theme-hope@latest Yaomi //创建项目Yaomi</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]npm run build //构建项目</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]npm run docs:clean-dev //清除缓存运行</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]npm init //项目初始化</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]npm install //安装依赖</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]code . //通过VS code 打开该项目</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3>2.2-更改目录：Github/deploy_docs.yml</h3>
+<div class="language-markdown line-numbers-mode" data-highlighter="shiki" data-ext="markdown" data-title="markdown" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]      - name: 构建文档</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]        env:</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]         NODE_OPTIONS: --max_old_space_size=8192</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]        run: |-</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]          pnpm run docs:build</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]         &gt; src/.vuepress/dist/.nojekyll</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]      - name: 部署文档</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]       uses: JamesIves/github-pages-deploy-action@v4</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]        env:</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]          GITHUB_TOKEN: ${{secrets.ACCESS_TOKEN}} #Yao：项目密钥</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]       with:</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]         # 部署文档</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]          branch: Yao_pages #Yao：开源项目分支名 注意大小写</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]          folder: src/.vuepress/dist</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3>2.3-更改目录：Src/config.ts</h3>
+<div class="language-markdown line-numbers-mode" data-highlighter="shiki" data-ext="markdown" data-title="markdown" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]import { defineUserConfig } from "vuepress";</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]import theme from "./theme.js";</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]export default defineUserConfig({</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]  base: "/Yaoweb/", //Yao：开源项目名 注意大小写</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]  lang: "zh-CN",</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]  title: "博客演示",</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![] description: "vuepress-theme-hope 的博客演示",</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![] theme,</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]});</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3>2.4-git上传命令：</h3>
+<div class="language-markdown line-numbers-mode" data-highlighter="shiki" data-ext="markdown" data-title="markdown" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]git config user.name Yaoabcde //绑定GitHub用户名</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]git config user.email 1964877312@qq.com //绑定GitHub账号</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]cd Yaomi  										#进入项目目录</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]git init       								#初始化 Git 仓库（如果还没有）</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]#git remote add origin https://github.com/your-username/Yaomi.git  	#添加远程仓库</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]git remote add origin https://github.com/YaoABCDE/Yaoweb.git 				#个人远程仓库</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]git add .      								#添加所有文件到暂存区</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]git commit -m "first demo"  	#提交文件</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]git branch -M main  					#将当前分支重命名为 main（如果还没有命名为 main）</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]git push -u origin main  			#推送到远程仓库的 main 分支</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3>2.5-官网源：</h3>
+<div class="language-markdown line-numbers-mode" data-highlighter="shiki" data-ext="markdown" data-title="markdown" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]常见依赖：npm、cnpm、yarn、pnpm</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]淘宝源：npm config set registry https://registry.npmmirror.com/</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]腾讯源： https://mirrors.cloud.tencent.com/npm</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]yarn源： https://registry.yarnpkg.com/</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]cnpm源： https://r.cnpmjs.org/</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]npmMirror： https://registry.npmmirror.com/</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]npm官方源：https://registry.npmjs.org/</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2>3、时间流程</h2>
+<p>2024-10-10：发布V1.0.0，网站基本雏形</p>
+<div class="hint-container info">
+<p class="hint-container-title">相关信息</p>
+<pre><code>            ————《森海鹿电子》
+</code></pre>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -91,9 +172,10 @@
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/me.html</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/me.html</guid>
       <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">自我介绍</source>
-      <description>自我介绍</description>
+      <description>自我介绍 没什么可讲的，一个即将秃头的程序员，梦想是带领我的人民过上好日子！</description>
       <pubDate>Tue, 08 Oct 2024 17:24:05 GMT</pubDate>
       <content:encoded><![CDATA[
+<p>没什么可讲的，一个即将秃头的程序员，梦想是带领我的人民过上好日子！</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -124,12 +206,9 @@
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/links/</guid>
       <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">链接</source>
-      <description>链接 好的东西应该共享</description>
-      <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
+      <description>链接</description>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
-<div class="hint-container info">
-<p class="hint-container-title">好的东西应该共享</p>
-</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -138,17 +217,7 @@
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/movies/</guid>
       <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">影视</source>
       <description>影视</description>
-      <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[
-]]></content:encoded>
-    </item>
-    <item>
-      <title>电影网站</title>
-      <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/movies/movies_weblist.html</link>
-      <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/movies/movies_weblist.html</guid>
-      <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">电影网站</source>
-      <description>电影网站</description>
-      <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 ]]></content:encoded>
     </item>
@@ -157,12 +226,13 @@
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/qq_music.html</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/qq_music.html</guid>
       <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">QQ音乐歌单</source>
-      <description>QQ音乐歌单</description>
+      <description>QQ音乐歌单 我喜欢 我收藏</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
-<!--<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=550 src="//music.163.com/outchain/player?type=0&id=8056247134&auto=0&height=430"></iframe>
--->
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="//music.163.com/outchain/player?type=0&amp;id=639419756&amp;auto=0&amp;height=430"></iframe>
+<h2>我喜欢</h2>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="https://m.kugou.com/songlist/gcid_3z6t6yn5z12z054/?src_cid=3z6t6yn5z12z054&amp;uid=358949085&amp;chl=message&amp;iszlist=1"></iframe>
+<h2>我收藏</h2>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="//m.kugou.com/songlist/gcid_3z6t6yn5z12z054/?src_cid=3z6t6yn5z12z054&amp;auto=0&amp;height=430"></iframe>
 ]]></content:encoded>
     </item>
     <item>
@@ -180,12 +250,13 @@
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/wyy_music.html</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/wyy_music.html</guid>
       <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">网易云歌单</source>
-      <description>网易云歌单</description>
+      <description>网易云歌单 我喜欢 我收藏</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
-<!--<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=550 src="//music.163.com/outchain/player?type=0&id=8056247134&auto=0&height=430"></iframe>
--->
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="//music.163.com/outchain/player?type=0&amp;id=639419756&amp;auto=0&amp;height=430"></iframe>
+<h2>我喜欢</h2>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" src="//music.163.com/outchain/player?type=0&amp;id=639419756&amp;auto=0&amp;height=430"></iframe>
+<h2>我收藏</h2>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="500" src="//music.163.com/outchain/player?type=0&amp;id=6781242751&amp;auto=0&amp;height=430"></iframe>
 ]]></content:encoded>
     </item>
     <item>
@@ -193,12 +264,14 @@
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/kugou_music.html</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/music/kugou_music.html</guid>
       <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">酷狗歌单</source>
-      <description>酷狗歌单</description>
+      <description>酷狗歌单 我喜欢 我收藏 https://m.kugou.com/songlist/gcid_3z6t6yn5z3z084/?src_cid=3z6t6yn5z3z084&amp;uid=358949085&amp;chl=message&amp;cover=http://imge.kugou.com/stdmusic/20220811/2022081119420534140...</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
-<!--<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=550 src="//music.163.com/outchain/player?type=0&id=8056247134&auto=0&height=430"></iframe>
--->
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="//music.163.com/outchain/player?type=0&amp;id=639419756&amp;auto=0&amp;height=430"></iframe>
+<h2>我喜欢</h2>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="https://m.kugou.com/songlist/gcid_3z6t6yn5z3z084/?src_cid=3z6t6yn5z3z084&amp;uid=358949085&amp;chl=message&amp;cover=http://imge.kugou.com/stdmusic/20220811/20220811194205341403.jpg&amp;iszlist=1"></iframe>
+<h2>我收藏</h2>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="550" src="//m.kugou.com/songlist/gcid_3z6t6yn5z3z084/?src_cid=3z6t6yn5z3z084&amp;auto=0&amp;height=430"></iframe>
+<p><a href="https://m.kugou.com/songlist/gcid_3z6t6yn5z3z084/?src_cid=3z6t6yn5z3z084&amp;uid=358949085&amp;chl=message&amp;cover=http://imge.kugou.com/stdmusic/20220811/20220811194205341403.jpg&amp;iszlist=1" target="_blank" rel="noopener noreferrer">https://m.kugou.com/songlist/gcid_3z6t6yn5z3z084/?src_cid=3z6t6yn5z3z084&amp;uid=358949085&amp;chl=message&amp;cover=http://imge.kugou.com/stdmusic/20220811/20220811194205341403.jpg&amp;iszlist=1</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -206,11 +279,11 @@
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/photos/</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/photos/</guid>
       <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">相册</source>
-      <description>相册 唯愿此景与汝共</description>
-      <pubDate>Sat, 13 Feb 1993 00:00:00 GMT</pubDate>
+      <description>相册 照片让一瞬间变得永恒！</description>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[
 <div class="hint-container info">
-<p class="hint-container-title">唯愿此景与汝共</p>
+<p class="hint-container-title">照片让一瞬间变得永恒！</p>
 </div>
 ]]></content:encoded>
     </item>
@@ -219,39 +292,12 @@
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/photos/bing_img_api.html</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/YaoA/photos/bing_img_api.html</guid>
       <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">必应每日壁纸 api</source>
-      <description>必应每日壁纸 api 采用 golang 编写，每日定时爬取 https://cn.bing.com 当日的 7 张壁纸，并将链接固定下来进行 302 重定向。 idx 参数分别对应 当日壁纸数组 的序号，idx=1 时则返回当天壁纸。 支持 http 以及 https 。 HTML 和 Markdown 使用 当 idx 参数小于 1 时，则会随机返...</description>
+      <description>必应每日壁纸 api</description>
       <pubDate>Mon, 07 Oct 2024 14:29:24 GMT</pubDate>
       <content:encoded><![CDATA[
-<p>采用 golang 编写，每日定时爬取 <a href="https://cn.bing.com" target="_blank" rel="noopener noreferrer">https://cn.bing.com</a> 当日的 7 张壁纸，并将链接固定下来进行 302 重定向。 idx 参数分别对应 当日壁纸数组 的序号，<code>idx=1</code> 时则返回当天壁纸。</p>
-<p>支持 <code>http</code> 以及 <code>https</code> 。</p>
-<h2>HTML 和 Markdown 使用</h2>
-<div class="language-html line-numbers-mode" data-highlighter="shiki" data-ext="html" data-title="html" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">img</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> src</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">=</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"//file.mo7.cc/api/public/bz"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> /&gt;</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">&lt;</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">img</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> src</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">=</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"//file.mo7.cc/api/public/bz?idx=3"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> /&gt;</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="language-markdown line-numbers-mode" data-highlighter="shiki" data-ext="markdown" data-title="markdown" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]</span><span style="--shiki-light:#A626A4;--shiki-dark:#E06C75">(</span><span style="--shiki-light:#A626A4;--shiki-light-text-decoration:inherit;--shiki-dark:#C678DD;--shiki-dark-text-decoration:underline">//file.mo7.cc/api/public/bz?idx=1</span><span style="--shiki-light:#A626A4;--shiki-dark:#E06C75">)</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]</span><span style="--shiki-light:#A626A4;--shiki-dark:#E06C75">(</span><span style="--shiki-light:#A626A4;--shiki-light-text-decoration:inherit;--shiki-dark:#C678DD;--shiki-dark-text-decoration:underline">//file.mo7.cc/api/public/bz?idx=3</span><span style="--shiki-light:#A626A4;--shiki-dark:#E06C75">)</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]</span><span style="--shiki-light:#A626A4;--shiki-dark:#E06C75">(</span><span style="--shiki-light:#A626A4;--shiki-light-text-decoration:inherit;--shiki-dark:#C678DD;--shiki-dark-text-decoration:underline">//file.mo7.cc/api/public/bz</span><span style="--shiki-light:#A626A4;--shiki-dark:#E06C75">)</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p><img src="//file.mo7.cc/api/public/bz?idx=1" alt="" loading="lazy"><br>
+<p><img src="//file.mo7.cc/api/public/bz?idx=1" alt="" loading="lazy"><br>
 <img src="//file.mo7.cc/api/public/bz?idx=3" alt="" loading="lazy"><br>
 <img src="//file.mo7.cc/api/public/bz" alt="" loading="lazy"></p>
-<blockquote>
-<p>当 <code>idx</code> 参数小于 1 时，则会随机返回一张壁纸</p>
-</blockquote>
-<h2>api 接口返回当日 json 数据</h2>
-<div class="language-js line-numbers-mode" data-highlighter="shiki" data-ext="js" data-title="js" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">axios</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">({</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  method</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'get'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  url</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> '//file.mo7.cc/api/public/url'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
-<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">  params</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> {},</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">}).</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">then</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">((</span><span style="--shiki-light:#383A42;--shiki-light-font-style:inherit;--shiki-dark:#E06C75;--shiki-dark-font-style:italic">response</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">) </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">=&gt;</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> {</span></span>
-<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">  const</span><span style="--shiki-light:#986801;--shiki-dark:#E5C07B"> imgList</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> =</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B"> response</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E5C07B">data</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">Data</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">;</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">  console</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">log</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">imgList</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span>
-<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">});</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>API 完整地址:<br>
-<a href="https://file.mo7.cc/api/public/url" target="_blank" rel="noopener noreferrer">https://file.mo7.cc/api/public/url</a></p>
-<div class="hint-container info">
-<p class="hint-container-title">相关信息</p>
-<p>程序采用 golang 编写，采用 302 重定向返回图片，流量消耗可以忽略不计。程序定时爬取数据并缓存在内存中，因此可以支持极高的并发。欢迎食用 ~</p>
-</div>
 ]]></content:encoded>
       <enclosure url="https://yaoabcde.github.io/Yao/Yao//file.mo7.cc/api/public/bz?idx=1" type="image/"/>
     </item>

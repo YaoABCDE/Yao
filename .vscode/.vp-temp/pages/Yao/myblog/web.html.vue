@@ -58,6 +58,7 @@
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]npm官方源：https://registry.npmjs.org/</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="_3、时间流程" tabindex="-1"><a class="header-anchor" href="#_3、时间流程"><span>3、时间流程</span></a></h2>
 <p>2024-10-10：发布V1.0.0，网站基本雏形</p>
+<figure><img src="@source/Yao/myblog/Yaoweb.png" alt="本地路径" tabindex="0" loading="lazy"><figcaption>手机端扫码查看</figcaption></figure>
 <div class="hint-container info">
 <p class="hint-container-title">相关信息</p>
 <pre><code>            ————《森海鹿电子》

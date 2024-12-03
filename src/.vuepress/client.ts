@@ -25,7 +25,7 @@ export default defineClientConfig({  //主题预设
     onMounted(() => {});
   },
   rootComponents: [
-    TopNavBeautify,//顶部导航栏相关的美化,包括透明导航栏
+    //TopNavBeautify,//顶部导航栏相关的美化,包括透明导航栏
     //HeroBG,//博客首页的背景美化
     //HeroHitokoto,//博客首页一言的美化
     NavMusic,//导航栏最右侧的音乐按钮

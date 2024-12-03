@@ -10,6 +10,11 @@
   link="https://fanqienovel.com/"
 />
 <VPCard
+  title="海棠小说"
+  logo="https://code.visualstudio.com/assets/icons/file-icons/markdown.svg"
+  link="https://www.hbhmzt.com/"
+/>
+<VPCard
   title="5000言"
   logo="https://code.visualstudio.com/assets/icons/file-icons/markdown.svg"
   link="https://5000yan.com/"

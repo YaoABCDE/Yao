@@ -55,6 +55,27 @@ export const zhNavbar = navbar([
     ]
   },
 
+      //标题
+      {
+        text: '分享',//标题
+        icon: 'start',//图标
+        link: '/Yao', //w位置
+        children: [
+          {
+            text: "[01]电脑相关",icon: "pen-to-square",
+            link: "https://www.yuque.com/yaox/sy8h4b?# 《006-电脑相关》", //语雀
+          },
+          {
+            text: "[02]运维相关",icon: "pen-to-square",
+            link: "https://www.yuque.com/yaox/ooq0w7?# 《007-运维相关》", //语雀
+          },
+          {
+            text: "[03]设计相关",icon: "pen-to-square",
+            link: "https://www.yuque.com/yaox/ic02fz?# 《008-设计相关》", //语雀
+          },
+        ]
+      },
+
   //标题
   {
     text: '收藏',//标题

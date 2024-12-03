@@ -4,8 +4,8 @@ layout: BlogHome
 icon: home
 title: 首页
 heroImage: /YaoPhoto/png/logo3.png  #首页图标
-bgImage: /YaoPhoto/jpg/12.jpg  #白天-首页图片
-bgImageDark: /YaoPhoto/jpg/11.jpg  #黑夜首页图片
+bgImage: /YaoPhoto/jpg/15.jpg  #白天-首页图片
+bgImageDark: /YaoPhoto/jpg/13.jpg  #黑夜首页图片
 #bgImage: //file.mo7.cc/api/public/bz?idx=1 #首页图片
 heroText: YAO  #首页名称
 heroFullScreen: true
@@ -16,9 +16,10 @@ index: false
 #containerClass: mo7-blog-home
 projects:
   - icon: tips
-    name: 淘宝店铺
-    desc: 一些自己做的小玩意
-    link: https://shop413989783.taobao.com/
+    name: Yao网站
+    desc: 主网站，打不开就是服务器又要续费了o(╥﹏╥)o
+    link: https://yaomi.vip
+#link: https://shop413989783.taobao.com/ #我的淘宝页面
 
   - icon: jiansuo
     name: 抖音
@@ -36,9 +37,9 @@ projects:
     link: https://www.yuque.com/yaos
 
   - icon: developer
-    name: Steam主页
-    desc: 加我游戏好友
-    link: https://steamcommunity.com/id/YaoABC/
+    name: 我的咸鱼
+    desc: 一些自己做的小玩意
+    link: https://m.tb.cn/h.TW2vckv?tk=RmkI3FNbDE9
 
   - icon: leetcode
     name: 嘉立创开源

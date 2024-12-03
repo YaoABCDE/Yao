@@ -6,8 +6,8 @@
     <link>https://yaoabcde.github.io/Yao/Yao/</link>
     <description>我欲修仙，快乐齐天</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 03 Dec 2024 08:36:01 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Dec 2024 08:36:01 GMT</lastBuildDate>
+    <pubDate>Tue, 03 Dec 2024 08:55:00 GMT</pubDate>
+    <lastBuildDate>Tue, 03 Dec 2024 08:55:00 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <image>
@@ -30,7 +30,7 @@
       <link>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/SHL.html</link>
       <guid>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/SHL.html</guid>
       <source url="https://yaoabcde.github.io/Yao/Yao/rss.xml">森海鹿工作室</source>
-      <description>森海鹿工作室 一、工作室基本 英文名：Senhai Deer 成立时间：2023-08-08 理念：就做不一样 二、做什么 软件开发、电路设计、3D设计等 三、定制内容 您能看到的任何东西我们都支持定制</description>
+      <description>森海鹿工作室 一、工作室基本 英文名：Senhai Deer 成立时间：2023-08-08 理念：就做不一样 二、做什么 软件开发、电路设计、3D设计等 三、定制内容 您在本网站能看到的东西我们都支持定制</description>
       <pubDate>Wed, 09 Oct 2024 15:37:17 GMT</pubDate>
       <content:encoded><![CDATA[
 <h2>一、工作室基本</h2>
@@ -40,7 +40,7 @@
 <h2>二、做什么</h2>
 <p>软件开发、电路设计、3D设计等</p>
 <h2>三、定制内容</h2>
-<p>您能看到的任何东西我们都支持定制</p>
+<p>您在本网站能看到的东西我们都支持定制</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -160,6 +160,7 @@
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]npm官方源：https://registry.npmjs.org/</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2>3、时间流程</h2>
 <p>2024-10-10：发布V1.0.0，网站基本雏形</p>
+<figure><figcaption>手机端扫码查看</figcaption></figure>
 <div class="hint-container info">
 <p class="hint-container-title">相关信息</p>
 <pre><code>            ————《森海鹿电子》

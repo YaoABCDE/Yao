@@ -5,7 +5,7 @@
   <subtitle>我欲修仙，快乐齐天</subtitle>
   <icon>https://yaoabcde.github.io/Yao/Yao/YaoPhoto/png/logo3.png</icon>
   <logo>https://yaoabcde.github.io/Yao/Yao/YaoPhoto/png/logo2.png</logo>
-  <updated>2024-12-03T08:36:01.761Z</updated>
+  <updated>2024-12-03T08:55:00.155Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://yaoabcde.github.io/Yao/Yao/atom.xml"/>
   <link rel="alternate" href="https://yaoabcde.github.io/Yao/Yao/"/>
@@ -24,7 +24,7 @@
     <title type="text">森海鹿工作室</title>
     <id>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/SHL.html</id>
     <link href="https://yaoabcde.github.io/Yao/Yao/Yao/myblog/SHL.html"/>
-    <updated>2024-10-10T14:59:09.000Z</updated>
+    <updated>2024-12-03T08:54:06.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>一、工作室基本</h2>
 <p>英文名：Senhai Deer<br>
@@ -33,7 +33,7 @@
 <h2>二、做什么</h2>
 <p>软件开发、电路设计、3D设计等</p>
 <h2>三、定制内容</h2>
-<p>您能看到的任何东西我们都支持定制</p>
+<p>您在本网站能看到的东西我们都支持定制</p>
 ]]></summary>
     <content type="html"><![CDATA[
 <h2>一、工作室基本</h2>
@@ -43,7 +43,7 @@
 <h2>二、做什么</h2>
 <p>软件开发、电路设计、3D设计等</p>
 <h2>三、定制内容</h2>
-<p>您能看到的任何东西我们都支持定制</p>
+<p>您在本网站能看到的东西我们都支持定制</p>
 ]]></content>
     <published>2024-10-09T15:37:17.000Z</published>
   </entry>
@@ -106,7 +106,7 @@
     <title type="text">关于本站</title>
     <id>https://yaoabcde.github.io/Yao/Yao/Yao/myblog/web.html</id>
     <link href="https://yaoabcde.github.io/Yao/Yao/Yao/myblog/web.html"/>
-    <updated>2024-10-10T14:59:09.000Z</updated>
+    <updated>2024-12-03T08:54:06.000Z</updated>
     <summary type="html"><![CDATA[
 <h2>1、项目基本</h2>
 <p>使用框架：VuePress2.0.0 R17<br>
@@ -181,6 +181,7 @@
 <span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">![]npm官方源：https://registry.npmjs.org/</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2>3、时间流程</h2>
 <p>2024-10-10：发布V1.0.0，网站基本雏形</p>
+<figure><figcaption>手机端扫码查看</figcaption></figure>
 <div class="hint-container info">
 <p class="hint-container-title">相关信息</p>
 <pre><code>            ————《森海鹿电子》
